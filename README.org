@@ -1,19 +1,24 @@
-La gazette #bluehats est la contribution de la DINSIC au mouvement
+La gazette =#bluehats= est la contribution de la DINSIC au mouvement
 blue hats : elle propose tous les deux mois des informations sur le
 logiciel libre dans et pour l'administration;
 
 Pour vous y inscrire : https://frama.link/bluehats-list
 
-* Numéros
+Voir l'article de lancement sur [[https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/][numerique.gouv.fr]].
+
+* Numéros précédents
 
 - [[file:gazette_bluehat_0.org][Numéro 0]] (01/04/2019)
 
-* Droits
+* Droits et suggestions
+
+Pour toute suggestion de contenu, écrivez à =bluehats@etalab.gouv.fr=.
 
 La gazette #bluehats est publié sous licence Ouverte 2.0.
 
-La gazette #bluehats est une publication DINSIC, 20 avenue de
-Ségur, 75019.
+La gazette #bluehats est une publication DINSIC, 20 avenue de Ségur, 75019.
+
+
 
 
 

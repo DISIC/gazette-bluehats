@@ -1,0 +1,20 @@
+#+title: Gazette #bluehats : la gazette du logiciel libre dans et pour l'administration
+
+La gazette « blue hats » est la contribution de la DINSIC au mouvement
+blue hats.  Pour vous y inscrire : https://frama.link/bluehats-list
+
+* Numéros
+
+- [[file:gazette_bluehat_0.org][Numéro 0]] (01/04/2019)
+- 
+
+* Droits
+
+La gazette #bluehats est publié sous licence Ouverte 2.0.
+
+La gazette #bluehats est une publication DINSIC, 20 avenue de
+Ségur, 75019.
+
+
+
+

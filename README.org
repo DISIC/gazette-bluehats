@@ -18,8 +18,4 @@ La gazette #bluehats est publié sous licence Ouverte 2.0.
 
 La gazette #bluehats est une publication DINSIC, 20 avenue de Ségur, 75019.
 
-
-
-
-
-
+[[file:images/bluehats.jpg]]

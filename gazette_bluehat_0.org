@@ -133,7 +133,7 @@ Prenez une minute pour vérifier que votre organisme public est bien
 listé dans ce fichier et ouvrez une issue ou une pull request si ce
 n'est pas le cas :
 
-https://github.com/DISIC/politique-de-contribution-open-source/blob/master/OrgAccounts
+https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics
 
 L'API doit continuer d'évoluer et voir s'adjoindre une interface de
 navigation.

@@ -1,13 +1,13 @@
 ---
 name: Annonce autour d'un logiciel
-about: Annoncer un événement à venir dans les deux prochains mois
-title: 'Événement : '
+about: Annoncer une mise à jour ou une autre nouvelle concernant un logiciel libre
+title: 'Logiciel : '
 labels: ''
 assignees: 'bzg'
 ---
 
-<!-- Nom de la structure porteuse de l'événement -->
+<!-- URL vers le site du logiciel libre -->
 
-<!-- Description courte de l'événement (qui sera là, pourquoi faire - 7 lignes maximum) -->
+<!-- Description courte de l'annonce (7 lignes maximum) -->
 
-<!-- URL vers le site d'inscription à l'événement -->
+

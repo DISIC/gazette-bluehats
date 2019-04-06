@@ -1,7 +1,7 @@
 ---
 name: Compte-rendu d'un événement
 about: Partager un compte-rendu autour d'un événement
-title: 'Retour : '
+title: 'Compte-rendu : '
 labels: ''
 assignees: 'bzg'
 ---

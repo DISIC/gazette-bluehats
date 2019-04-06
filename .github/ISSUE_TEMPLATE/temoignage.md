@@ -14,4 +14,4 @@ assignees: 'bzg'
 
 <!-- Administration publique concernée par le témoignage -->
 
-<!-- Témoignage (7 lignes maximum) -->
+<!-- Témoignage (12 lignes maximum) -->

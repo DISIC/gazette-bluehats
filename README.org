@@ -1,14 +1,17 @@
 La gazette =#bluehats= est la contribution de la DINSIC au mouvement blue hats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l'administration;
 
-Pour vous y inscrire : https://frama.link/bluehats-list
+Pour vous y inscrire : https://frama.link/gazette-bluehats
 
 Voir l'article de lancement sur [[https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/][numerique.gouv.fr]].
 
 * Contribuez !
 
-Vous pouvez [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-evenement.md&title=%C3%89v%C3%A9nement+%3A+][annoncer un événement]], envoyer le [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=cr-evenement.md&title=Compte-rendu+%3A+][compte-rendu d'un événement]], faire une [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-logiciel.md&title=Logiciel+%3A+][annonce sur un logiciel libre]] particulier ou proposer un [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=temoignage.md&title=T%C3%A9moignage+%3A+][témoignage]].
+Vous pouvez [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-evenement.md&title=%C3%89v%C3%A9nement+%3A+][annoncer un événement]], envoyer le [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=cr-evenement.md&title=Compte-rendu+%3A+][compte-rendu d'un
+événement]], faire une [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-logiciel.md&title=Logiciel+%3A+][annonce sur un logiciel libre]] particulier ou
+proposer un [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=temoignage.md&title=T%C3%A9moignage+%3A+][témoignage]].
 
-Pour toute autre suggestion de contenu, écrivez à =bluehats@etalab.gouv.fr=.
+Pour toute autre suggestion de contenu, écrivez à
+=bluehats@etalab.gouv.fr=.
 
 * Numéros précédents
 
@@ -18,6 +21,7 @@ Pour toute autre suggestion de contenu, écrivez à =bluehats@etalab.gouv.fr=.
 
 La gazette #bluehats est publié sous licence Ouverte 2.0.
 
-La gazette #bluehats est une publication DINSIC, 20 avenue de Ségur, 75019.
+La gazette #bluehats est une publication DINSIC, 20 avenue de
+Ségur, 75019.
 
 [[file:images/bluehats.jpg]]

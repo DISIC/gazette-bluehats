@@ -16,6 +16,7 @@ Pour toute autre suggestion de contenu, écrivez à
 * Numéros précédents
 
 - [[file:gazette_bluehat_0.org][Numéro 0]] (01/04/2019)
+- [[file:gazette_bluehat_1.org][Numéro 1]] (10/06/2019)
 
 * Droits
 

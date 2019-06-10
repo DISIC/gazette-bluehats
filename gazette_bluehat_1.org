@@ -1,3 +1,7 @@
+#+title: [Gazette #bluehats] Le logiciel libre dans, par et pour l'administration publique
+#+author: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr
+#+options: toc:1
+
 La gazette #bluehats est une lettre d'information bimestrielle sur le
 logiciel libre dans, par et pour l'administration publique.  Cette
 gazette est le contribution de la DINSIC au mouvement des #bluehats,
@@ -332,3 +336,14 @@ aux data scientists, pompiers, développeurs, personnels du SAMU,
 
 - linuxfr.org : [[https://linuxfr.org/news/interview-de-bastien-guerry-referent-logiciels-libres-a-la-dinsic][Interview de Bastien Guerry, référent logiciels libres
   à la DINSIC]]
+* Une suggestion ?
+
+Faites-nous en part en répondant tout simplement à ce message, en
+écrivant à [[mailto:bluehats@etalab.gouv.fr][bluehats@etalab.gouv.fr]] ou en [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][ouvrant un ticket]].
+
+Merci d'avance pour vos contributions !
+
+* Désincription
+
+Pour vous désinscrire de la gazette #bluehats, c'est [[https://lists.eig-forever.org/unsubscribe/bluehats@mail.etalab.studio][par ici]].
+

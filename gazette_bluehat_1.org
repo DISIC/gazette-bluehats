@@ -257,7 +257,7 @@ de contrôle d’accès et de fédération d’identité écrit en Perl.
 
 - [[https://linuxfr.org/news/rencontre-communautaire-lemonldap-ng-le-20-juin-2019-a-strasbourg][L'annonce sur linuxfr.org]]
 - La page du projet [[https://lemonldap-ng.org/welcome/][LemonLDAP-ng]]
-- S'inscrire depuis [[https://journeesperl.fr/jp2019/register][cette page]]
+- S'inscrire depuis [[https://framadate.org/rencontre-communautaire-llng-2019][cette page]]
 
 ** Du 19 au 22 juin : les journées PERL à Strasbourg
 

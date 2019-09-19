@@ -173,7 +173,7 @@ Vous connaissez des personnes qui contribuent à des logiciels libres
 développés ou utilisés dans l'administration ?  Offrez-leur un chapeau
 bleu et invitez-les à s'inscrire à cette gazette !
 
-https://frama.link/bluehats-list
+https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio
 
 * Une suggestion ? Une nouvelle à partager ?
 

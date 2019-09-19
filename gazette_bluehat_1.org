@@ -7,7 +7,7 @@ logiciel libre dans, par et pour l'administration publique.  Cette
 gazette est le contribution de la DINSIC au mouvement des #bluehats,
 les hackers d'intérêt général.
 
-Vous pouvez vous y inscrire [[https://frama.link/gazette-bluehats][depuis ce lien]], lire les gazettes
+Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], lire les gazettes
 précédentes [[https://github.com/DISIC/gazette-bluehats][depuis ce dépôt]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les
 prochaines éditions.
 
@@ -345,5 +345,5 @@ Merci d'avance pour vos contributions !
 
 * Désincription
 
-Pour vous désinscrire de la gazette #bluehats, c'est [[https://lists.eig-forever.org/unsubscribe/bluehats@mail.etalab.studio][par ici]].
+Pour vous désinscrire de la gazette #bluehats, c'est [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][par ici]].
 

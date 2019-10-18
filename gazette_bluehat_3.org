@@ -1,0 +1,203 @@
+#+title: [Gazette #bluehats] Le logiciel libre dans, par et pour l'administration publique
+#+author: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr
+#+options: html-postamble:nil html-preamble:nil toc:1
+
+La gazette #bluehats est une lettre d'information bimestrielle sur le logiciel libre dans, par et pour l'administration publique.  Cette gazette est le contribution de la DINSIC au mouvement des #bluehats, les hackers d'intérêt général.
+
+Vous pouvez vous [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][inscrire]], [[https://github.com/DISIC/gazette-bluehats][lire les gazettes précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]].
+
+* Focus sur la Gendarmerie nationale et le logiciel libre
+
+** L'exemple d'une migration à grande échelle vers le libre
+
+Le lieutenant-colonel Stéphane Dumond, chef de bureau IT du [[https://fr.wikipedia.org/wiki/Service_des_technologies_et_des_syst%C3%A8mes_d%27information_de_la_S%C3%A9curit%C3%A9_int%C3%A9rieure][Service des Technologies et des Systèmes d'Information de la Sécurité Intérieure (ST(SI)²)]], était l'invité de l'émission de l'April [[https://april.org/libre-a-vous][« Libre à vous ! »]] sur la [[https://cause-commune.fm/][radio Cause Commune]]. Stéphane Dumond a notamment conduit le projet d'industrialisation de la migration vers un système libre sur le poste de travail des gendarmes. Dans cette émission, il relate l'histoire de la migration (serveurs Debian, système de gestion de bases de données MySQL, Ubuntu sur les postes de travail, etc.) et explique les conditions de son succès :
+
+#+BEGIN_QUOTE
+  « La migration vers le logiciel libre en Gendarmerie est intervenue [...] au début des années 2000, parce qu'on a eu la convergence de trois éléments qui sont intervenus de manière simultanée et qui ont conduit à cette migration à grande échelle : tout d'abord une contrainte budgétaire ; ensuite, il faut une prise de conscience que continuer à rester dans le domaine du monde propriétaire conduit inévitablement, à partir du moment où on n'a plus suffisamment d'argent, à une perte de dépendance, une perte de souveraineté [...] ; enfin, [...] il faut que les grands chefs, à commencer par le DSI (le Directeur des systèmes d'information), [...] ainsi que le Directeur général, soient à la fois promoteurs, sponsors et [viennent] en soutien des équipes techniques pour que la migration continue à bien se passer au fil des années, parce que vous verrez qu'une migration vers le logiciel libre c'est [un travail] de très longue haleine. » 
+#+END_QUOTE
+
+*>* Réécoutez [[https://april.org/libre-a-vous-diffusee-mardi-3-septembre-2019-sur-radio-cause-commune][le podcast]] est disponible sur le site de l'APRIL.
+
+** LemonLDAP::NG : un Web-SSO pour l'administration
+
+[[https://lemonldap-ng.org/welcome/][LemonLDAP::NG]] est un [[https://fr.wikipedia.org/wiki/Authentification_unique][Web-SSO]] qui implémente de nombreux protocoles de fédération d'identités tels que [[https://fr.wikipedia.org/wiki/Security_assertion_markup_language][SAML]], [[https://fr.wikipedia.org/wiki/Central_Authentication_Service][CAS]] ou encore [[https://fr.wikipedia.org/wiki/OpenID_Connect][OpenID-Connect]], protocole implémenté dans le cadre du dispositif [[https://fr.wikipedia.org/wiki/FranceConnect][FranceConnect]].
+
+Au début des années 2000, la Gendarmerie nationale et le ministère des Finances décident concomitamment de déployer un SSO. Le ministère des Finances développe à cet effet un logiciel libre nommé LemonLDAP. La Gendarmerie nationale, ayant des besoins plus complexes, adopte dans un premier temps un logiciel propriétaire. Face au coût et au manque de souplesse engendrés par la solution propriétaire, elle abandonne cette solution pour se saisir du code source de LemonLDAP et le réécrire afin de l'adapter à ses besoins. En 2005, la première version complète de LemonLDAP::NG (fork de LemonLDAP) est publiée en /open source/.
+
+Hébergée par la [[https://www.ow2.org/][fondation OW2]], la communauté LemonLDAP::NG associe le Service des technologies et des systèmes d'information de la Sécurité intérieure (ou [[https://fr.wikipedia.org/wiki/Service_des_technologies_et_des_syst%C3%A8mes_d%27information_de_la_S%C3%A9curit%C3%A9_int%C3%A9rieure][ST(SI)²]]) et plusieurs entreprises parmi lesquelles [[https://www.worteks.com/fr/][Worteks]], [[https://linagora.com/][Linagora]] ou encore Openside. Reposant initialement sur des financements publics, le projet perçoit également des financements privés d'[[https://www.orange.fr/portail][Orange]] (qui est également client), de Linagora, et d'autres. Aujourd'hui, les deux principaux contributeurs au SSO sont le ST(SI)² ainsi que Worteks.
+
+LemonLDAP::NG s'est progressivement diffusé dans l'administration, faisant ainsi réaliser plusieurs dizaines de millions d'euros d'économies par an, en comparaison avec le leader du marché, [[https://www.forgerock.com/platform/access-management/sso][Forgerock]].  Aujourd'hui, LemonLDAP::NG est utilisé par l'ensemble des ministères français (à une exception près) ainsi que par de nombreuses collectivités territoriales.
+
+* Nouveaux services, nouveaux outils, nouveaux codes sources
+
+** Etalab lance le site code.etalab.gouv.fr
+
+Dans le cadre de la politique de contribution de l'État aux logiciels libres, la DINSIC collecte la liste des comptes d'organisation et des forges via lesquelles des organismes publics partagent des codes sources.
+
+Etalab a lancé le site [[https://code.etalab.gouv.fr][code.etalab.gouv.fr]] qui permet de parcourir la liste de ces comptes et des dépôts de codes sources publiés.
+
+[[https://www.etalab.gouv.fr/code-etalab-gouv-fr-les-codes-sources-de-logiciels-publies-par-des-organismes-publics][Lire le blogpost d'Etalab]] et [[https://twitter.com/Etalab/status/1181857984030351360][relayez le tweet d'annonce]].
+
+La presse en parle : sur [[https://www.nextinpact.com/brief/--code-etalab-gouv-fr----portail-officiel-des-codes-sources-publics-9927.htm][Nextinpact]], [[https://www.lemondeinformatique.fr/actualites/lire-les-codes-sources-des-logiciels-du-secteur-public-publies-76714.html][lemondeinformatique]], [[https://www.silicon.fr/etalab-codes-sources-secteur-public-263325.html][silicon.fr]], [[https://www.acteurspublics.fr/articles/letat-ouvre-son-portail-unique-pour-recenser-tous-les-logiciels-libres-du-secteur-public][Acteurs publics]], [[https://www.developpez.com/actu/280332/France-Code-etalab-gouv-fr-est-le-nouveau-portail-officiel-des-codes-sources-publics-lance-par-la-mission-Etalab-pour-consolider-ses-efforts-dans-l-application-des-directives-de-l-Open-Data/][developpez.com]], [[https://linuxfr.org/news/une-plate-forme-recensant-les-codes-sources-de-logiciels-publies-par-des-organismes-publics-francais][linuxfr.org]] et [[https://www.les-infostrateges.com/actu/une-plateforme-qui-recence-les-codes-sources-ouverts-par-des-organismes-publics][les-infostrateges.com]].
+
+** La webconférence interministérielle avec l'outil libre Jitsi
+
+Le [[https://webconf.numerique.gouv.fr][nouveau système interministériel de webconférence]] est proposé par la DINSIC, hébergé et opéré par le ministère de la Transition écologique et solidaire, officiellement mis en production depuis mi-septembre.
+
+Cette solution de webconférence s'appuie sur la solution libre [[https://jitsi.org/][Jitsi]] pour proposer un service accessible avec un simple navigateur web, permettant à tous les agents de l'État d'ouvrir des conférences et d'inviter des partenaires extérieurs (opérateurs, collectivités, citoyens, entreprises).
+
+[[https://webconf.numerique.gouv.fr/][Accéder à la webconférence interministérielle.]]
+
+** DFIR ORC : un outil de collecte libre pour l'analyse forensique
+
+Conçu en 2011 pour répondre aux missions opérationnelles de l'agence nationale de sécurité des systèmes d'information (ANSSI) en matière d'investigation et de réponse à un incident, le logiciel DFIR ORC (pour Outil de recherche de compromission) n'a cessé d'évoluer pour regrouper un ensemble d'outils qui permettent la recherche, l'extraction et la mise à disposition de données forensiques dans un environnement Microsoft Windows... à l'échelle d'un parc entier !  L'outil, intégralement libre, est aujourd'hui publié par l'agence à l'usage des acteurs et des professionnels de la communauté.
+
+Pour plus d'information, [[https://www.ssi.gouv.fr/actualite/decouvrez-dfir-orc-un-outil-de-collecte-libre-pour-lanalyse-forensique/][consultez la note d'actualité de l'ANSSI]] ainsi que le [[https://github.com/dfir-orc][dépôt GitHub]] du logiciel.
+
+** OpenCTI : un outil libre pour traiter et partager la connaissance en matière de cybermenace
+
+Le projet OpenCTI (Open Cyber Threat Intelligence) a été initié en septembre 2018 par l'ANSSI et co-développé avec le CERT-EU en l'absence de solutions complètement appropriées pour structurer, stocker, organiser, visualiser et partager la connaissance de l'ANSSI en matière de cybermenace, à tous les niveaux.
+
+Ces informations sont exploitées par l'agence pour mener à bien ses activités de cyberdéfense. Elles sont également diffusées aux interlocuteurs privilégiés de l'agence (CSIRT, agences de cybersécurité, etc.) à l'échelle nationale et internationale.
+
+La mise à disposition de l'outil OpenCTI, en /open source/ (licence GNU Affero v3) et prêt à l'emploi, permet aujourd'hui de faire bénéficier tous les intéressés de l'ensemble des fonctionnalités de cette application, qui respecte les standards en matière de modèle de menace.
+
+*>* Pour plus d'information, [[https://www.ssi.gouv.fr/actualite/opencti-la-solution-libre-pour-traiter-et-partager-la-connaissance-de-la-cybermenace/][consultez la note d'actualité]] publiée par l'ANSSI, ainsi que le [[https://github.com/OpenCTI-Platform/opencti][dépôt GitHub]].
+
+** Une application libre sur les énergies renouvelables de réseaux
+
+L'Observatoire de la Transition Écologique et la DREAL des Pays de la Loire publient une nouvelle [[http://apps.datalab.pays-de-la-loire.developpement-durable.gouv.fr/enr_reseaux_teo/][application libre de visualisation et de téléchargement]] de données relatives aux énergies renouvelables de réseaux.
+
+*>* Les scripts de collecte et de datavisualisation sont disponibles dans le [[https://gitlab.com/dreal-datalab/poc-enr-teo][dépôt GitLab]] du DREAL datalab.
+
+** CARTElette : Création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
+
+Le package CARTElette vient en complément du package R [[https://github.com/antuki/COGugaison][antuki/COGugaison]] qui a pour objectifs de manipuler des données communales produites à différents millésimes et de les agréger à différents niveaux supra-communaux.
+
+Il s'agit désormais de créer des couches cartographiques (communales et supra-communales) qui correspondent à la situation du découpage des territoires français (communes et niveaux supra-communaux, France et Outre-mer) au 1er janvier de chaque année (date de référence du code officiel géographique).
+
+*>* Pour plus d'information, consultez [[https://www.data.gouv.fr/fr/reuses/cartelette-creation-de-couches-cartographiques-a-partir-du-code-officiel-geographique-cog-et-des-couches-ign/][la note publiée sur data.gouv.fr]], ainsi que le [[https://github.com/antuki/CARTElette][dépôt GitHub]].
+
+** Bercy ouvre le code source de la taxe foncière
+
+La direction générale des finances publiques (DGFiP) a publiée le code source utilisé pour le calcul de la taxe foncière.  Pour en savoir plus, consultez l'annonce sur [[https://www.impots.gouv.fr/portail/ouverture-des-donnees-publiques-de-la-dgfip][impots.gouv.fr]] ainsi que le [[https://github.com/etalab/taxe-fonciere][dépôt de code source sur GitHub]].
+
+* Retour utilisateur sur la solution Proxmox
+
+Dans son article de blog « [[https://si.ecrins-parcnational.com/blog/2019-03-proxmox.html][Une balade du coté de... Proxmox]] », le SI du Parc national des Écrins revient sur la migration vers [[https://www.proxmox.com/en/][Proxmox]], une plate‐forme de gestion de virtualisation libre.
+
+#+BEGIN_QUOTE
+  « Le Parc national des Ecrins disposait depuis 2014 de 2 hyperviseurs VMware ESXI 5.5 hébergés chez OVH. Ces 2 machines accueillaient une quinzaine de serveurs linux sous forme de machines virtuelles.
+
+  Le choix de fonctionner avec une licence VMware gratuite présentait certaines limitations. Notamment l'impossibilité de sauvegarder ou de cloner à chaud les VM. L'outil vSphere (5.5) permettant de gérer l'hyperviseur ne fonctionne que sous windows ; une difficulté supplémentaire pour notre petite équipe qui a migré ses postes de travail sous Linux.
+
+  À l'occasion du renouvellement de ces machines vieillissantes, nous nous sommes posé la question de rester sous ESXI ou de tenter une autre aventure. Notre petite équipe n'ayant pas beaucoup de temps à consacrer aux serveurs, il fallait une solution éprouvée et nous permettant de remonter les VM existantes telles quelles. Migrer l'ensemble de notre architecture hébergée n'est pas une mince affaire.
+
+  La technologie Proxmox est mûre. Elle est libre (licence AGPLv3) et basée sur l'hyperviseur Linux KVM. Elle propose également une solution de containers LXC qui était en cours d'évaluation sur nos postes de travail. »
+#+END_QUOTE
+
+*>* Retrouvez [[https://si.ecrins-parcnational.com/blog/2019-03-proxmox.html][l'intégralité du blogpost]].
+
+* Candidatez au label « Territoire Numérique Libre »
+
+Le label Territoire Numérique Libre est une initiative de l'ADULLACT, en partenariat avec d'autres associations et institutions reconnues pour leur action en faveur du logiciel libre et la promotion du numérique citoyen dans les collectivités territoriales : [[https://aful.org/][AFUL]], [[https://april.org/][APRIL]], [[https://pole-aquinetic.fr/][Pôle Aquinetic]] et la DINSIC.  Le label Territoire Numérique Libre encourage les usages numériques libres, citoyens et collaboratifs, et s'adresse à toutes les collectivités territoriales françaises : villes et villages, mais aussi établissements publics de collaboration intercommunale (EPCI), départements et régions.
+
+*>* [[https://territoire-numerique-libre.org/candidature-2019/][En savoir plus et canditatez avant le 20 octobre à minuit]]
+
+* Événements
+
+** 24 octobre : COMET-CNES (Toulouse) Comment valoriser par l'open source ?
+
+Dans un contexte d'acteurs du spatial, cette journée se propose d'éclairer les relations entre /open source/, valorisation, recherche et mutualisation en s'appuyant sur la présentation d'une étude réalisée pour le CNES sur la valorisation des Logiciels Libres, des retours d'acteurs publics et privés impliqués dans des écosystèmes ouverts et des retours d'expérience de projets /open source/ du CNES.
+
+> [[https://www.comet-cnes.fr/evenements/comment-valoriser-par-lopensource][Détails et inscriptions]]
+
+** 7 et 8 novembre : Rencontres Geotrek (Nîmes)
+
+Dans la continuité des précédentes Rencontres, le Comité de pilotage de [[http://geotrek.fr/][Geotrek]] ([[https://github.com/GeotrekCE?language=html][dépôt de code]]) - une suite logicielle de webmapping, composée d'un outil métier SIG, d'un site internet et d'une application mobile - propose aux utilisateurs et aux partenaires intéressés par l'outil de se réunir pour partager des retours d'expérience, découvrir les nouveautés et participer à des ateliers.
+
+*>* [[https://geotrek.ecrins-parcnational.fr/rencontres/2019/Rencontres-Geotrek-2019-Programme.pdf][Lire le *programme en PDF]]* et rendez-vous sur [[https://framaforms.org/inscription-rencontres-geotrek-2019-1569231468][la page d'inscription]] avant le 22 octobre*.
+
+** 19 et 20 novembre : Sprint /open source/ #bluehats (Paris)
+
+Venez contribuer aux logiciels libres de l'État et rejoignez le mouvement #bluehats !
+
+Le Lab 110 bis et la DINSIC organisent un « Sprint /open source/ » les 19 et 20 novembre 2019.  Deux jours pour découvrir et contribuer à des projets ouverts de l'administration et d'ailleurs.
+
+*>* [[https://framaforms.org/sprint-open-source-du-lab-110bis-et-de-la-dinsic-les-19-et-20-novembre-2019-1571036385][Inscrivez-vous via ce formulaire]] ! Entrée libre et gratuite, mais les places sont limitées.
+
+** 26 novembre : Le libre sur la Place 2019 (Nancy)
+
+Dans le cadre de la semaine de l'innovation, le logiciel libre est à l'honneur le 26 novembre 2019 : venez écouter les retours d'administrations qui ont fait le pari du libre !
+
+*>* [[https://www.eventbrite.fr/e/inscription-le-libre-sur-la-place-2019-73282775755][Inscription via ce site]].
+
+** 10 et 11 décembre : Paris Open Source Summit et #bluehats
+
+Le grand rendez-vous européen des innovations et des technologies /open source/ est de retour pour une 5e édition.  Associant experts internationaux, entreprises, startups et PME leaders de leur domaine et des communautés emblématiques, le Paris Open Source Summit (POSS) devient cette année le hub /open source/ de l'intelligence artificielle, des infrastructures distribuées, de la cybersécurité, de l'embarqué pour deux journées de conférences inédites.
+
+*>* [[https://2019.opensourcesummit.paris/][Plus d'information sur le site de l'événement]]
+
+Le POSS 2018 a été l'occasion pour la DINSIC de [[https://www.numerique.gouv.fr/agenda/lancement-rejoignez-la-communaute-blue-hats-hackers-dinteret-general/][lancer le mouvement #bluehats]].  Cette année, la DINSIC envisage une nouvelle participation à travers des « conférences éclair » et des ateliers contributifs autour de compétences et technologies spécifiques.
+
+*>* [[https://pad.etalab.studio/IOTFNnlGR_uyRZTIGQmVVg#][Proposez des interventions]] et [[https://pad.etalab.studio/eYURdv_LS0y1s_oNPWkHPw#][indiquez les domaines techniques]] sur lesquels vous voulez échanger !
+
+* Brèves
+
+- La licence CeCiLL v2.1, figurant parmi les [[https://www.data.gouv.fr/fr/licences][licences homologuées]] lorsqu'une administration veut publier du code source, est entrée dans la liste. Cette licence a intégré la liste des licences présentées par [[https://choosealicense.com][choosealicense.com]] - voir sa description [[https://choosealicense.com/licenses/cecill-2.1/][ici]] et [[https://choosealicense.com/appendix/][ce tableau comparatif]] de l'ensemble des licences libres.
+
+- [[https://ec.europa.eu/info/departments/informatics/eu-fossa-2_en][EU FOSSA 2]] est une initative de la commission européenne pour soutenir des logiciels libres critiques. Elle a été lancée sur l'impulsion du Parlement européen après la découverte de bug de sécurité Heartbleed en 2014. EU FOSSA 2 lance un questionnaire en anglais autour de l'/open source/. Cela vous prendra dix minutes environ : [[https://ec.europa.eu/eusurvey/runner/EUFOSSA2-Survey][voir le questionnaire]].
+
+- Dans le cadre des travaux autour des prestations d’expertise et de développements d’évolutions de logiciels libres existants, la DINSIC souhaite interroger les écosystèmes du logiciel libre, autant les fournisseurs que les autres clients/utilisateurs.  [[https://forum.etalab.gouv.fr/t/expertise-logiciels-libres-segmentation-par-domaines/4537][Lire la suite sur le forum d'Etalab]].
+
+- La communauté #bluehats est désormais présente dans un salon public de [[https://www.tchap.gouv.fr/#/room/#BlueHats21LW8XE:agent.dinum.tchap.gouv.fr][Tchap]] et dans le [[https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats][Hub des communautés]] de la DITP.  Rejoignez-nous !
+
+- Etalab publie un [[https://guide-juridique-logiciel-libre.etalab.gouv.fr/][guide juridique interactif]] sur la publication des logiciels de l'administration en open data.
+
+- Etalab a réactivé son canal de discussion IRC pour permettre à tout le monde d'échanger avec l'équipe technique : rendez-vous via l'interface web de [[https://riot.im/app/#/room/#freenode_#etalab:matrix.org][riot]] ou via le canal =#etalab= sur le serveur =irc.freenode.net=.
+
+- [[https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-en-developpement-et-deploiement-d-applications-fh-reference-2019-266319][Le CCSD recrute pour le développement de HAL]], le logiciel qui fait tourner la plateforme de partage des publications scientifiques en /open access/ : voir et relayer [[https://www.linkedin.com/feed/update/urn:li:activity:6582600558610305024/][l'annonce sur LinkedIn]].
+
+- Le [[https://speakerdeck.com/bluehats/demarche-apisation]\]][ministère de l'Agriculture partage une étude sur les préconisations relatives à la démarche d'APIsation]].
+
+* Revue de presse
+
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/technological-sovereignty][France's Gendarmerie: “Freedom of choice is priceless”]] (joinup.ec.europa.eu, 09/2019)
+
+- [[https://www.nextinpact.com/news/108156-le-ministere-linterieur-migre-sur-solution-libre-nextcloud.htm][Le ministère de l'Intérieur migre sur la solution libre Nextcloud]] (www.nextinpact.com, 08/2019)
+
+- [[https://www.nextinpact.com/brief/l-etat-renouvelle-son-referentiel-general-d-accessibilite-9847.htm][L'État renouvelle son Référentiel général d'accessibilité]] (www.nextinpact.com, 10/2019)
+
+- [[https://lagazette-ladefense.fr/2019/06/19/budget-participatif-la-mairie-choisit-lopen-source/][Budget participatif : la mairie choisit l'open source]] (lagazette-ladefense.fr, 06/2019)
+
+- [[https://www.zdnet.fr/actualites/la-dependance-des-autorites-allemandes-a-microsoft-pose-question-39890935.htm][La dépendance des autorités allemandes à Microsoft pose question]] (zdnet.fr, 09/2019)
+
+- [[https://www.cio-online.com/actualites/lire-jean-severin-lair-dinsic-%C2%A0-%C2%A0tout-le-monde-est-concerne-par-l-archivage%C2%A0-11301.html][Jean-Séverin Lair (DINSIC) : « Tout le monde est concerné par l'archivage »]] (06/2019)
+
+- [[https://www.lagazettedescommunes.com/640150/les-logiciels-open-source-ouvrent-a-des-gestions-plus-libres/][Les logiciels open source ouvrent à des gestions plus libres]] (lagazettedescommunes.com, 10/2019)
+
+- [[https://www.usine-digitale.fr/article/tribune-contrat-parasitisme-et-logiciel-libre.N871845][Contrat, parasitisme et logiciel libre]] (usine-digitale.fr, 07/2019)
+
+- [[https://droit.developpez.com/actu/278780/Le-Senat-inscrit-l-obsolescence-programmee-logicielle-dans-le-projet-de-loi-pour-une-economie-circulaire-en-rejetant-toutefois-les-amendements-les-plus-concrets/][Le Sénat inscrit l'obsolescence programmée logicielle dans le projet de loi pour une économie circulaire]] (developpez.com, 09/2019)
+
+- [[http://www.senat.fr/rap/r19-007-1/r19-007-1.html][Rapport de la commission d'enquête du Sénat sur la souveraineté numérique]] (senat.fr, 10/2019)
+
+- [[https://www.zdnet.fr/actualites/le-cern-delaisse-microsoft-pour-le-logiciel-libre-39885945.htm][Le CERN délaisse Microsoft pour le logiciel libre]] (zdnet.fr, 06/2019)
+
+- [[https://framablog.org/2019/09/24/deframasoftisons-internet/][Déframasoftisons Internet !]] (framablog.org, 09/2019)
+
+- [[https://www.nextinpact.com/news/108152-bercy-ouvre-code-source-taxe-fonciere.htm][Bercy ouvre le code source de la taxe foncière]] (nextinpact.com, 08/2019)
+
+- [[https://nextcloud.com/blog/french-universities-and-research-organizations-get-nextcloud/][French universities and research organizations get access to Nextcloud]] (nextcloud.com, 16 octobre 2019)
+
+* Une suggestion ?
+
+Faites-nous en part en répondant tout simplement à ce message, en écrivant à bluehats@etalab.gouv.fr ou en ouvrant un ticket.
+
+Merci d'avance pour vos contributions !
+
+* Désincription
+
+Pour vous désinscrire de la gazette #bluehats, c'est [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][par ici]].
+
+Auteur: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr

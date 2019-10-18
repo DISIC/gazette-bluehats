@@ -15,7 +15,7 @@ Pour toute autre suggestion de contenu, écrivez à =bluehats@etalab.gouv.fr=.
 - [[file:gazette_bluehat_0.org][Numéro 0]] (01/04/2019)
 - [[file:gazette_bluehat_1.org][Numéro 1]] (10/06/2019)
 - Numéro 2 : pause estivale
-- Numéro 3 (01/10/2019) : à venir
+- [[file:gazette_bluehat_3.org][Numéro 3]] (17/10/2019)
 
 * Conditions générales d'utilisation
 

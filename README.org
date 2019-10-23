@@ -19,7 +19,7 @@ Pour toute autre suggestion de contenu, écrivez à =bluehats@etalab.gouv.fr=.
 
 * Conditions générales d'utilisation
 
-L'inscription à la gazette bluehats est libre.  L'adresse email partagée à l'[inscription](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio) n'est partagée avec personne.  Vous pouvez à tout moment vous [désinscrire](https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio).
+L'inscription à la gazette bluehats est libre.  L'adresse email partagée à l'[[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][inscription]] n'est partagée avec personne.  Vous pouvez à tout moment vous [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][désinscrire]].
 
 * Droits
 

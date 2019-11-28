@@ -158,7 +158,7 @@ Le POSS 2018 a été l'occasion pour la DINSIC de [[https://www.numerique.gouv.f
 
 - [[https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-en-developpement-et-deploiement-d-applications-fh-reference-2019-266319][Le CCSD recrute pour le développement de HAL]], le logiciel qui fait tourner la plateforme de partage des publications scientifiques en /open access/ : voir et relayer [[https://www.linkedin.com/feed/update/urn:li:activity:6582600558610305024/][l'annonce sur LinkedIn]].
 
-- Le [[https://speakerdeck.com/bluehats/demarche-apisation]\]][ministère de l'Agriculture partage une étude sur les préconisations relatives à la démarche d'APIsation]].
+- Le [[https://speakerdeck.com/bluehats/demarche-apisation][ministère de l'Agriculture partage une étude sur les préconisations relatives à la démarche d'APIsation]].
 
 * Revue de presse
 

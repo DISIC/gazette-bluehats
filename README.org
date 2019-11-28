@@ -1,4 +1,4 @@
-La gazette =#bluehats= est la contribution de la DINSIC au mouvement blue hats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l'administration.
+La gazette =#BlueHats= est la contribution de la DINSIC au mouvement blue hats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l'administration.
 
 Pour vous y inscrire : https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio
 
@@ -19,12 +19,12 @@ Pour toute autre suggestion de contenu, écrivez à =bluehats@etalab.gouv.fr=.
 
 * Conditions générales d'utilisation
 
-L'inscription à la gazette bluehats est libre.  L'adresse email partagée à l'[[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][inscription]] n'est partagée avec personne.  Vous pouvez à tout moment vous [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][désinscrire]].
+L'inscription à la gazette #BlueHats est libre.  L'adresse email partagée à l'[[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][inscription]] n'est partagée avec personne.  Vous pouvez à tout moment vous [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][désinscrire]].
 
 * Droits
 
-La gazette #bluehats est publié sous licence Ouverte 2.0.
+La gazette #BlueHats est publié sous licence Ouverte 2.0.
 
-La gazette #bluehats est une publication DINSIC, 20 avenue de Ségur, 75019.
+La gazette #BlueHats est une publication DINSIC, 20 avenue de Ségur, 75019.
 
 [[file:images/bluehats.jpg]]

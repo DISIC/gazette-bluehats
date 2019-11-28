@@ -1,8 +1,8 @@
-#+title: [Gazette #bluehats] Le logiciel libre dans, par et pour l'administration publique
+#+title: [Gazette #BlueHats] Le logiciel libre dans, par et pour l'administration publique
 #+author: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr
 #+options: html-postamble:nil html-preamble:nil toc:1
 
-La gazette #bluehats est une lettre d'information bimestrielle sur le logiciel libre dans, par et pour l'administration publique.  Cette gazette est le contribution de la DINSIC au mouvement des #bluehats, les hackers d'intérêt général.
+La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel libre dans, par et pour l'administration publique.  Cette gazette est le contribution de la DINSIC au mouvement des #BlueHats, les hackers d'intérêt général.
 
 Vous pouvez vous [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][inscrire]], [[https://github.com/DISIC/gazette-bluehats][lire les gazettes précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]].
 
@@ -118,9 +118,9 @@ Dans la continuité des précédentes Rencontres, le Comité de pilotage de [[ht
 
 *>* [[https://geotrek.ecrins-parcnational.fr/rencontres/2019/Rencontres-Geotrek-2019-Programme.pdf][Lire le *programme en PDF]]* et rendez-vous sur [[https://framaforms.org/inscription-rencontres-geotrek-2019-1569231468][la page d'inscription]] avant le 22 octobre*.
 
-** 19 et 20 novembre : Sprint /open source/ #bluehats (Paris)
+** 19 et 20 novembre : Sprint /open source/ #BlueHats (Paris)
 
-Venez contribuer aux logiciels libres de l'État et rejoignez le mouvement #bluehats !
+Venez contribuer aux logiciels libres de l'État et rejoignez le mouvement #BlueHats !
 
 Le Lab 110 bis et la DINSIC organisent un « Sprint /open source/ » les 19 et 20 novembre 2019.  Deux jours pour découvrir et contribuer à des projets ouverts de l'administration et d'ailleurs.
 
@@ -132,13 +132,13 @@ Dans le cadre de la semaine de l'innovation, le logiciel libre est à l'honneur 
 
 *>* [[https://www.eventbrite.fr/e/inscription-le-libre-sur-la-place-2019-73282775755][Inscription via ce site]].
 
-** 10 et 11 décembre : Paris Open Source Summit et #bluehats
+** 10 et 11 décembre : Paris Open Source Summit et #BlueHats
 
 Le grand rendez-vous européen des innovations et des technologies /open source/ est de retour pour une 5e édition.  Associant experts internationaux, entreprises, startups et PME leaders de leur domaine et des communautés emblématiques, le Paris Open Source Summit (POSS) devient cette année le hub /open source/ de l'intelligence artificielle, des infrastructures distribuées, de la cybersécurité, de l'embarqué pour deux journées de conférences inédites.
 
 *>* [[https://2019.opensourcesummit.paris/][Plus d'information sur le site de l'événement]]
 
-Le POSS 2018 a été l'occasion pour la DINSIC de [[https://www.numerique.gouv.fr/agenda/lancement-rejoignez-la-communaute-blue-hats-hackers-dinteret-general/][lancer le mouvement #bluehats]].  Cette année, la DINSIC envisage une nouvelle participation à travers des « conférences éclair » et des ateliers contributifs autour de compétences et technologies spécifiques.
+Le POSS 2018 a été l'occasion pour la DINSIC de [[https://www.numerique.gouv.fr/agenda/lancement-rejoignez-la-communaute-blue-hats-hackers-dinteret-general/][lancer le mouvement #BlueHats]].  Cette année, la DINSIC envisage une nouvelle participation à travers des « conférences éclair » et des ateliers contributifs autour de compétences et technologies spécifiques.
 
 *>* [[https://pad.etalab.studio/IOTFNnlGR_uyRZTIGQmVVg#][Proposez des interventions]] et [[https://pad.etalab.studio/eYURdv_LS0y1s_oNPWkHPw#][indiquez les domaines techniques]] sur lesquels vous voulez échanger !
 
@@ -150,7 +150,7 @@ Le POSS 2018 a été l'occasion pour la DINSIC de [[https://www.numerique.gouv.f
 
 - Dans le cadre des travaux autour des prestations d’expertise et de développements d’évolutions de logiciels libres existants, la DINSIC souhaite interroger les écosystèmes du logiciel libre, autant les fournisseurs que les autres clients/utilisateurs.  [[https://forum.etalab.gouv.fr/t/expertise-logiciels-libres-segmentation-par-domaines/4537][Lire la suite sur le forum d'Etalab]].
 
-- La communauté #bluehats est désormais présente dans un salon public de [[https://www.tchap.gouv.fr/#/room/#BlueHats21LW8XE:agent.dinum.tchap.gouv.fr][Tchap]] et dans le [[https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats][Hub des communautés]] de la DITP.  Rejoignez-nous !
+- La communauté #BlueHats est désormais présente dans un salon public de [[https://www.tchap.gouv.fr/#/room/#BlueHats21LW8XE:agent.dinum.tchap.gouv.fr][Tchap]] et dans le [[https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats][Hub des communautés]] de la DITP.  Rejoignez-nous !
 
 - Etalab publie un [[https://guide-juridique-logiciel-libre.etalab.gouv.fr/][guide juridique interactif]] sur la publication des logiciels de l'administration en open data.
 
@@ -198,6 +198,6 @@ Merci d'avance pour vos contributions !
 
 * Désincription
 
-Pour vous désinscrire de la gazette #bluehats, c'est [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][par ici]].
+Pour vous désinscrire de la gazette #BlueHats, c'est [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][par ici]].
 
 Auteur: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr

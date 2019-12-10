@@ -203,7 +203,7 @@ les rencontres Geotrek 2019]].
 - [[https://cryptonaute.fr/lunicef-lance-crypto-fonds-soutenir-technologies-open-source/][L'UNICEF lance un crypto-fonds pour financer des technologies open source]]
 - [[https://www.nextinpact.com/news/108288-vincent-strubel-nous-parle-politique-open-source-anssi.htm][Vincent Strubel nous parle de la politique open source de l'ANSSI]]
 - [[https://www.linkedin.com/pulse/coll%C3%A8ges-sib-ille-et-vilaine-cloud-s%C3%A9curit%C3%A9-byod-nouveaux-thomas][Collèges / SIB / Ille et Vilaine : cloud, sécurité, BYOD, nouveaux usages]]
-- [[https://datanews.levif.be/ict/actualite/le-registre-national-tourne-desormais-sur-linux/article-news-1205079.html?cookie_check=1571427331][Le Registre national [belge] tourne désormais sur Linux]]
+- [[https://datanews.levif.be/ict/actualite/le-registre-national-tourne-desormais-sur-linux/article-news-1205079.html][Le Registre national belge tourne désormais sur Linux]]
 - [[https://securite.developpez.com/actu/281305/Firefox-fait-un-sans-faute-lors-d-un-audit-realise-par-l-agence-allemande-de-securite-informatique-qui-le-recommande-comme-etant-le-navigateur-le-plus-securise/][Firefox fait un sans faute lors d'un audit réalisé par l'agence allemande de sécurité informatique]]
 - [[https://www.toolinux.com/?Belgique-le-Registre-National-adopte-un-systeme-open-source][Belgique : le Registre National adopte un système open source]]
 - [[https://www.silicon.fr/protection-des-donnees-lue-sinquiete-des-contrats-signes-avec-microsoft-par-ses-agences-265191.html][Protection des données : l'UE s'inquiète des contrats signés avec Microsoft par ses agences]]

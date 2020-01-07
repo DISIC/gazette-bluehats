@@ -44,7 +44,7 @@ publishDir = "docs"
     highlightJsLocalUrl = ""
 
 [Permalinks]
-    post = "/:filename.html"
+    post = "/:filename"
 
 [[languages.fr.menu.main]]
     name = "À propos"

@@ -1,3 +1,9 @@
+#+title: Gazette #BlueHats n°0
+#+date: 2019-04-01
+#+author: DINUM
+#+layout: post
+#+draft: false
+
 Merci de vous être inscrits à la « gazette BlueHats » !
 
 * blue hats, c'est qui ?
@@ -42,7 +48,7 @@ un logiciel libre existant ou en publiant un nouveau logiciel libre ?
 La version 1 de la POCOS est sortie en mai 2018, mais des corrections
 sont toujours en cours, n'hésitez pas à faire les vôtres :
 
-https://github.com/disic/politique-de-contribution-open-source/
+[[https://github.com/disic/politique-de-contribution-open-source/]]
 
 Pour toute question : opensource@data.gouv.fr
 
@@ -85,7 +91,7 @@ de TCHAP doit bientôt être disponible pour les agents publics.  Lors
 du FOSDEM de février 2019, Matthew Hodgson a présenté l'utilisation
 prochaine de Matrix par les administrations françaises :
 
-https://matrix.org/blog/2019/02/04/matrix-at-fosdem-2019/
+[[https://matrix.org/blog/2019/02/04/matrix-at-fosdem-2019/]]
 
 * L'Open Source Observatory évoque blue hats
 
@@ -94,7 +100,7 @@ dernière lettre d'information.  Ils incitent les autres pays européens
 à prendre exemple sur cette démarche communautaire pour renforcer la
 place du libre dans les administrations publiques.
 
-https://joinup.ec.europa.eu/news/les-blue-hats
+[[https://joinup.ec.europa.eu/news/les-blue-hats]]
 
 * Le libre chez les Entrepreneurs d'intérêt général (EIG)
 
@@ -107,18 +113,18 @@ designers et développeurs autour de 15 défis.  Lors de son lancement
 en février, les EIG et leurs mentors ont eu une présentation générale
 de la place du logiciel libre dans les défis EIG :
 
-https://speakerdeck.com/bluehats/les-logiciels-libres-dans-le-cadre-du-programme-entrepreneur-dinteret-general
+[[https://speakerdeck.com/bluehats/les-logiciels-libres-dans-le-cadre-du-programme-entrepreneur-dinteret-general]]
 
 Une présentation plus ciblée sur les enjeux autour de la publication
 de logiciels libres par l'administration a été faite lors d'un atelier
 EIG mi-mars :
 
-https://speakerdeck.com/bluehats/du-logiciel-libre-ecrit-par-ladministration-publique
+[[https://speakerdeck.com/bluehats/du-logiciel-libre-ecrit-par-ladministration-publique]]
 
 Pour un récit plus détaillé de la place du libre dans la promotion EIG
 2018, vous pouvez lire cet article de blog :
 
-https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/14/administrations-eig-et-logiciel-libre.html
+[[https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/14/administrations-eig-et-logiciel-libre.html]]
 
 * Les dépôts de codes sources d'organismes publics
 
@@ -127,13 +133,13 @@ promotion du programme Entrepreneur d'intérêt général a développé une
 API exposant les métadonnées des dépôts de code source publiés par des
 organismes publics.
 
-https://github.com/etalab/data-codes-sources-fr
+[[https://github.com/etalab/data-codes-sources-fr]]
 
 Prenez une minute pour vérifier que votre organisme public est bien
 listé dans ce fichier et ouvrez une issue ou une pull request si ce
 n'est pas le cas :
 
-https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics
+[[https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics]]
 
 L'API doit continuer d'évoluer et voir s'adjoindre une interface de
 navigation.
@@ -165,7 +171,7 @@ travail et de nombreux projets mutualisés »
 Pour en savoir plus, lisez le retour sur le workshop GeoNature, outil
 de gestion et de diffusion de données de biodiversité :
 
-http://www.ecrins-parcnational.fr/actualite/geeks-geonature-carburent
+[[http://www.ecrins-parcnational.fr/actualite/geeks-geonature-carburent]]
 
 * Invitez des blue hats !
 
@@ -173,7 +179,7 @@ Vous connaissez des personnes qui contribuent à des logiciels libres
 développés ou utilisés dans l'administration ?  Offrez-leur un chapeau
 bleu et invitez-les à s'inscrire à cette gazette !
 
-https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio
+[[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio]]
 
 * Une suggestion ? Une nouvelle à partager ?
 

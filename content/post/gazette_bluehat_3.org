@@ -1,6 +1,8 @@
-#+title: [Gazette #BlueHats] Le logiciel libre dans, par et pour l'administration publique
-#+author: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr
-#+options: html-postamble:nil html-preamble:nil toc:1
+#+title: Gazette #BlueHats n°3
+#+date: 2019-10-17
+#+author: DINUM
+#+layout: post
+#+draft: false
 
 La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel libre dans, par et pour l'administration publique.  Cette gazette est le contribution de la DINSIC au mouvement des #BlueHats, les hackers d'intérêt général.
 
@@ -200,4 +202,4 @@ Merci d'avance pour vos contributions !
 
 Pour vous désinscrire de la gazette #BlueHats, c'est [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][par ici]].
 
-Auteur: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr
+Auteur: Direction interministérielle du numérique et du système d'information et de communication de l'État, [[https://www.numerique.gouv.fr]]

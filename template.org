@@ -1,0 +1,6 @@
+#+title: Title
+#+date: YYYY-MM-DD
+#+author: Bastien
+#+layout: post
+#+draft: true
+#+tags: 

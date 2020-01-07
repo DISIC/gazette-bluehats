@@ -1,6 +1,8 @@
-#+title: [Gazette #BlueHats] Le logiciel libre dans, par et pour l'administration publique
-#+author: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr
-#+options: toc:1
+#+title: Gazette #BlueHats n°1
+#+date: 2019-06-10
+#+author: DINUM
+#+layout: post
+#+draft: false
 
 La gazette #BlueHats est une lettre d'information bimestrielle sur le
 logiciel libre dans, par et pour l'administration publique.  Cette
@@ -34,8 +36,8 @@ permet de concevoir des simulateurs à destination des usagers mais
 aussi de simuler les conséquences budgétaires d’une réforme et son
 impact redistributif sur la population.
 
-- Pour en savoir plus : https://fr.openfisca.org/
-- Code source : https://github.com/openfisca/
+- Pour en savoir plus : [[https://fr.openfisca.org/]]
+- Code source : [[https://github.com/openfisca/]]
 
 ** Lutece
 
@@ -47,8 +49,8 @@ vers un outil de développement d'applications Web. Il est très
 largement utilisé par la mairie de Paris pour la réalisation de ses
 sites, ses services numériques et ses applications métiers.
 
-- Pour en savoir plus : https://fr.lutece.paris.fr/fr/
-- Code source : https://github.com/lutece-platform
+- Pour en savoir plus : [[https://fr.lutece.paris.fr/fr/]]
+- Code source : [[https://github.com/lutece-platform]]
 
 * Sortie du SILL 2019
 
@@ -66,7 +68,7 @@ Son périmètre - ne couvrant pas la totalité du système d’information
 travail, gestion de parc, exploitation de serveurs et de bases de
 données et environnements de développement. 
 
-- Le SILL sur les groupes MIM : https://www.mim-libre.fr/
+- Le SILL sur les groupes MIM : [[https://www.mim-libre.fr/]]
 - Le lien vers la [[https://www.numerique.gouv.fr/actualites/decouvrez-le-socle-interministeriel-des-logiciels-libres-sill-2019/][brève de la DINSIC]]
 - La [[https://disic.github.io/sill/index.html][version de travail du SILL]]
 
@@ -195,7 +197,7 @@ dans les collectivités territoriales. Les candidatures pour l’édition
 résultats et la remise des labels auront lieu durant le Salon des
 maires qui se tiendra du 19 au 21 novembre à Paris.
 
-- En savoir plus : https://territoire-numerique-libre.org/candidature-2019
+- En savoir plus : [[https://territoire-numerique-libre.org/candidature-2019]]
 - Contact : label@territoire-numerique-libre.org
 
 * Appel à projets Latitudes

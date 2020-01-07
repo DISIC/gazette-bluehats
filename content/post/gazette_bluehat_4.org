@@ -1,6 +1,7 @@
-#+title: [Gazette #BlueHats] Le logiciel libre dans, par et pour l'administration publique
-#+author: Direction interministérielle du numérique et du système d'information et de communication de l'État, https://www.numerique.gouv.fr
-#+options: html-postamble:nil html-preamble:nil toc:1
+#+title: Gazette #BlueHats n°4
+#+date: 2019-12-08
+#+author: DINUM
+#+layout: post
 
 La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel libre dans, par et pour l'administration publique.  Cette gazette est le contribution de la DINUM au mouvement des #BlueHats, les hackers d'intérêt général.
 
@@ -30,7 +31,7 @@ leurs propres instances de ces outils (lire [[https://framablog.org/2019/09/24/d
 L'Agence française pour la biodiversité (AFB) a ainsi déployé l'outil
 libre [[https://www.drupal.org/project/webform][Drupal Webform]] sur ses serveurs pour que ses agents puissent
 créer et partager des formulaires et enquêtes en ligne :
-https://formulaires.afbiodiversite.fr.
+[[https://formulaires.afbiodiversite.fr]].
 
 Il s'agit de l'outil utilisé par le service Framaforms, mais que
 chacun peut installer sur ses serveurs, comme tous les [[https://degooglisons-internet.org/fr/alternatives/][autres services
@@ -78,7 +79,7 @@ structure et qui permet d'adresser des chaînes éditoriales
 diversifiées : supports pédagogiques, jeux sérieux, documentation
 technique, publication audiovisuelle, édition juridique, etc.
 
-Pour en savoir plus sur Scenari : http://scenari.org
+=>>= Pour en savoir plus sur Scenari : [[http://scenari.org]]
 
 ** Prodige : un logiciel libre au coeur du SIG ATLASANTE
 

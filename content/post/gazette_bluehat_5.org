@@ -1,0 +1,21 @@
+#+title: Gazette #BlueHats n°5
+#+date: 2020-02-01
+#+author: DINUM
+#+layout: post
+#+draft: false
+
+* Retour sur le sprint open source
+* Rétroviseur
+  
+- https://rmll.ubicast.tv/videos/amphi-bunuel-administrations-et-logiciels-libres-le-clausier-des-marches-publics/
+- https://www.economie.gouv.fr/apie/actualites/administrations-logiciels-libres-clausier-marches-publics
+
+* Revue de presse
+
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/french-labour-code-open-source][France to launch the Digital Labour Code open source platform]]
+- [[https://linuxfr.org/news/sambaedu-4-une-solution-de-serveurs-pedagogiques-libres-bases-sur-gnu-linux][SambaÉdu 4, une solution de serveurs pédagogiques libres basés sur GNU/Linux]]
+- [[https://www.ladepeche.fr/2019/12/23/boe-decroche-le-label-territoire-numerique-libre,8622489.php][Boé décroche le Label "Territoire Numérique Libre"]]
+- https://www.lebigdata.fr/cloud-aws-drogue-douce
+- https://www.lemondeinformatique.fr/actualites/auteur-maryse-gros-468.html
+- https://www.channelnews.fr/la-france-leader-de-lopen-source-en-europe-93508#disqus_thread
+- http://www.courrierdesmaires.fr/84800/ladullact-pour-des-logiciels-libres-au-sein-de-la-collectivite/

@@ -3,9 +3,13 @@
 #+author: DINUM
 #+layout: post
 
-La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel libre dans, par et pour l'administration publique.  Cette gazette est le contribution de la DINUM au mouvement des #BlueHats, les hackers d'intérêt général.
+La gazette #BlueHats est une lettre d'information bimestrielle sur le
+logiciel libre dans, par et pour l'administration publique.  Cette
+gazette est le contribution de la DINUM au mouvement des #BlueHats,
+les hackers d'intérêt général.
 
-Vous pouvez vous [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][inscrire]], [[https://github.com/DISIC/gazette-bluehats][lire les gazettes précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]].
+Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes
+précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
 
 * La journée #BlueHats au Paris Open Source Summit 2019
 

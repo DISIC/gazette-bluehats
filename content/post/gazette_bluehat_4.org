@@ -215,7 +215,7 @@ les rencontres Geotrek 2019]].
 
 ** À l'international
 
-- [[https://opengov.ellak.gr/2019/10/24/o-pigeos-kodikas-tou-logismikou-tis-gallikis-dimosias-diikisis-se-ena-apothetirio-anichtou-kodika/][Ο πηγαίος κώδικας του λογισμικού της Γαλλικής Δημόσιας Διοίκησης σε ένα αποθετήριο ανοιχτού κώδικα]] (« Les codes sources des logiciels de l'administration publique française dans un référentiel »)
-- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/tchap-messaging-service][Open Source Software powering the newly developed internal messaging service of the French government]] (« Un logiciel Open Source fait tourner le nouveau service de messagerie interne du gouvernement français »)
-- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/cooperative-interaction][Zürich Canton to share its software as open source]] (« Le canton de Zurich par ses logiciels en open source »)
+- [[https://opengov.ellak.gr/2019/10/24/o-pigeos-kodikas-tou-logismikou-tis-gallikis-dimosias-diikisis-se-ena-apothetirio-anichtou-kodika/][Ο πηγαίος κώδικας του λογισμικού της Γαλλικής Δημόσιας Διοίκησης σε ένα αποθετήριο ανοιχτού κώδικα]] (« Les codes sources des logiciels de l'administration publique française dans un référentiel »)
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/tchap-messaging-service][Open Source Software powering the newly developed internal messaging service of the French government]] (« Un logiciel Open Source fait tourner le nouveau service de messagerie interne du gouvernement français »)
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/cooperative-interaction][Zürich Canton to share its software as open source]] (« Le canton de Zurich par ses logiciels en open source »)
 - [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/etalab-open-source-repository][New platform listing the source codes of software used by French public administrations]] (« Une nouvelle plateforme pour lister les coodes sources de l'administration française »)

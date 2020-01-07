@@ -27,4 +27,4 @@ La gazette #BlueHats est publié sous [[file:LICENSE.txt][licence Ouverte 2.0]].
 
 La gazette #BlueHats est une publication DINUM, 20 avenue de Ségur, 75019.
 
-[[file:images/bluehats.jpg]]
+[[file:static/img/bluehats.jpg]]

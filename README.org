@@ -1,5 +1,7 @@
 La gazette =#BlueHats= est la contribution de la DINUM au mouvement blue hats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l'administration.
 
+[[file:static/img/bluehats.jpg]]
+
 Pour vous y inscrire : https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio
 
 Voir l'article de lancement sur [[https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/][numerique.gouv.fr]].
@@ -23,8 +25,5 @@ L'inscription à la gazette #BlueHats est libre.  L'adresse email partagée à l
 
 * Licence
 
-La gazette #BlueHats est publié sous [[file:LICENSE.txt][licence Ouverte 2.0]].
-
-La gazette #BlueHats est une publication DINUM, 20 avenue de Ségur, 75019.
-
-[[file:static/img/bluehats.jpg]]
+La gazette #BlueHats est une publication DINUM, 20 avenue de Ségur,
+75019, publié sous [[file:LICENSE.txt][licence Ouverte 2.0]].

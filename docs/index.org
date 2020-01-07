@@ -1,0 +1,29 @@
+La gazette =#BlueHats= est la contribution de la DINUM au mouvement blue hats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l'administration.
+
+[[file:static/img/bluehats.jpg]]
+
+Pour vous y inscrire : https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio
+
+Voir l'article de lancement sur [[https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/][numerique.gouv.fr]].
+
+* Contribuez !
+
+Vous pouvez [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-evenement.md&title=%C3%89v%C3%A9nement+%3A+][annoncer un événement]], envoyer le [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=cr-evenement.md&title=Compte-rendu+%3A+][compte-rendu d'un événement]], faire une [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-logiciel.md&title=Logiciel+%3A+][annonce sur un logiciel libre]] particulier ou proposer un [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=temoignage.md&title=T%C3%A9moignage+%3A+][témoignage]].
+
+Pour toute autre suggestion de contenu, écrivez à =bluehats@etalab.gouv.fr=.
+
+* Numéros précédents
+
+- [[file:gazette_bluehat_0.org][Numéro 0]] (01/04/2019)
+- [[file:gazette_bluehat_1.org][Numéro 1]] (10/06/2019)
+- Numéro 2 : pause estivale
+- [[file:gazette_bluehat_3.org][Numéro 3]] (17/10/2019)
+
+* Conditions générales d'utilisation
+
+L'inscription à la gazette #BlueHats est libre.  L'adresse email partagée à l'[[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][inscription]] n'est partagée avec personne.  Vous pouvez à tout moment vous [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][désinscrire]].
+
+* Licence
+
+La gazette #BlueHats est une publication DINUM, 20 avenue de Ségur,
+75019, publié sous [[file:LICENSE.txt][licence Ouverte 2.0]].

@@ -48,7 +48,7 @@ publishDir = "docs"
 
 [[languages.fr.menu.main]]
     name = "À propos"
-    url = "/about/"
+    url = "/a-propos/"
     weight = 1
 
 # [[languages.fr.menu.main]]

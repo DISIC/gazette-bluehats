@@ -299,48 +299,23 @@ aux data scientists, pompiers, développeurs, personnels du SAMU,
 
 * Revue de presse
 
-- lemondeinformatique.fr : [[https://www.lemondeinformatique.fr/actualites/lire-les-impacts-positifs-de-la-politique-open-source-en-france-75160.html][Les impacts positifs de la politique open
-  source en France]]
+- lemondeinformatique.fr : [[https://www.lemondeinformatique.fr/actualites/lire-les-impacts-positifs-de-la-politique-open-source-en-france-75160.html][Les impacts positifs de la politique open source en France]]
+- lagazettedescommunes.com : [[https://www.lagazettedescommunes.com/620191/lopen-data-ne-peut-pas-se-passer-du-logiciel-libre/][L’open-data ne peut pas se passer du logiciel libre]]
+- liberation.fr : [[https://www.liberation.fr/debats/2019/06/04/logiciel-libre-il-faut-mettre-la-technologie-au-service-des-villes-et-des-citoyens_1731392][Logiciel libre : il faut mettre la technologie au service des villes et des citoyens]]
+- ANSSI : [[https://www.ssi.gouv.fr/actualite/la-securite-des-objets-connectes-cest-possible-avec-le-logiciel-libre-la-preuve-avec-le-projet-wookey/][La sécurité des objets connectés, c’est possible avec le logiciel libre ! La preuve avec le projet WooKey]]
+- NextImpact : [[https://www.nextinpact.com/news/107840-justice-marche-public-ne-peut-favoriser-solution-proprietaire.htm][Justice : un marché public ne peut favoriser un logiciel propriétaire]]
+- developpez.com : [[https://www.developpez.com/actu/259501/France-quels-sont-les-logiciels-libres-que-l-Etat-recommande-en-2019-La-liste-des-logiciels-conseilles-est-disponible-a-travers-le-SILL-2019/][France : quels sont les logiciels libres que l'État recommande en 2019 ?]]
+- cio-online.com : [[https://www.cio-online.com/actualites/lire-sill-2019-le-referentiel-de-logiciels-libres-de-l-etat-actualise-11192.html][SILL 2019 : le référentiel de logiciels libres de l'Etat actualisé]]
+- cigref.fr : [[https://www.cigref.fr/sill-2019-mise-a-jour-referentiel-logiciels-libres-dinsic-dsi-etat][#SILL2019 : mise à jour du référentiel de logiciels libres de la DINSIC, la DSI de l’Etat]]
+- numerama.com : [[https://www.numerama.com/tech/510361-quels-sont-les-logiciels-libres-que-letat-conseille-en-2019.html][Quels sont les logiciels libres que l’État conseille en 2019 ?]]
+- lemondeinformatique.fr : [[https://www.lemondeinformatique.fr/actualites/lire-la-dinsic-actualise-son-referentiel-de-logiciels-libres-75165.html][La Dinsic actualise son référentiel de logiciels libres]]
+- april.org : [[https://april.org/l-usage-des-logiciels-libres-un-des-criteres-d-obtention-du-label-numerique-inclusif][L'usage des logiciels libres un des critères d'obtention du label « numérique inclusif »]]
+- lemondeinformatique.fr : [[https://www.lemondeinformatique.fr/actualites/lire-pour-une-vision-eco-responsable-de-la-conception-web-75179.html][Pour une vision éco-responsable de la conception web]]
+- linuxfr.org : [[https://linuxfr.org/news/interview-de-bastien-guerry-referent-logiciels-libres-a-la-dinsic][Interview de Bastien Guerry, référent logiciels libres à la DINSIC]]
 
-- lagazettedescommunes.com : [[https://www.lagazettedescommunes.com/620191/lopen-data-ne-peut-pas-se-passer-du-logiciel-libre/][L’open-data ne peut pas se passer du
-  logiciel libre]]
-
-- liberation.fr : [[https://www.liberation.fr/debats/2019/06/04/logiciel-libre-il-faut-mettre-la-technologie-au-service-des-villes-et-des-citoyens_1731392][Logiciel libre : il faut mettre la technologie au
-  service des villes et des citoyens]]
-
-- ANSSI : [[https://www.ssi.gouv.fr/actualite/la-securite-des-objets-connectes-cest-possible-avec-le-logiciel-libre-la-preuve-avec-le-projet-wookey/][La sécurité des objets connectés, c’est possible avec le
-  logiciel libre ! La preuve avec le projet WooKey]]
-
-- NextImpact : [[https://www.nextinpact.com/news/107840-justice-marche-public-ne-peut-favoriser-solution-proprietaire.htm][Justice : un marché public ne peut favoriser un
-  logiciel propriétaire]]
-
-- developpez.com : [[https://www.developpez.com/actu/259501/France-quels-sont-les-logiciels-libres-que-l-Etat-recommande-en-2019-La-liste-des-logiciels-conseilles-est-disponible-a-travers-le-SILL-2019/][France : quels sont les logiciels libres que l'État
-  recommande en 2019 ?]]
-
-- cio-online.com : [[https://www.cio-online.com/actualites/lire-sill-2019-le-referentiel-de-logiciels-libres-de-l-etat-actualise-11192.html][SILL 2019 : le référentiel de logiciels libres de
-  l'Etat actualisé]]
-
-- cigref.fr : [[https://www.cigref.fr/sill-2019-mise-a-jour-referentiel-logiciels-libres-dinsic-dsi-etat][#SILL2019 : mise à jour du référentiel de logiciels
-  libres de la DINSIC, la DSI de l’Etat]]
-
-- numerama.com : [[https://www.numerama.com/tech/510361-quels-sont-les-logiciels-libres-que-letat-conseille-en-2019.html][Quels sont les logiciels libres que l’État conseille
-  en 2019 ?]]
-
-- lemondeinformatique.fr : [[https://www.lemondeinformatique.fr/actualites/lire-la-dinsic-actualise-son-referentiel-de-logiciels-libres-75165.html][La Dinsic actualise son référentiel de
-  logiciels libres]]
-
-- april.org : [[https://april.org/l-usage-des-logiciels-libres-un-des-criteres-d-obtention-du-label-numerique-inclusif][L'usage des logiciels libres un des critères d'obtention
-  du label « numérique inclusif »]]
-
-- lemondeinformatique.fr : [[https://www.lemondeinformatique.fr/actualites/lire-pour-une-vision-eco-responsable-de-la-conception-web-75179.html][Pour une vision éco-responsable de la
-  conception web]]
-
-- linuxfr.org : [[https://linuxfr.org/news/interview-de-bastien-guerry-referent-logiciels-libres-a-la-dinsic][Interview de Bastien Guerry, référent logiciels libres
-  à la DINSIC]]
 * Une suggestion ?
 
-Faites-nous en part en répondant tout simplement à ce message, en
-écrivant à [[mailto:bluehats@etalab.gouv.fr][bluehats@etalab.gouv.fr]] ou en [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][ouvrant un ticket]].
+Faites-nous en part en répondant tout simplement à ce message, en écrivant à [[mailto:bluehats@etalab.gouv.fr][bluehats@etalab.gouv.fr]] ou en [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][ouvrant un ticket]].
 
 Merci d'avance pour vos contributions !
 

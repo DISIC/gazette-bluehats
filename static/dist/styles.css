@@ -5,10 +5,10 @@ html, body {
   height: 100%; }
 
 body {
-  background: #FEFEFE;
-  color: #424242;
+  background: #FFFFFF;
+  color: #444;
   font-family: "Open Sans", arial, sans-serif;
-  font-size: 18px; }
+  font-size: 22px; }
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 33px;
@@ -37,7 +37,7 @@ h6 {
   margin-bottom: 12px; }
 
 p {
-  line-height: 1.8;
+  line-height: 1.5;
   margin: 0 0 30px; }
 
 a {
@@ -159,7 +159,7 @@ table {
   background: #303030;
   border: none;
   border-radius: 3px;
-  color: #FEFEFE;
+  color: #FFFFFF;
   font-size: 14px;
   font-weight: 700;
   padding: 10px 12px;
@@ -199,7 +199,7 @@ table {
   .site-title a {
     float: left;
     background: #1E90FF;
-    color: #FEFEFE;
+    color: #FFFFFF;
     padding: 5px 10px 6px; }
     .site-title a:hover {
       background: #303030; }
@@ -314,7 +314,7 @@ table {
 .older-posts {
   float: left;
   background: #1E90FF;
-  color: #FEFEFE;
+  color: #FFFFFF;
   font-size: 14px;
   font-weight: 600;
   margin: 0 5px;
@@ -466,7 +466,7 @@ table {
     color: #656565;
     font-weight: 700; }
     .footer-copyright a:hover {
-      color: #FEFEFE; }
+      color: #FFFFFF; }
 
 /* ============================================================ */
 /* NProgress */

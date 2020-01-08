@@ -184,6 +184,6 @@ bleu et invitez-les à s'inscrire à cette gazette !
 * Une suggestion ? Une nouvelle à partager ?
 
 Faites-nous en part en répondant tout simplement à ce message ou en
-écrivant à bluehats@etalab.gouv.fr
+écrivant à =bluehats@etalab.gouv.fr=.
 
 Merci d'avance pour vos contributions !

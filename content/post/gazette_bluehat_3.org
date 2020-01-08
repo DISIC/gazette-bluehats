@@ -169,31 +169,18 @@ Le POSS 2018 a été l'occasion pour la DINSIC de [[https://www.numerique.gouv.f
 * Revue de presse
 
 - [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/technological-sovereignty][France's Gendarmerie: “Freedom of choice is priceless”]] (joinup.ec.europa.eu, 09/2019)
-
 - [[https://www.nextinpact.com/news/108156-le-ministere-linterieur-migre-sur-solution-libre-nextcloud.htm][Le ministère de l'Intérieur migre sur la solution libre Nextcloud]] (www.nextinpact.com, 08/2019)
-
 - [[https://www.nextinpact.com/brief/l-etat-renouvelle-son-referentiel-general-d-accessibilite-9847.htm][L'État renouvelle son Référentiel général d'accessibilité]] (www.nextinpact.com, 10/2019)
-
 - [[https://lagazette-ladefense.fr/2019/06/19/budget-participatif-la-mairie-choisit-lopen-source/][Budget participatif : la mairie choisit l'open source]] (lagazette-ladefense.fr, 06/2019)
-
 - [[https://www.zdnet.fr/actualites/la-dependance-des-autorites-allemandes-a-microsoft-pose-question-39890935.htm][La dépendance des autorités allemandes à Microsoft pose question]] (zdnet.fr, 09/2019)
-
 - [[https://www.cio-online.com/actualites/lire-jean-severin-lair-dinsic-%C2%A0-%C2%A0tout-le-monde-est-concerne-par-l-archivage%C2%A0-11301.html][Jean-Séverin Lair (DINSIC) : « Tout le monde est concerné par l'archivage »]] (06/2019)
-
 - [[https://www.lagazettedescommunes.com/640150/les-logiciels-open-source-ouvrent-a-des-gestions-plus-libres/][Les logiciels open source ouvrent à des gestions plus libres]] (lagazettedescommunes.com, 10/2019)
-
 - [[https://www.usine-digitale.fr/article/tribune-contrat-parasitisme-et-logiciel-libre.N871845][Contrat, parasitisme et logiciel libre]] (usine-digitale.fr, 07/2019)
-
 - [[https://droit.developpez.com/actu/278780/Le-Senat-inscrit-l-obsolescence-programmee-logicielle-dans-le-projet-de-loi-pour-une-economie-circulaire-en-rejetant-toutefois-les-amendements-les-plus-concrets/][Le Sénat inscrit l'obsolescence programmée logicielle dans le projet de loi pour une économie circulaire]] (developpez.com, 09/2019)
-
 - [[http://www.senat.fr/rap/r19-007-1/r19-007-1.html][Rapport de la commission d'enquête du Sénat sur la souveraineté numérique]] (senat.fr, 10/2019)
-
 - [[https://www.zdnet.fr/actualites/le-cern-delaisse-microsoft-pour-le-logiciel-libre-39885945.htm][Le CERN délaisse Microsoft pour le logiciel libre]] (zdnet.fr, 06/2019)
-
 - [[https://framablog.org/2019/09/24/deframasoftisons-internet/][Déframasoftisons Internet !]] (framablog.org, 09/2019)
-
 - [[https://www.nextinpact.com/news/108152-bercy-ouvre-code-source-taxe-fonciere.htm][Bercy ouvre le code source de la taxe foncière]] (nextinpact.com, 08/2019)
-
 - [[https://nextcloud.com/blog/french-universities-and-research-organizations-get-nextcloud/][French universities and research organizations get access to Nextcloud]] (nextcloud.com, 16 octobre 2019)
 
 * Une suggestion ?

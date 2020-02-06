@@ -11,7 +11,7 @@ les hackers d’intérêt général.
 Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes
 précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
 
-* La journée #BlueHats au Paris Open Source Summit 2019
+* La journée =#BlueHats= au Paris Open Source Summit 2019
 
 Les BlueHats se retrouvent demain 11 décembre au [[https://www.opensourcesummit.paris/][Paris Open Source
 Summit]] pour souffler leur première bougie !

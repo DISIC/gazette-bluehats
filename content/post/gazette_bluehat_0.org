@@ -6,34 +6,34 @@
 
 Merci de vous être inscrits à la « gazette BlueHats » !
 
-* blue hats, c'est qui ?
+* =#BlueHats=, c'est qui ?
 
-Les « blue hats » sont toutes les personnes qui souhaitent montrer
+Les =#Bluehats= sont toutes les personnes qui souhaitent montrer
 qu'elles contribuent à des logiciels libres développés et/ou utilisés
 par l'administration publique : les agents publics impliqués dans le
 développement de ces logiciels, bien sûr, mais aussi tout citoyen qui
 reconnaît que son action pour des logiciels libres aide concrètement
 des projets de l'administration.
 
-Les « blue hats » portent des chapeaux bleus pour montrer leur
-attachement à l'administration publique : il n'y a pas un unique
-chapeau bleu, chacun invente le sien, il doit juste être bleu !
+Les =#BlueHats= portent des chapeaux bleus pour montrer leur attachement
+à l'administration publique : il n'y a pas un unique chapeau bleu,
+chacun invente le sien, il doit juste être bleu !
 
 * Une gazette, pour quoi faire ?
 
-La gazette « blue hats » est la contribution de la DINSIC au mouvement
-blue hats.
+La gazette =#BlueHats= est la contribution de la DINSIC au mouvement
+=#BlueHats=.
 
 Le but de cette lettre bimensuelle est de partager des informations
 sur l'utilisation et le développement de logiciels libres dans et pour
 l'administration.  Elle servira aussi à donner une vue d'ensemble des
-activités du réseau de compagnonnage blue hats.  En la lisant, vous
+activités du réseau de compagnonnage =#BlueHats=.  En la lisant, vous
 découvrirez des projets que vous pourrez tester ou suivre ; en y
 contribuant, vous partagerez vos initiatives et vos découvertes.
 
 * Dois-je demander l'autorisation ?
 
-Vous voulez organiser un événement blue hats ?  Faites-le et dites-le
+Vous voulez organiser un événement =#BlueHats= ?  Faites-le et dites-le
 nous !  Pas besoin d'autorisation.  Envoyez-nous les comptes-rendus de
 vos ateliers et de vos événements, aussi modestes soient-ils, nous
 pourrons les relayer via la gazette.
@@ -93,9 +93,9 @@ prochaine de Matrix par les administrations françaises :
 
 [[https://matrix.org/blog/2019/02/04/matrix-at-fosdem-2019/]]
 
-* L'Open Source Observatory évoque blue hats
+* L'Open Source Observatory évoque =#BlueHats=
 
-L'open Source Observatory (OSOR) cite l'initiative blue hats dans leur
+L'open Source Observatory (OSOR) cite l'initiative =#BlueHats= dans leur
 dernière lettre d'information.  Ils incitent les autres pays européens
 à prendre exemple sur cette démarche communautaire pour renforcer la
 place du libre dans les administrations publiques.
@@ -173,7 +173,7 @@ de gestion et de diffusion de données de biodiversité :
 
 [[http://www.ecrins-parcnational.fr/actualite/geeks-geonature-carburent]]
 
-* Invitez des blue hats !
+* Invitez des =#BlueHats= !
 
 Vous connaissez des personnes qui contribuent à des logiciels libres
 développés ou utilisés dans l'administration ?  Offrez-leur un chapeau

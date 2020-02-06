@@ -4,9 +4,9 @@
 #+layout: post
 #+draft: false
 
-La gazette #BlueHats est une lettre d'information bimestrielle sur le
+La gazette =#BlueHats= est une lettre d'information bimestrielle sur le
 logiciel libre dans, par et pour l'administration publique.  Cette
-gazette est la contribution de la DINSIC au mouvement des #BlueHats,
+gazette est la contribution de la DINSIC au mouvement des =#BlueHats=,
 les hackers d'intérêt général.
 
 Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes
@@ -114,7 +114,7 @@ indépendants.  Ils ont récemment décidé de passer une semaine pour
 contribuer à plusieurs à des logiciels libres commes framadate et
 etherpad-lite.  Ces solutions étant répandues dans plusieurs
 administrations, le récit de leur expérience pourra intéresser plus
-d'un #BlueHats !
+d'un =#BlueHats= !
 
 Lisez [[https://www.codeursenliberte.fr/entreprise/contribution_au_libre/][leur retour d'expérience]] sur leur site web.
 
@@ -321,5 +321,5 @@ Merci d'avance pour vos contributions !
 
 * Désincription
 
-Pour vous désinscrire de la gazette #BlueHats, c'est [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][par ici]].
+Pour vous désinscrire de la gazette =#BlueHats=, c'est [[https://infolettres.etalab.gouv.fr/unsubscribe/bluehats@mail.etalab.studio][par ici]].
 

@@ -6,7 +6,7 @@
 
 La gazette =#BlueHats= est une lettre d'information bimestrielle sur le
 logiciel libre dans, par et pour l'administration publique.  Cette
-gazette est la contribution de la DINSIC au mouvement des =#BlueHats=,
+gazette est la contribution de la [[https://www.numerique.gouv.fr/][DINSIC]] au mouvement des =#BlueHats=,
 les hackers d'intérêt général.
 
 Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes

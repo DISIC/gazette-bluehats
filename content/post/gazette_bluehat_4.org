@@ -28,9 +28,9 @@ N’hésitez pas à retweeter [[https://twitter.com/_DINUM/status/12014973468042
 
 ** Un framaform-like pour l’agence française pour la biodiversité
 
-Après avoir fait une importante [[https://degooglisons-internet.org][campagne de sensibilisation]] et de
+Après avoir fait une importante [[https://degooglisons-internet.org/][campagne de sensibilisation]] et de
 déploiement de services libres alternatifs à ceux des GAFAM,
-l’association [[https://framasoft.org][Framasoft]] invite désormais les utilisateurs à déployer
+l’association [[https://framasoft.org/][Framasoft]] invite désormais les utilisateurs à déployer
 leurs propres instances de ces outils (lire [[https://framablog.org/2019/09/24/deframasoftisons-internet/][cette entrée de blog]].)
 L’Agence française pour la biodiversité (AFB) a ainsi déployé l’outil
 libre [[https://www.drupal.org/project/webform][Drupal Webform]] sur ses serveurs pour que ses agents puissent
@@ -52,7 +52,7 @@ outils [[https://www.youtube.com/watch?v=cX53sSp4JQw&list=PL0Wd1JAi6QuHdwALwwJqj
 
 ** Scenari : retour sur 20 ans de développements
 
-/Un témoignage de Stéphane Crozat, co-concepteur de la suite logicielle [[http://scenari.org][Scenari]]./
+/Un témoignage de Stéphane Crozat, co-concepteur de la suite logicielle [[https://scenari.org/][Scenari]]./
 
 La conception du logiciel Scenari commence en 1999 à l’Université de
 Technologie de Compiègne. Une entreprise finance un projet de
@@ -83,7 +83,7 @@ structure et qui permet d’adresser des chaînes éditoriales
 diversifiées : supports pédagogiques, jeux sérieux, documentation
 technique, publication audiovisuelle, édition juridique, etc.
 
-=>>= Pour en savoir plus sur Scenari : [[http://scenari.org]]
+=>>= Pour en savoir plus sur Scenari : [[https://scenari.org/]]
 
 ** Prodige : un logiciel libre au coeur du SIG ATLASANTE
 

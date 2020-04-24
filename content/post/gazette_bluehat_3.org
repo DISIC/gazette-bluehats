@@ -22,7 +22,7 @@ Le lieutenant-colonel Stéphane Dumond, chef de bureau IT du [[https://fr.wikipe
   « La migration vers le logiciel libre en Gendarmerie est intervenue [...] au début des années 2000, parce qu'on a eu la convergence de trois éléments qui sont intervenus de manière simultanée et qui ont conduit à cette migration à grande échelle : tout d'abord une contrainte budgétaire ; ensuite, il faut une prise de conscience que continuer à rester dans le domaine du monde propriétaire conduit inévitablement, à partir du moment où on n'a plus suffisamment d'argent, à une perte de dépendance, une perte de souveraineté [...] ; enfin, [...] il faut que les grands chefs, à commencer par le DSI (le Directeur des systèmes d'information), [...] ainsi que le Directeur général, soient à la fois promoteurs, sponsors et [viennent] en soutien des équipes techniques pour que la migration continue à bien se passer au fil des années, parce que vous verrez qu'une migration vers le logiciel libre c'est [un travail] de très longue haleine. » 
 #+END_QUOTE
 
-*>* Réécoutez [[https://april.org/libre-a-vous-diffusee-mardi-3-septembre-2019-sur-radio-cause-commune][le podcast]] est disponible sur le site de l'APRIL.
+=>>= Réécoutez [[https://april.org/libre-a-vous-diffusee-mardi-3-septembre-2019-sur-radio-cause-commune][le podcast]] est disponible sur le site de l'APRIL.
 
 ** LemonLDAP::NG : un Web-SSO pour l'administration
 
@@ -68,13 +68,13 @@ Ces informations sont exploitées par l'agence pour mener à bien ses activités
 
 La mise à disposition de l'outil OpenCTI, en /open source/ (licence GNU Affero v3) et prêt à l'emploi, permet aujourd'hui de faire bénéficier tous les intéressés de l'ensemble des fonctionnalités de cette application, qui respecte les standards en matière de modèle de menace.
 
-*>* Pour plus d'information, [[https://www.ssi.gouv.fr/actualite/opencti-la-solution-libre-pour-traiter-et-partager-la-connaissance-de-la-cybermenace/][consultez la note d'actualité]] publiée par l'ANSSI, ainsi que le [[https://github.com/OpenCTI-Platform/opencti][dépôt GitHub]].
+=>>= Pour plus d'information, [[https://www.ssi.gouv.fr/actualite/opencti-la-solution-libre-pour-traiter-et-partager-la-connaissance-de-la-cybermenace/][consultez la note d'actualité]] publiée par l'ANSSI, ainsi que le [[https://github.com/OpenCTI-Platform/opencti][dépôt GitHub]].
 
 ** Une application libre sur les énergies renouvelables de réseaux
 
 L'Observatoire de la Transition Écologique et la DREAL des Pays de la Loire publient une nouvelle [[http://apps.datalab.pays-de-la-loire.developpement-durable.gouv.fr/enr_reseaux_teo/][application libre de visualisation et de téléchargement]] de données relatives aux énergies renouvelables de réseaux.
 
-*>* Les scripts de collecte et de datavisualisation sont disponibles dans le [[https://gitlab.com/dreal-datalab/poc-enr-teo][dépôt GitLab]] du DREAL datalab.
+=>>= Les scripts de collecte et de datavisualisation sont disponibles dans le [[https://gitlab.com/dreal-datalab/poc-enr-teo][dépôt GitLab]] du DREAL datalab.
 
 ** CARTElette : Création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
 
@@ -82,7 +82,7 @@ Le package CARTElette vient en complément du package R [[https://github.com/ant
 
 Il s'agit désormais de créer des couches cartographiques (communales et supra-communales) qui correspondent à la situation du découpage des territoires français (communes et niveaux supra-communaux, France et Outre-mer) au 1er janvier de chaque année (date de référence du code officiel géographique).
 
-*>* Pour plus d'information, consultez [[https://www.data.gouv.fr/fr/reuses/cartelette-creation-de-couches-cartographiques-a-partir-du-code-officiel-geographique-cog-et-des-couches-ign/][la note publiée sur data.gouv.fr]], ainsi que le [[https://github.com/antuki/CARTElette][dépôt GitHub]].
+=>>= Pour plus d'information, consultez [[https://www.data.gouv.fr/fr/reuses/cartelette-creation-de-couches-cartographiques-a-partir-du-code-officiel-geographique-cog-et-des-couches-ign/][la note publiée sur data.gouv.fr]], ainsi que le [[https://github.com/antuki/CARTElette][dépôt GitHub]].
 
 ** Bercy ouvre le code source de la taxe foncière
 
@@ -102,13 +102,13 @@ Dans son article de blog « [[https://si.ecrins-parcnational.com/blog/2019-03-p
   La technologie Proxmox est mûre. Elle est libre (licence AGPLv3) et basée sur l'hyperviseur Linux KVM. Elle propose également une solution de containers LXC qui était en cours d'évaluation sur nos postes de travail. »
 #+END_QUOTE
 
-*>* Retrouvez [[https://si.ecrins-parcnational.com/blog/2019-03-proxmox.html][l'intégralité du blogpost]].
+=>>= Retrouvez [[https://si.ecrins-parcnational.com/blog/2019-03-proxmox.html][l'intégralité du blogpost]].
 
 * Candidatez au label « Territoire Numérique Libre »
 
 Le label Territoire Numérique Libre est une initiative de l'ADULLACT, en partenariat avec d'autres associations et institutions reconnues pour leur action en faveur du logiciel libre et la promotion du numérique citoyen dans les collectivités territoriales : [[https://aful.org/][AFUL]], [[https://april.org/][APRIL]], [[https://pole-aquinetic.fr/][Pôle Aquinetic]] et la DINSIC.  Le label Territoire Numérique Libre encourage les usages numériques libres, citoyens et collaboratifs, et s'adresse à toutes les collectivités territoriales françaises : villes et villages, mais aussi établissements publics de collaboration intercommunale (EPCI), départements et régions.
 
-*>* [[https://territoire-numerique-libre.org/candidature-2019/][En savoir plus et canditatez avant le 20 octobre à minuit]]
+=>>= [[https://territoire-numerique-libre.org/candidature-2019/][En savoir plus et canditatez avant le 20 octobre à minuit]]
 
 * Événements
 
@@ -122,7 +122,7 @@ Dans un contexte d'acteurs du spatial, cette journée se propose d'éclairer les
 
 Dans la continuité des précédentes Rencontres, le Comité de pilotage de [[http://geotrek.fr/][Geotrek]] ([[https://github.com/GeotrekCE?language=html][dépôt de code]]) - une suite logicielle de webmapping, composée d'un outil métier SIG, d'un site internet et d'une application mobile - propose aux utilisateurs et aux partenaires intéressés par l'outil de se réunir pour partager des retours d'expérience, découvrir les nouveautés et participer à des ateliers.
 
-*>* [[https://geotrek.ecrins-parcnational.fr/rencontres/2019/Rencontres-Geotrek-2019-Programme.pdf][Lire le *programme en PDF]]* et rendez-vous sur [[https://framaforms.org/inscription-rencontres-geotrek-2019-1569231468][la page d'inscription]] avant le 22 octobre*.
+=>>= [[https://geotrek.ecrins-parcnational.fr/rencontres/2019/Rencontres-Geotrek-2019-Programme.pdf][Lire le *programme en PDF]]* et rendez-vous sur [[https://framaforms.org/inscription-rencontres-geotrek-2019-1569231468][la page d'inscription]] avant le 22 octobre*.
 
 ** 19 et 20 novembre : Sprint /open source/ #BlueHats (Paris)
 
@@ -130,23 +130,23 @@ Venez contribuer aux logiciels libres de l'État et rejoignez le mouvement #Blue
 
 Le Lab 110 bis et la DINSIC organisent un « Sprint /open source/ » les 19 et 20 novembre 2019.  Deux jours pour découvrir et contribuer à des projets ouverts de l'administration et d'ailleurs.
 
-*>* [[https://framaforms.org/sprint-open-source-du-lab-110bis-et-de-la-dinsic-les-19-et-20-novembre-2019-1571036385][Inscrivez-vous via ce formulaire]] ! Entrée libre et gratuite, mais les places sont limitées.
+=>>= [[https://framaforms.org/sprint-open-source-du-lab-110bis-et-de-la-dinsic-les-19-et-20-novembre-2019-1571036385][Inscrivez-vous via ce formulaire]] ! Entrée libre et gratuite, mais les places sont limitées.
 
 ** 26 novembre : Le libre sur la Place 2019 (Nancy)
 
 Dans le cadre de la semaine de l'innovation, le logiciel libre est à l'honneur le 26 novembre 2019 : venez écouter les retours d'administrations qui ont fait le pari du libre !
 
-*>* [[https://www.eventbrite.fr/e/inscription-le-libre-sur-la-place-2019-73282775755][Inscription via ce site]].
+=>>= [[https://www.eventbrite.fr/e/inscription-le-libre-sur-la-place-2019-73282775755][Inscription via ce site]].
 
 ** 10 et 11 décembre : Paris Open Source Summit et #BlueHats
 
 Le grand rendez-vous européen des innovations et des technologies /open source/ est de retour pour une 5e édition.  Associant experts internationaux, entreprises, startups et PME leaders de leur domaine et des communautés emblématiques, le Paris Open Source Summit (POSS) devient cette année le hub /open source/ de l'intelligence artificielle, des infrastructures distribuées, de la cybersécurité, de l'embarqué pour deux journées de conférences inédites.
 
-*>* [[https://2019.opensourcesummit.paris/][Plus d'information sur le site de l'événement]]
+=>>= [[https://2019.opensourcesummit.paris/][Plus d'information sur le site de l'événement]]
 
 Le POSS 2018 a été l'occasion pour la DINSIC de [[https://www.numerique.gouv.fr/agenda/lancement-rejoignez-la-communaute-blue-hats-hackers-dinteret-general/][lancer le mouvement #BlueHats]].  Cette année, la DINSIC envisage une nouvelle participation à travers des « conférences éclair » et des ateliers contributifs autour de compétences et technologies spécifiques.
 
-*>* [[https://pad.etalab.studio/IOTFNnlGR_uyRZTIGQmVVg#][Proposez des interventions]] et [[https://pad.etalab.studio/eYURdv_LS0y1s_oNPWkHPw#][indiquez les domaines techniques]] sur lesquels vous voulez échanger !
+=>>= [[https://pad.etalab.studio/IOTFNnlGR_uyRZTIGQmVVg#][Proposez des interventions]] et [[https://pad.etalab.studio/eYURdv_LS0y1s_oNPWkHPw#][indiquez les domaines techniques]] sur lesquels vous voulez échanger !
 
 * Brèves
 

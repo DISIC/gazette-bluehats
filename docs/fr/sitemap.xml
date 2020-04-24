@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://disic.github.io/gazette-bluehats/gazette_bluehat_4/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://disic.github.io/gazette-bluehats/post/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,35 +28,8 @@
   </url>
   
   <url>
-    <loc>https://disic.github.io/gazette-bluehats/a-propos/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://disic.github.io/gazette-bluehats/tags/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://disic.github.io/gazette-bluehats/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://disic.github.io/gazette-bluehats/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://disic.github.io/gazette-bluehats/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://disic.github.io/gazette-bluehats/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,15 +43,26 @@
   </url>
   
   <url>
-    <loc>https://disic.github.io/gazette-bluehats/post/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://disic.github.io/gazette-bluehats/a-propos/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://disic.github.io/gazette-bluehats/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://disic.github.io/gazette-bluehats/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://disic.github.io/gazette-bluehats/categories/"
+                />
   </url>
   
   <url>
     <loc>https://disic.github.io/gazette-bluehats/tags/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -30,7 +30,7 @@ N’hésitez pas à retweeter [[https://twitter.com/_DINUM/status/12014973468042
 
 Après avoir fait une importante [[https://degooglisons-internet.org/][campagne de sensibilisation]] et de
 déploiement de services libres alternatifs à ceux des GAFAM,
-l’association [[https://framasoft.org/][Framasoft]] invite désormais les utilisateurs à déployer
+l’association [[https://framasoft.org][Framasoft]] invite désormais les utilisateurs à déployer
 leurs propres instances de ces outils (lire [[https://framablog.org/2019/09/24/deframasoftisons-internet/][cette entrée de blog]].)
 L’Agence française pour la biodiversité (AFB) a ainsi déployé l’outil
 libre [[https://www.drupal.org/project/webform][Drupal Webform]] sur ses serveurs pour que ses agents puissent

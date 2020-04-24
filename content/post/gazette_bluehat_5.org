@@ -1,5 +1,5 @@
 #+title: Gazette #BlueHats n°5
-#+date: 2020-04-23
+#+date: 2020-04-24
 #+author: DINUM
 #+layout: post
 #+draft: true
@@ -8,10 +8,25 @@ La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel l
 
 Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
 
+* Publication du SILL 2020
+
+Le socle interministériel des logiciels libres (SILL) 2020 est publié.  Ce catalogue de référence des logiciels libres recommandés par l’État est le fruit d’une collaboration entre une communauté d’agents publics informaticiens et la direction interministérielle du numérique.
+
+Jusqu'en 2019, le SILL était mis à jour une fois par an et publié sous forme de document PDF.  Il est désormais mis à jour /en continu/ et publié par [[https://www.etalab.gouv.fr/][Etalab]] sous forme de site web: [[https://sill.etalab.gouv.fr]].
+
+Cette interface permet de faire une recherche rapide, d'avoir des URLs stables pour chaque logiciel, de filtrer par catégorie de logiciel ou par statut (« recommandé » ou « en observation »), de voir [[https://sill.etalab.gouv.fr/fr/stats][quelques chiffres]] utiles, de vous abonner au [[https://sill.etalab.gouv.fr/updates.xml][fil RSS des mises à jour]] et de consulter les catalogues de deux années passées.  À noter que l'interface est aussi accessible en [[https://sill.etalab.gouv.fr/it/software][italien]], [[https://sill.etalab.gouv.fr/de/software][allemand]], [[https://sill.etalab.gouv.fr/es/software][espagnol]] et [[https://sill.etalab.gouv.fr/en/software][anglais]].
+
+Du côté des nouveaux logiciels référencés, nous trouvons entre autres la solution de visioconférence [[https://sill.etalab.gouv.fr/en/software?id=196][BigBlueButton]], le logiciel d'hébergement décentralisé de vidéos [[https://sill.etalab.gouv.fr/en/software?id=197][Peertube]], des logiciels produits par le secteur public comme [[https://sill.etalab.gouv.fr/en/software?id=194][VITAM]], [[https://sill.etalab.gouv.fr/en/software?id=185][Archifiltre]], [[https://sill.etalab.gouv.fr/fr/software?id=200][Openfisca]] ou le [[https://sill.etalab.gouv.fr/fr/software?id=201][SDK Géoportail]], ainsi que d'autres logiciels importants comme [[https://sill.etalab.gouv.fr/fr/software?id=195][Opale]], [[https://sill.etalab.gouv.fr/fr/software?id=202][Zimbra]], [[https://sill.etalab.gouv.fr/en/software?id=184][Redis]], [[https://sill.etalab.gouv.fr/en/software?id=193][OpenShot]] ou [[https://sill.etalab.gouv.fr/en/software?id=182][RStudio]].
+
+En tout, ce sont *190 logiciels libres référencés*, soit *34 de plus* qu'en 2019.  Parmi les logiciels du SILL 2020, 144 ont le statut « recommandés » et 46 sont marqués « en observation ».
+
+Enfin, la communauté des référents SILL s'est élargie : si vous êtes agent public de fonction publique d'État ou hospitalière et que vous souhaitez contribuer au référencement d'un logiciel libre, les groupes MIM qui font le SILL sont là pour vous accueillir !  Vous pouvez pour cela écrire à =opensource@data.gouv.fr=
+
+=>>= Pour consulter le SILL, rendez-vous sur [[https://sill.etalab.gouv.fr]].
+
 * Focus sur le logiciel libre à la DANE de Lyon
 
-/Un témoignage de Cédric Frayssinet, chargé de Missions DANE, référent
-Usages & Outils./
+/Un témoignage de Cédric Frayssinet, chargé de Missions DANE, référent Usages & Outils./
 
 La Délégation Académique au Numérique Éducatif (DANE) est un service du [[http://dane.ac-lyon.fr][Rectorat de Lyon]]. Il est piloté par un DAN, 2 DAN adjoints et composé d’une grosse dizaine d’enseignants en mi-temps. Ce fonctionnement permet une meilleure prise en compte des usages du numérique dans les établissements scolaires.
 
@@ -27,27 +42,29 @@ Pour finir, nous venons d’ouvrir un cloud avec NextCloud pour tous nos enseign
 
 =>>= Pour en savoir plus sur la DANE de Lyon : https://dane.ac-lyon.fr
 
-* Retour sur le 1er sprint open source de l'administration
-
-La direction interministérielle du numérique (DINUM) et le 110 bis, le lab d’innovation de l’Éducation nationale, ont rassemblé la communauté BlueHats pour le premier sprint open source du secteur public les 19 et 20 novembre derniers.
-
-=>>= Lire la suite sur le [[https://www.education.gouv.fr/retour-sur-le-premier-sprint-open-source-bluehats-de-l-administration-89270][site du l'éducation nationale]] ou le [[https://www.numerique.gouv.fr/actualites/retour-sur-le-premier-sprint-open-source-bluehats-administration/a][site de la DINUM]]
-
-* Retour sur la journée #BlueHats au Paris Open Source Summit 2019
-
-Un an après le lancement de 2018, même lieu, même événement, même ferveur : les #BlueHats – les hackers d’intérêt général – se sont réunis en décembre dernier pour une nouvelle journée de rencontres et d’échanges dans le cadre du Paris Open Source Summit, qui l’avait vu naître un an auparavant sous l’impulsion de la DINUM (alors DINSIC).
-
-Salle comble tout au long de la journée : il en fallait bien plus qu’une grève de transports pour décourager les passionnés d’open source dans l’administration ! Les 22 intervenants ont présenté la façon dont ils développent ou utilisent des solutions libres dans leurs administrations.
-
-=>>= Retrouvez l’ensemble des supports de présentation [[https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614][sur le forum d'Etalab]]
-
-* Qui organisera le prochain événement #BlueHats ?
+* Et si vous organisiez le prochain événement #BlueHats ?
 
 Tout l'écosystème du logiciel libre est invité à organiser des événements #BlueHats.
 
 Que vous soyez une administration, une association ou une entreprise, si vous organisez des ateliers autour de logiciels libres utilisés dans l'administration, vous pouvez librement vous emparer du hashtag #BlueHats et organiser des événements avec des chapeaux bleus !
 
 L'équipe d'[[https://www.etalab.gouv.fr/accompagnement-logiciels-libres][Etalab]] est à votre disposition pour aider si besoin.
+
+* Retour sur les événements #BlueHats passés
+
+** 1er sprint open source de l'administration
+
+La direction interministérielle du numérique (DINUM) et le 110 bis, le lab d’innovation de l’Éducation nationale, ont rassemblé la communauté BlueHats pour le premier sprint open source du secteur public les 19 et 20 novembre derniers.
+
+=>>= Lire la suite sur le [[https://www.education.gouv.fr/retour-sur-le-premier-sprint-open-source-bluehats-de-l-administration-89270][site du l'éducation nationale]] ou le [[https://www.numerique.gouv.fr/actualites/retour-sur-le-premier-sprint-open-source-bluehats-administration/a][site de la DINUM]]
+
+** La journée #BlueHats au Paris Open Source Summit 2019
+
+Un an après le lancement de 2018, même lieu, même événement, même ferveur : les #BlueHats – les hackers d’intérêt général – se sont réunis en décembre dernier pour une nouvelle journée de rencontres et d’échanges dans le cadre du Paris Open Source Summit, qui l’avait vu naître un an auparavant sous l’impulsion de la DINUM (alors DINSIC).
+
+Salle comble tout au long de la journée : il en fallait bien plus qu’une grève de transports pour décourager les passionnés d’open source dans l’administration ! Les 22 intervenants ont présenté la façon dont ils développent ou utilisent des solutions libres dans leurs administrations.
+
+=>>= Retrouvez l’ensemble des supports de présentation [[https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614][sur le forum d'Etalab]]
 
 * Publication du programme européen Open Source Observatory
 

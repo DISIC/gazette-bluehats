@@ -1,5 +1,5 @@
 #+title: Gazette #BlueHats n°5
-#+date: 2020-04-24
+#+date: 2020-05-05
 #+author: DINUM
 #+layout: post
 #+draft: true
@@ -8,9 +8,9 @@ La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel l
 
 Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
 
-* Publication du SILL 2020
+* Publication du Socle Interministériel de Logiciels Libres 2020
 
-Le socle interministériel des logiciels libres (SILL) 2020 est publié.  Ce catalogue de référence des logiciels libres recommandés par l’État est le fruit d’une collaboration entre une communauté d’agents publics informaticiens et la direction interministérielle du numérique.
+Le socle interministériel des logiciels libres (SILL) 2020 est publié.  Ce catalogue de référence des logiciels libres pour l'administration est le fruit d’une collaboration entre une communauté d’agents publics informaticiens et la direction interministérielle du numérique.
 
 Jusqu'en 2019, le SILL était mis à jour une fois par an et publié sous forme de document PDF.  Il est désormais mis à jour /en continu/ et publié par [[https://www.etalab.gouv.fr/][Etalab]] sous forme de site web: [[https://sill.etalab.gouv.fr]].
 
@@ -23,6 +23,8 @@ En tout, ce sont *190 logiciels libres référencés*, soit *34 de plus* qu'en 2
 Enfin, la communauté des référents SILL s'est élargie : si vous êtes agent public de fonction publique d'État ou hospitalière et que vous souhaitez contribuer au référencement d'un logiciel libre, les groupes MIM qui font le SILL sont là pour vous accueillir !  Vous pouvez pour cela écrire à =opensource@data.gouv.fr=
 
 =>>= Pour consulter le SILL, rendez-vous sur [[https://sill.etalab.gouv.fr]].
+
+=>>= Pour lire l'annonce, rendez-vous sur le site [[https://www.numerique.gouv.fr/actualites/socle-interministeriel-des-logiciels-libres-sill-2020/][numerique.gouv.fr]]
 
 * Focus sur le logiciel libre à la DANE de Lyon
 
@@ -41,6 +43,38 @@ Cette solution, développée par l'association d'éducation populaire [[https://
 Pour finir, nous venons d’ouvrir un cloud avec NextCloud pour tous nos enseignants du 1er degré afin de les aider dans le partage des fichiers à destination des élèves.  Ce service était beaucoup attendu et nous ne doutons pas qu’il saura séduire les professeurs des écoles !
 
 =>>= Pour en savoir plus sur la DANE de Lyon : https://dane.ac-lyon.fr
+
+* Focus sur [[https://apps.education.fr][apps.education.fr]]
+
+Pour accompagner au quotidien l'ensemble des agents du ministère de l'Éducation nationale et de la jeunesse et répondre aux besoins du travail à distance pendant le confinement, la direction du numérique pour l'éducation a mis à disposition une version beta de sa plateforme [[https://apps.education.fr][apps.education.fr]], une plateforme d'applications libres avec Peertube, Nextcloud, MyPads et Etherpad, Discourse, CodiMD ainsi qu'un service de blog.
+
+Le projet initial visait que chaque application du catalogue général soit exploitée par une académie différente. Cela a pu être mis en place dans le cadre de l'appel à projet lancé à l'automne 2019 pour Nextcloud (Versailles) et Peertube (Grand-Est), mais nous sommes à la recherche de porteurs pour d'autres applications du catalogue.
+
+Le site web de présentation du projet a été développé par la DSI de l'académie de Lyon.  Des DSI d'autres académies, notamment Poitiers et Saint-Pierre-et-Miquelon, ont pris en charge pour cette version beta la mise en place de la supervision, basé sur les logiciels Prometheus et Grafana.  Des personnels de plusieurs des académies comme celle de Guyane, Lyon, Grenoble, Corse, Montpellier, Orléans-Tours, Versailles ont travaillé à l'élaboration des documents d'accompagnement (en se coordonnant via des canaux Tchap et en rédigeant à l'aide des Pads).
+
+Nous commençons dès maintenant à travailler à la pérennisation technique et organisationnelle de cette offre de service, avec la possibilité d'éprouver les usages réels à grande échelle dans le cadre du confinement.
+
+Le code de "La Boîte" développé en mode agile par le Pôle Nationale Logiciels Libres / EOLE est disponible sous [[https://gitlab.mim-libre.fr/alphabet/laboite][licence libre]].  Le projet bénéficie des investissements d'avenir avec la présence de deux [[https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/alphabet.html][Designers d'Intérêt Général]] cette année.  Il est coordonné par une équipe de la Direction du Numérique pour l'Éducation en collaboration avec l'équipe du Pôle National Logiciels Libres / EOLE.
+
+* La CNIL publie un guide pour les développeurs pour l'application du RGPD
+
+Le 27 janvier dernier, la CNIL a mis en ligne un guide à destination pour les développeurs dans le cadre de l'application du RGPD.
+
+La CNIL précise notamment que pour les sites web et applications utilisant des solutions d'analyse d'audience, *il n'y a que les solution libres* telles que Matomo qui peuvent bénéficier d'une exemption de consentement. Toutes les autres doivent recevoir le consentement explicites des utilisateurs pour pouvoir commencer à collecter des données.
+
+Citation exacte: « Pour pouvoir bénéficier de cette exemption de consentement rapprochez-vous de votre éditeur de solution ou bien utilisez un logiciel libre tel que Piwik que vous pouvez configurer vous-même. »
+
+=>>= Pour en savoir plus, consultez [[https://www.cnil.fr/fr/mesurer-la-frequentation-de-vos-sites-web-et-de-vos-applications][le guide de la CNIL]]
+
+* Postulez au programme Entrepreneurs d’Intérêt Général – promotion 4 – jusqu'au 7 juin !
+
+Vous êtes spécialiste en data science, développement, design, data engineering ou géomatique ? Rejoignez la quatrième promotion du programme Entrepreneurs d’Intérêt Général !
+
+Le programme Entrepreneurs d’Intérêt Général, qui s’inscrit dans TECH.GOUV, le programme d’accélération de la transformation numérique de l’Etat, lance un appel à candidatures pour permettre à des profils extérieurs à l’administration de contribuer à l’amélioration du service public à l’aide de leurs compétences numériques. Il vise à recruter une promotion de 41 entrepreneurs d’intérêt général (EIG) spécialistes du numérique qui intègreront l’administration en septembre 2020.
+
+=>>= Pour en savoir plus, rendez-vous sur [[https://www.etalab.gouv.fr/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4][l'annonce sur le blog d'Etalab]]
+
+=>>= Vous pouvez aussi consulter [[https://entrepreneur-interet-general.etalab.gouv.fr/defis.html][la liste des défis proposés]]
 
 * Et si vous organisiez le prochain événement #BlueHats ?
 
@@ -68,12 +102,20 @@ Salle comble tout au long de la journée : il en fallait bien plus qu’une grè
 
 * Publication du programme européen Open Source Observatory
 
-Le programme européen Open Source Observatory (OSOR) a publié [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap][une étude de cas sur Tchap]] ainsi que des rapports sur l'[[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence#France][état de l'open source]] dans le secteur public européen.
+Le programme européen Open Source Observatory (OSOR) a publié [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap][une
+étude de cas sur Tchap]] ainsi que des rapports sur l'[[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence#France][état de l'open
+source]] dans le secteur public européen.
+
+Le même programme a aussi publié les supports de présentation du
+webinaire où les représentants des pays ont échangés sur ces rapports,
+vous pouvez retrouver le résumé du webinaire et un support de synthèse
+sur le site [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/webinar-open-source-software-policies][joinup.ec.europa.eu]].
 
 =>>= Pour suivre les informations d'OSOR: https://twitter.com/OSOReu
 
 * Revue de presse
 
+- [[https://fsfe.org/news/2020/news-20200424-01.fr.html][Netherlands commits to Free Software by default]] (FSFE, 24 avril 2020)
 - [[https://blog.scaleway.com/2020/scaleway-multiplie-les-solutions-cloud-pour-soutenir-la-continuite-des-services-de-letat-dans-la-crise-du-covid-19/][Scaleway multiplie les solutions cloud pour soutenir la continuité des services de l’État dans la crise du COVID-19]] (Scaleway, 2 avril 2020)
 - [[https://home.cern/news/news/knowledge-sharing/cern-updates-its-open-hardware-licence][CERN updates its Open Hardware Licence]] (CERN, 12 mars 2020)
 - [[https://www.zdnet.fr/blogs/l-esprit-libre/la-commission-europeenne-recommande-a-ses-employes-de-passer-a-signal-39899925.htm][La Commission européenne recommande à ses employés de passer à Signal]] (ZDNET, 29 février 2020)

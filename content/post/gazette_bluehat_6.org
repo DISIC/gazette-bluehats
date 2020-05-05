@@ -1,0 +1,33 @@
+#+title: Gazette #BlueHats n°6
+#+date: 
+#+author: DINUM
+#+layout: post
+#+draft: true
+
+La gazette #BlueHats est une lettre d'information bimestrielle sur le
+logiciel libre dans, par et pour l'administration publique.  Cette
+gazette est la contribution de la [[https://www.numerique.gouv.fr/][DINUM]] au mouvement des #BlueHats,
+les hackers d'intérêt général.
+
+Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes
+précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
+
+* Publier liste des LL recommandés par l'EN pour information
+
+- https://twitter.com/davR74130/status/1172774221048688640
+- https://capes-nsi.org/index.php?id=manuels-et-environnement-informatique
+
+* Intérêt pour un Open Lab sur la définition d'une politique logiciels libres?
+* Rétroviseur
+  
+- https://rmll.ubicast.tv/videos/amphi-bunuel-administrations-et-logiciels-libres-le-clausier-des-marches-publics/
+- https://www.economie.gouv.fr/apie/actualites/administrations-logiciels-libres-clausier-marches-publics
+
+* FSF Legal workshop ?
+* Focus
+* Revue de presse
+
+- Appel à volontaires de l'ESR pour parler logiciels libres
+
+- https://www.acteurspublics.fr/articles/le-developpement-de-lapplication-stopcovid-confie-a-lincubateur-de-la-dsi-de-letat
+  - https://github.com/betagouv/StopCovid

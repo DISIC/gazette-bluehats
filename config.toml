@@ -3,7 +3,7 @@ languageCode = "fr-Fr"
 title = "Gazette #BlueHats"
 copyright = "Direction interministérielle du numérique"
 defaultContentLanguage = "fr"
-publishDir = "docs"
+publishDir = "public"
 
 [Author]
     name = "Gazette #BlueHats - La gazette du logiciel libre dans/pour l'administration"
@@ -29,10 +29,7 @@ publishDir = "docs"
     intro = true
     headline = "Gazette #BlueHats"
     github = "https://github.com/disic/gazette-bluehats"
-    # gitlab = ""
     twitter = "https://twitter.com/_DINUM"
-    # mastodon = "https://mastodon.etalab.gouv.fr/@bzg"
-    # stackoverflow = "https://stackoverflow.com/users/1037678/bzg"
     email = "bluehats@etalab.gouv.fr"
     opengraph = true
     shareTwitter = true
@@ -50,18 +47,3 @@ publishDir = "docs"
     name = "À propos"
     url = "/a-propos/"
     weight = 1
-
-# [[languages.fr.menu.main]]
-#     name = "English"
-#     url = "/en/"
-#     weight = 5
-
-# [[languages.en.menu.main]]
-#     name = "About"
-#     url = "/en/about/"
-#     weight = 1
-
-# [[languages.en.menu.main]]
-#     name = "Français"
-#     url = "/"
-#     weight = 4

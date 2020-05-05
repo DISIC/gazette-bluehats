@@ -74,9 +74,11 @@ Vous êtes spécialiste en data science, développement, design, data engineerin
 
 Le programme Entrepreneurs d’Intérêt Général, qui s’inscrit dans TECH.GOUV, le programme d’accélération de la transformation numérique de l’Etat, lance un appel à candidatures pour permettre à des profils extérieurs à l’administration de contribuer à l’amélioration du service public à l’aide de leurs compétences numériques. Il vise à recruter une promotion de 41 entrepreneurs d’intérêt général (EIG) spécialistes du numérique qui intègreront l’administration en septembre 2020.
 
+Les produits du programme EIG sont [[https://github.com/entrepreneur-interet-general/][publiés sous licence libre]].
+
 =>>= Pour en savoir plus, rendez-vous sur [[https://www.etalab.gouv.fr/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4][l'annonce sur le blog d'Etalab]]
 
-=>>= Vous pouvez aussi consulter [[https://entrepreneur-interet-general.etalab.gouv.fr/defis.html][la liste des défis proposés]]
+=>>= Vous pouvez aussi consulter [[https://entrepreneur-interet-general.etalab.gouv.fr/defis.html][la liste des défis proposés]] et suivre [[https://twitter.com/eigforever][le compte Twitter du programme]]
 
 * Et si vous organisiez le prochain événement #BlueHats ?
 

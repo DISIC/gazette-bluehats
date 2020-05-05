@@ -3,7 +3,7 @@ languageCode = "fr-Fr"
 title = "Gazette #BlueHats"
 copyright = "Direction interministérielle du numérique"
 defaultContentLanguage = "fr"
-publishDir = "public"
+publishDir = "docs"
 
 [Author]
     name = "Gazette #BlueHats - La gazette du logiciel libre dans/pour l'administration"
@@ -40,8 +40,8 @@ publishDir = "public"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
 
-# [Permalinks]
-#     post = "/:filename"
+[Permalinks]
+    post = "/:filename"
 
 [[languages.fr.menu.main]]
     name = "À propos"

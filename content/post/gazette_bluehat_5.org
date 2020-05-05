@@ -2,7 +2,7 @@
 #+date: 2020-05-05
 #+author: DINUM
 #+layout: post
-#+draft: true
+#+draft: false
 
 La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel libre dans, par et pour l'administration publique.  Cette gazette est la contribution de la [[https://www.numerique.gouv.fr/][DINUM]] au mouvement des #BlueHats, les hackers d'intérêt général.
 
@@ -22,9 +22,11 @@ En tout, ce sont *190 logiciels libres référencés*, soit *34 de plus* qu'en 2
 
 Enfin, la communauté des référents SILL s'est élargie : si vous êtes agent public de fonction publique d'État ou hospitalière et que vous souhaitez contribuer au référencement d'un logiciel libre, les groupes MIM qui font le SILL sont là pour vous accueillir !  Vous pouvez pour cela écrire à =opensource@data.gouv.fr=
 
-=>>= Pour consulter le SILL, rendez-vous sur [[https://sill.etalab.gouv.fr]].
+=>>= Pour consulter le SILL, rendez-vous sur [[https://sill.etalab.gouv.fr][sill.etalab.gouv.fr]].
 
 =>>= Pour lire l'annonce, rendez-vous sur le site [[https://www.numerique.gouv.fr/actualites/socle-interministeriel-des-logiciels-libres-sill-2020/][numerique.gouv.fr]]
+
+=>>= N'hésitez pas à relayer [[https://twitter.com/_DINUM/status/1257606834225102848?s=20][l'annonce de la DINUM sur Twitter]]
 
 * Focus sur le logiciel libre à la DANE de Lyon
 
@@ -42,7 +44,7 @@ Cette solution, développée par l'association d'éducation populaire [[https://
 
 Pour finir, nous venons d’ouvrir un cloud avec NextCloud pour tous nos enseignants du 1er degré afin de les aider dans le partage des fichiers à destination des élèves.  Ce service était beaucoup attendu et nous ne doutons pas qu’il saura séduire les professeurs des écoles !
 
-=>>= Pour en savoir plus sur la DANE de Lyon : https://dane.ac-lyon.fr
+=>>= Pour en savoir plus sur la DANE de Lyon : [[https://dane.ac-lyon.fr][dane.ac-lyon.fr]]
 
 * Focus sur [[https://apps.education.fr][apps.education.fr]]
 
@@ -102,14 +104,9 @@ Salle comble tout au long de la journée : il en fallait bien plus qu’une grè
 
 * Publication du programme européen Open Source Observatory
 
-Le programme européen Open Source Observatory (OSOR) a publié [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap][une
-étude de cas sur Tchap]] ainsi que des rapports sur l'[[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence#France][état de l'open
-source]] dans le secteur public européen.
+Le programme européen Open Source Observatory (OSOR) a publié [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap][une étude de cas sur Tchap]] ainsi que des rapports sur l'[[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence#France][état de l'open source]] dans le secteur public européen.
 
-Le même programme a aussi publié les supports de présentation du
-webinaire où les représentants des pays ont échangés sur ces rapports,
-vous pouvez retrouver le résumé du webinaire et un support de synthèse
-sur le site [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/webinar-open-source-software-policies][joinup.ec.europa.eu]].
+Le même programme a aussi publié les supports de présentation du webinaire où les représentants des pays ont échangés sur ces rapports, vous pouvez retrouver le résumé du webinaire et un support de synthèse sur le site [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/webinar-open-source-software-policies][joinup.ec.europa.eu]].
 
 =>>= Pour suivre les informations d'OSOR: https://twitter.com/OSOReu
 

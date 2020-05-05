@@ -8,7 +8,7 @@ La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel l
 
 Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
 
-* Publication du Socle Interministériel de Logiciels Libres 2020
+* Le socle interministériel de logiciels libres 2020 est en ligne
 
 Le socle interministériel des logiciels libres (SILL) 2020 est publié.  Ce catalogue de référence des logiciels libres pour l'administration est le fruit d’une collaboration entre une communauté d’agents publics informaticiens et la direction interministérielle du numérique.
 

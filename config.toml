@@ -40,8 +40,8 @@ publishDir = "public"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
 
-[Permalinks]
-    post = "/:filename"
+# [Permalinks]
+#     post = "/:filename"
 
 [[languages.fr.menu.main]]
     name = "À propos"

@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/gazette-bluehats/en/categories/</loc>
+    <loc>https://disic.github.io/gazette-bluehats/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/gazette-bluehats/categories/"
+                href="https://disic.github.io/gazette-bluehats/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/gazette-bluehats/en/categories/"
+                href="https://disic.github.io/gazette-bluehats/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/gazette-bluehats/en/</loc>
+    <loc>https://disic.github.io/gazette-bluehats/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/gazette-bluehats/"
+                href="https://disic.github.io/gazette-bluehats/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/gazette-bluehats/en/"
+                href="https://disic.github.io/gazette-bluehats/en/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/gazette-bluehats/en/tags/</loc>
+    <loc>https://disic.github.io/gazette-bluehats/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/gazette-bluehats/tags/"
+                href="https://disic.github.io/gazette-bluehats/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/gazette-bluehats/en/tags/"
+                href="https://disic.github.io/gazette-bluehats/en/tags/"
                 />
   </url>
   

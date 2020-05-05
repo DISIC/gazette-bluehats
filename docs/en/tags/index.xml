@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gazette #BlueHats</title>
-    <link>http://localhost:1313/gazette-bluehats/en/tags/</link>
+    <link>https://disic.github.io/gazette-bluehats/en/tags/</link>
     <description>Recent content in Tags on Gazette #BlueHats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
     <copyright>Direction interministérielle du numérique</copyright>
     
-	<atom:link href="http://localhost:1313/gazette-bluehats/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://disic.github.io/gazette-bluehats/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

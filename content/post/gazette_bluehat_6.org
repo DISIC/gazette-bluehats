@@ -27,6 +27,12 @@ précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose
 * Focus
 * Revue de presse
 
+- [[gnus:nnimap+localhost:datagouv/INBOX#484926292.3190760.1588866019442.JavaMail.zimbra@laposte.net][from christophe cazin: [service-public-libre] Argent public, code public]]
+
+- https://open-source.developpez.com/actu/301505/Les-Pays-Bas-vont-ils-accorder-la-priorite-aux-logiciels-libres-dans-les-marches-publics-La-FSF-observe-et-entend-obtenir-que-les-softs-finances-par-le-contribuable-soient-libres/
+
+- https://april.org/libre-a-vous-diffusee-mardi-5-mai-2020-sur-radio-cause-commune
+
 - Appel à volontaires de l'ESR pour parler logiciels libres
 
 - https://www.acteurspublics.fr/articles/le-developpement-de-lapplication-stopcovid-confie-a-lincubateur-de-la-dsi-de-letat

@@ -1,5 +1,5 @@
 #+title: Gazette #BlueHats n°6
-#+date: <2020-07-16 jeu.>
+#+date: 2020-07-16
 #+author: DINUM
 #+layout: post
 #+draft: false

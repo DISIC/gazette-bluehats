@@ -8,6 +8,8 @@ La gazette #BlueHats est une lettre d'information bimestrielle sur le logiciel l
 
 Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
 
+Bel été à toutes et tous, et bonne lecture !
+
 * Lancement des ateliers #BlueHats
 
 La communauté d'agents publics fédérée autour du [[https://sill.etalab.gouv.fr/fr/software][Socle Interministériel de Logiciels Libres]] se mobilise pour faire connaître les logiciels libres utilisées dans l'administration - et au-delà !

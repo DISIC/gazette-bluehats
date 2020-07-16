@@ -57,5 +57,14 @@
       <description>Merci de vous être inscrits à la « gazette BlueHats » ! #BlueHats, c&amp;#39;est qui ?   Les #Bluehats sont toutes les personnes qui souhaitent montrer qu&amp;#39;elles contribuent à des logiciels libres développés et/ou utilisés par l&amp;#39;administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi tout citoyen qui reconnaît que son action pour des logiciels libres aide concrètement des projets de l&amp;#39;administration.</description>
     </item>
     
+    <item>
+      <title>Gazette #BlueHats n°6</title>
+      <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_6/</guid>
+      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.  Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions. Focus sur Piaf: Pour des IA francophones   Témoignage de Guillaume Lancrenon, travaillant avec Etalab sur PIAF.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -147,11 +147,11 @@ documents.
 
 =>>= Pour participer gratuitement aux Rencontres et découvrir ce que les outils Scenari peuvent faire pour vous, rendez-vous sur [[https://scenari.org/rencontres2020][le site dédié aux Rencontres Scenari 2020]].
 
-* Open Source Politics déploie une plateforme de pétitions pour le Sénat
+* Une plateforme de pétitions en logiciel libre pour le Sénat
 
-Pendant plusieurs mois, OSP et les équipes du Sénat ont travaillé main
-dans la main au lancement d’un nouveau service : la plateforme
-officielle petitions.senat.fr
+Pendant plusieurs mois, [[https://opensourcepolitics.eu/][Open Source Politics]] et les équipes du Sénat
+ont travaillé main dans la main au lancement d’un nouveau service : la
+plateforme officielle [[https://petitions.senat.fr/][petitions.senat.fr]].
 
 Cette plateforme permet aux citoyen·ne·s de déposer des pétitions
 et/ou d’en signer en ligne, de manière sécurisée grâce à une

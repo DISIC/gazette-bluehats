@@ -116,8 +116,8 @@ image Docker. Une instance de démonstration est disponible sur
 * Focus sur hackinscience.org
 
 [[https://www.hackinscience.org][Hackinscience]] est une plateforme open-source et gratuite développée
-par [[https://mdk.fr/][Julien Palard]], et permettant d'apprendre à programmer en Python
-par le biais d'exercices graduées en difficulté.
+par [[https://www.hackinscience.org/team/][une équipe de passionnés]], et permettant d'apprendre à programmer
+en Python par le biais d'exercices graduées en difficulté.
 
 Inspirée par d'autres plateformes comme [[https://www.jetbrains.com/][JetBrains]] et [[https://www.codecademy.com/][Codeacademy]] dont
 la popularité a explosé ces dernières années, la plateforme propose
@@ -126,6 +126,8 @@ d'évaluer son code directement dans le navigateur.  Avec déjà plus de
 60 exercices à son compte, la Hackinscience se présente comme une
 alternative beaucoup plus légère aux piliers du marché en plaçant
 l'emphase sur la simplicité.
+
+Merci à [[https://mdk.fr/][Julien Palard]] de nous avoir signalé ce projet !
 
 =>>= En savoir plus : https://hackinscience.org
 

@@ -1,0 +1,251 @@
+#+title: Gazette #BlueHats n°7
+#+date: <2020-09-21 mer.>
+#+author: DINUM
+#+layout: post
+#+options: toc:nil num:nil H:4 ^:nil pri:t html-postamble:nil html-preamble:nil
+#+html_head: <link rel="stylesheet" type="text/css" href="style.css" />
+
+# Logo
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/DISIC/gazette-bluehats/master/static/img/bluehats.png" style="max-width: 300px; margin: 40px auto;"
+#+end_export
+
+# Intro
+
+#+begin_center
+-----
+La gazette [[https://disic.github.io/gazette-bluehats/][#BlueHats]] est une lettre d'information bimestrielle sur le
+logiciel libre dans, par et pour l'administration publique. Cette
+gazette est la contribution de la [[https://www.numerique.gouv.fr/][DINUM]] au mouvement des #BlueHats,
+les hackers d'intérêt général.
+
+Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes
+précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
+
+Pour accéder à la version en ligne, [[https://disic.github.io/gazette-bluehats/gazette_bluehat_7/][cliquez ici]].  Bonne lecture !
+-----
+#+end_center
+
+* Appel à candidature pour le label « Territoire Numérique Libre »
+
+Il reste encore quelques semaines pour participer au label national
+Territoire Numérique Libre, destiné à récompenser les initiatives en
+faveur des usages numériques libres et ouverts dans les collectivités
+territoriales. Le label comporte cinq niveaux pour mieux évaluer et
+accompagner les progrès des candidats. Les candidatures pour l’édition
+2020 sont ouvertes jusqu’au 15 octobre 2020 à minuit. En raison de la
+situation sanitaire, l’annonce des résultats aura lieu mardi 1er
+décembre en visio-conférence.
+
+=>>= En savoir plus : https://territoire-numerique-libre.org/edition-2020/
+
+=>>= Contact : label@territoire-numerique-libre.org
+
+* Du nouveau sur code.etalab.gouv.fr et sill.etalab.gouv.fr
+
+La plateforme [[https://code.etalab.gouv.fr][code.etalab.gouv.fr]] publiée par Etalab a été mise à
+jour, et passe en version beta. Au menu:
+
+- un meilleur repérage des [[https://code.etalab.gouv.fr/fr/deps][dépendances logicielles]] ; la possibilité de
+  filtrer les dépôts par dépendance - par exemple, voici [[https://code.etalab.gouv.fr/fr/repos?d=pandas][les dépôts
+  qui dépendent de pandas]] ; l'affichage de dépôts aux dépendances
+  similaires, lorsque cela paraît pertinent - par exemple, voiri [[https://code.etalab.gouv.fr/fr/deps?repo=https%3A%2F%2Fgithub.com%2FINRIA%2Fspoon][les
+  dépôts qui ont des dépendances proches du dépôt de l'INRIA "spoon"]] ;
+
+- l'ajout des liens vers les politiques de contributions open source
+  associées aux comptes d'organisation - par exemple, les comptes
+  d'organisation des [[https://code.etalab.gouv.fr/fr/groups?q=incubateur][incubateurs]] pointent vers la politique définie
+  par [[https://beta.gouv.fr][beta.gouv.fr]] ;
+
+- la possibilité de filtrer les dépôts selon qu'ils appartiennent à
+  une organisation de l'ESR (enseignement supérieur et recherche) ou
+  non (via le menu "Options").
+
+Du côté du Socle Interministériel de Logiciels Libres (SILL), une
+nouvelle liste est disponible, celle des services utilisant certains
+des logiciels libres référencés.  Cette liste s'appelle « [[https://sill.etalab.gouv.fr/fr/papillon][PAPILLON]] »
+pour « Portail Administratif des Plateformes Intégrant des Logiciels
+Libres et Ouvertes au plus grand Nombre » - bien sûr, il nous plaît
+d'imaginer les [[https://chatons.org/][CHATONS]] courrir après ce PAPILLON.
+
+=>>= Voir la [[https://sill.etalab.gouv.fr/fr/papillon][liste des services de PAPILLON]]
+
+=>>= Enrichir cette liste via [[https://github.com/etalab/papillon][ce dépôt]]
+
+Autre nouveauté du SILL, lorsqu'un [[https://sill.etalab.gouv.fr/fr/contributors][contributeur]] du SILL a une
+politique d'utilisation de logiciels libres, nous affichons un lien
+vers cette politique.
+
+* Ouverture de la plateforme Démarches Simplifiées de l’ADULLACT
+
+Démarches Simplifiées est un service de l’État basé sur un logiciel
+libre.  Depuis plusieurs mois, l’ADULLACT et la DINUM travaillent main
+dans la main sur le développement de cet outil, destiné à faciliter la
+création de démarches en ligne côté administration, et la gestion des
+démarches côté usager. L’association ADULLACT dispose désormais de sa
+propre plateforme, dédiée aux collectivités et établissements
+publics. Elle sera ouverte aux tests dès la fin du mois, et
+opérationnelle en fin d’année.
+
+=>>= En savoir plus : http://demarches-simplifiees.adullact.org
+
+* Focus sur la plateforme OLKi pour le partage de données dans le Fediverse
+
+Le projet [[https://olki.loria.fr][OLKi]], financé par le Programme d'Investissement d'Avenir 2
+via [[https://lue.univ-lorraine.fr/fr][Lorraine Université d'Excellence]], contribue à la communauté du
+[[https://fr.wikipedia.org/wiki/Fediverse][Fediverse]] en proposant une nouvelle [[https://olki.loria.fr/platform][plateforme]] en open-source,
+disponible sur [[https://framagit.org/synalp/olki/olki][Framagit]].
+
+Alors que de nombreuses autres plateformes basées sur le protocole
+[[https://www.w3.org/TR/activitypub][ActivityPub]] permettent d'échanger de manière décentralisée des données
+spécifiques tout en laissant le contrôle de ces données à leurs
+producteurs (micro-blogs avec [[https://joinmastodon.org][mastodon]], vidéos avec [[https://joinpeertube.org][peertube]], musique
+avec [[https://funkwhale.audio][funkwhale]] et [[https://en.wikipedia.org/wiki/Fediverse][bien d'autres]]), la [[https://olki.loria.fr/platform][plateforme OLKi]] permet d'échanger
+des fichiers et des données brutes, de tout type. Elle permet la
+fédération (via ActivityPub) à deux niveaux:
+
+- Au niveau des données elles-mêmes, en partageant les listes de corpus disponibles sur chaque noeud.
+- Au niveau du fil de commentaires attachés à chaque corpus: ceci permet notamment de partager ces commentaires avec d'autres plateformes du Fediverse, comme Mastodon.
+
+La version 0.4.0-beta.0 de la plateforme est déjà utilisable et permet
+ces deux types de fédération, ainsi qu'un déploiement facilité via une
+image Docker. Une instance de démonstration est disponible sur
+[[https://olki-social.loria.fr][olki-social.loria.fr]].
+
+* Focus sur hackinscience.org
+
+[[https://www.hackinscience.org][Hackinscience]] est une plateforme open-source et gratuite développée
+par [[https://mdk.fr/][Julien Palard]], et permettant d'apprendre à programmer en Python
+par le biais d'exercices graduées en difficulté.
+
+Inspirée par d'autres plateformes comme [[https://www.jetbrains.com/][JetBrains]] et [[https://www.codecademy.com/][Codeacademy]] dont
+la popularité a explosé ces dernières années, la plateforme propose
+pour chaque exercice un énoncé et un cadre permettant de taper et
+d'évaluer son code directement dans le navigateur.  Avec déjà plus de
+60 exercices à son compte, la Hackinscience se présente comme une
+alternative beaucoup plus légère aux piliers du marché en plaçant
+l'emphase sur la simplicité.
+
+=>>= En savoir plus : https://hackinscience.org
+
+* Ne manquez pas les Rencontres Scenari!
+
+Comme chaque année, l'association [[https://www.hackinscience.org][Scenari]] organise ses "Rencontres"
+pour faire connaître les nouveautés et les usages autour des outils
+Scenari. Les Rencontres 2020 se dérouleront dans un format hybride,
+asynchrone pendant le mois d'octobre et synchrone les 28-29-30
+octobre.
+
+Scenari ce sont des logiciels libres et gratuits qui s'adressent à des
+utilisateurs-métiers différents, ayant en commun la création, la
+conception et la modélisation de documents dans des domaines tels que
+la formation, la documentation, la gestion et la création de
+documents.
+
+=>>= Pour participer gratuitement aux Rencontres et découvrir ce que les outils Scenari peuvent faire pour vous, rendez-vous sur [[https://scenari.org/rencontres2020][le site dédié aux Rencontres Scenari 2020]].
+
+* Open Source Politics déploie une plateforme de pétitions pour le Sénat
+
+Pendant plusieurs mois, OSP et les équipes du Sénat ont travaillé main
+dans la main au lancement d’un nouveau service : la plateforme
+officielle petitions.senat.fr
+
+Cette plateforme permet aux citoyen·ne·s de déposer des pétitions
+et/ou d’en signer en ligne, de manière sécurisée grâce à une
+intégration FranceConnect avancée. Cette innovation démocratique
+utilise la technologie libre et open source Decidim, et notamment le
+module “Initiatives” autorisant un droit d’interpellation aux
+citoyen·ne·s.
+
+Utilisé par la mairie de Barcelone depuis plusieurs années, c’est la
+première fois qu’il est déployé en France, et pour la première fois
+également dans un Parlement de l’Union Européenne.
+
+=>>= En savoir plus : https://opensourcepolitics.eu/actualites/open-source-politics-deploie-une-plateforme-de-petitions-pour-le-senat
+
+* La direction du numérique éducatif a contribué à Peertube
+
+Voici ce qu'on pouvait lire dans la lettre d'information n°25 de
+l'association d'éducation populaire [[https://framasoft.org/][Framasoft]] :
+
+#+begin_quote
+Début juin, la version 2.2 a été publiée. Elle apporte de nombreuses améliorations de l’interface, que ce soit pour la barre de recherche, le menu des paramètres, l’import et la description des vidéos ou l’administration d’une instance. De nouveaux plugins offrent aux responsables d’instance la possibilité de proposer aux membres de s’identifier avec des outils externes (LDAP, OAuth, SAMLv2). Ce travail a été rendu possible grâce à une commande financée par la Direction du Numérique pour l’Éducation du Ministère de l’Éducation et de la Jeunesse, que nous remercions pour sa contribution à PeerTube.
+#+end_quote
+
+=>>= En savoir plus : la [[https://contact.framasoft.org/nl/newsletter25.html][lettre d'information n°25]] et découvrir [[https://joinpeertube.org/][Peertube]]
+
+* Des nouvelles de l'Open Source Observatory
+
+OSOR a publié [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/oss-repositories][une nouvelle page]] réunissant des 'repositories' de
+logiciels libres pour les administrations publiques en Europe.
+   
+OSOR a également publié une série d'études de cas sur des communautés
+open source durables au sein des administrations publiques:
+
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/lutece-case-studies-sustainability-public-sector-open-source-communities][Lutece]]
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/developers-italia-case-studies-sustainability-public-sector-open-source-communities][Developers Italia]]
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/voice-groningen-case-studies-sustainability-public-sector-open-source-communities][The Voice of Groningen]]
+
+* Du nouveau pour l'accessibilité dans LibreOffice 7.0
+
+La récente version 7.0 de LibreOffice intègre deux fonctionnalités
+expérimentales liées à l’accessibilité :
+
+1. le support du format PDF/UA (Universal Accessibility) en export ;
+2. un assistant de vérification de plusieurs points d’accessibilité :
+   - absence du titre dans les propriétés du document,
+   - contrastes insuffisants entre les textes et leurs fonds,
+   - présence de cellules de tableau scindées sur plusieurs pages, etc.
+
+* Un système d'exploitation pour préparer les épreuves orales du CAPES NSI
+
+CAPESOS est un système d'exploitation conçu pour permettre aux
+candidats du CAPES Numérique et Sciences Informatiques (concours
+externe et troisième concours) de préparer au mieux leurs épreuves
+orales.  La liste de logiciels installés incluent de nombreux
+logiciels libres comme LibreOffice, Gimp, Zeal ou Firefox, mais aussi
+des éditeurs et des IDEs libres comme Emacs, Vim, Atom, Spyder et
+Jupyter.
+
+=>>= En savoir plus : https://capesos.alwaysdata.net
+
+Vous trouverez aussi sur le site du jury du CAPES NSI une liste de
+logiciels recommandés, dont la plupart sont libres :
+
+=>>= En savoir plus : https://capes-nsi.org/index.php?id=manuels-et-environnement-informatique
+
+* Des ressources pédagogiques autour de l'Open Source
+
+Citons tout d'abord ce cours en vidéo, « [[https://www.youtube.com/watch?v=YQTEq9BRefo][Open Source: Comprendre,
+Contribuer]] », de [[https://twitter.com/lionellaske][Lionel Laské]], créateur et mainteneur du logiciel
+[[https://sugarizer.org/][Sugarizer]], une suite éducative libre.  Vous pouvez aussi lire
+[[http://www.7avoir.net/2020/07/comment-contribuer-aux-developpement-de-logiciels-open-source.html][l'article qui présente ce cours]].
+
+Citons ensuite, « L'Open source en pratique », un wébinaire de [[https://twitter.com/maeool][Maël
+Thomas]].  La [[https://youtu.be/uC6NdLZJZVs ][session 1]] fait office d'introduction, notamment au service
+GitHub et la [[https://youtu.be/gbm03jz1EIE][session 2]] qui se donne pour objectif de contribuer sans
+savoir coder à un dépôt gitlab pour créer des cartes minute vélo.
+
+* Revue de presse
+
+- La plateforme [[https://code.etalab.gouv.fr][code.etalab.gouv.fr]] a été référencée dans le projet [[https://digitalpublicgoods.net/explore/#code.etalab.gouv.fr][digitalpublicgoods.net]].
+- [[https://www.rz.uni-osnabrueck.de/homeoffice/bigbluebutton.html][L'Université de Osnabrück adopte BigBlueButton]] (juin 2020, en allemand)
+- [[https://www.actualitesdudroit.fr/browse/tech-droit/donnees/27986/ouverture-des-donnees-et-des-codes-sources-publics-l-etat-souhaite-accelerer][Ouverture des données et des codes sources publics : l’État souhaite accélérer]] (actualitesdudroit.fr, juin 2020)
+- [[http://ww2.ac-poitiers.fr/dane/spip.php?article911][Les recommandations de la délégation au numérique éducatif de Poitiers citent le logiciel libre]] (ac-poitiers.fr, juillet 2020)
+- [[https://www.lemagit.fr/actualites/252487001/Souverainete-numerique-et-Guerre-Froide-technologique-lavenir-du-cloud-sannonce-orageux][« Une autre piste de souveraineté est à chercher dans l’open source. »]] (lemagit.fr, juillet 2020)
+- [[https://www.journaldunet.com/solutions/dsi/1492889-chamilo-la-plateforme-lms-europeenne-integre-le-sill-socle-interministeriel-de-logiciels-libres/][Le Socle interministériel de logiciels libres, indispensable outil éthique en période de crise !]] (juillet 2020)
+- [[https://www.lagazettedescommunes.com/692391/algorithmes-une-essentielle-prise-en-compte-de-la-dimension-ethique/][Algorithmes : une essentielle prise en compte de la dimension éthique]] (lagazette.fr, août 2020)
+- [[https://www.latribune.fr/opinions/tribunes/construire-la-resilience-economique-et-la-souverainete-numerique-grace-aux-ecosystemes-libres-855436.html][Construire la résilience économique et la souveraineté numérique grâce aux écosystèmes libres]] (latribune.fr, août 2020)
+- Amazon propose une nouvelle page [[https://aws.amazon.com/fr/government-education/government/open-government-solutions/digital-services-and-code/?open-government-solutions-cards.sort-by=item.additionalFields.sortOrder&open-government-solutions-cards.sort-order=asc&awsm.page-open-government-solutions-cards=1&awsf.open-government-solutions-filter-location=location%23france][Open Government Solutions]] qui liste les ressources mises à disposition par l'administration française, dont le [[https://sill.etalab.gouv.fr/][SILL]] et [[https://code.etalab.gouv.fr][code.etalab.gouv.fr]].
+
+-----
+
+#+begin_export html
+<div id="footer"> 
+<p> 
+<a href="https://www.numerique.gouv.fr/dinum/">Direction interministérielle du numérique (DINUM)</a>
+ <br/>
+20 avenue de Ségur, 75007 Paris</p> 
+</div> 
+#+end_export

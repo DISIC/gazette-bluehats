@@ -198,6 +198,8 @@ expérimentales liées à l’accessibilité :
    - contrastes insuffisants entre les textes et leurs fonds,
    - présence de cellules de tableau scindées sur plusieurs pages, etc.
 
+=>>= En savoir plus sur [[https://wiki.documentfoundation.org/ReleaseNotes/7.0/fr#Am.C3.A9lioration_de_l.27accessibilit.C3.A9][le wiki de The Document Foundation]]
+
 * Un système d'exploitation pour préparer les épreuves orales du CAPES NSI
 
 CAPESOS est un système d'exploitation conçu pour permettre aux

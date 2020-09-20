@@ -238,6 +238,8 @@ savoir coder à un dépôt gitlab pour créer des cartes minute vélo.
 - [[https://www.lagazettedescommunes.com/692391/algorithmes-une-essentielle-prise-en-compte-de-la-dimension-ethique/][Algorithmes : une essentielle prise en compte de la dimension éthique]] (lagazette.fr, août 2020)
 - [[https://www.latribune.fr/opinions/tribunes/construire-la-resilience-economique-et-la-souverainete-numerique-grace-aux-ecosystemes-libres-855436.html][Construire la résilience économique et la souveraineté numérique grâce aux écosystèmes libres]] (latribune.fr, août 2020)
 - Amazon propose une nouvelle page [[https://aws.amazon.com/fr/government-education/government/open-government-solutions/digital-services-and-code/?open-government-solutions-cards.sort-by=item.additionalFields.sortOrder&open-government-solutions-cards.sort-order=asc&awsm.page-open-government-solutions-cards=1&awsf.open-government-solutions-filter-location=location%23france][Open Government Solutions]] qui liste les ressources mises à disposition par l'administration française, dont le [[https://sill.etalab.gouv.fr/][SILL]] et [[https://code.etalab.gouv.fr][code.etalab.gouv.fr]].
+- [[http://jamesmcm.github.io/blog/2020/09/12/foss-government/][Why governments should adopt and invest in FOSS]] (septembre 2020, [[https://news.ycombinator.com/item?id=24461364][discussion sur HN]])
+- [[https://medialab.sciencespo.fr/actu/comment-georges-wilson-a-tue-gatsbyjs/][Comment Georges Wilson a tué Gatsby.js]] (medialab.sciencespo.fr, septembre 2020)
 
 -----
 

@@ -9,7 +9,6 @@
 # Intro
 
 #+begin_center
------
 La gazette [[https://disic.github.io/gazette-bluehats/][#BlueHats]] est une lettre d'information bimestrielle sur le
 logiciel libre dans, par et pour l'administration publique. Cette
 gazette est la contribution de la [[https://www.numerique.gouv.fr/][DINUM]] au mouvement des #BlueHats,

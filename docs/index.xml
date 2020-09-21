@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Gazette #BlueHats n°7</title>
+      <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_7/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_7/</guid>
+      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.  Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.  Pour accéder à la version en ligne, cliquez ici. Bonne lecture !</description>
+    </item>
+    
+    <item>
       <title>Gazette #BlueHats n°6</title>
       <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_6/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
@@ -73,6 +82,15 @@
       
       <guid>https://disic.github.io/gazette-bluehats/a-propos/</guid>
       <description>La gazette #BlueHats est la contribution de la DINUM au mouvement BlueHats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l&amp;#39;administration.    Pour vous y inscrire : https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio  Voir l&amp;#39;article de lancement sur numerique.gouv.fr. Contribuez !   Vous pouvez annoncer un événement, envoyer le compte-rendu d&amp;#39;un événement, faire une annonce sur un logiciel libre particulier ou proposer un témoignage.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://disic.github.io/gazette-bluehats/peut-etre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://disic.github.io/gazette-bluehats/peut-etre/</guid>
+      <description>Tchatcha : Une nouvelle solution de vérification de formulaire   https://github.com/etalab/tchatcha Focus sur HackinScience   from Julien Palard: Re: Aidez-nous à rédiger la prochaine gazette #Blu  Je n&amp;#39;ai pas accès au mail, donc je me suis basé sur leur page &amp;#34;About&amp;#34; et quelques exercices : https://www.hackinscience.org/about/     En savoir plus : https://www.hackinscience.org/about/ (en anglais)   Rétroviseur     https://rmll.ubicast.tv/videos/amphi-bunuel-administrations-et-logiciels-libres-le-clausier-des-marches-publics/    https://www.</description>
     </item>
     
   </channel>

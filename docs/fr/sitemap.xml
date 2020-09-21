@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://disic.github.io/gazette-bluehats/gazette_bluehat_6/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <loc>https://disic.github.io/gazette-bluehats/gazette_bluehat_7/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://disic.github.io/gazette-bluehats/post/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://disic.github.io/gazette-bluehats/gazette_bluehat_6/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -55,6 +60,10 @@
   <url>
     <loc>https://disic.github.io/gazette-bluehats/a-propos/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://disic.github.io/gazette-bluehats/peut-etre/</loc>
   </url>
   
   <url>

@@ -5,12 +5,6 @@
 #+options: toc:nil num:nil H:4 ^:nil pri:t html-postamble:nil html-preamble:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="style.css" />
 
-# Logo
-
-#+begin_export html
-<img src="https://raw.githubusercontent.com/DISIC/gazette-bluehats/master/static/img/bluehats.png" style="max-width: 300px; margin: 40px auto;"
-#+end_export
-
 # Intro
 
 #+begin_center

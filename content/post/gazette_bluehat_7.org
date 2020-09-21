@@ -1,7 +1,8 @@
 #+title: Gazette #BlueHats n°7
-#+date: <2020-09-21 mer.>
+#+date: 2020-09-20
 #+author: DINUM
 #+layout: post
+#+draft: false
 #+options: toc:nil num:nil H:4 ^:nil pri:t html-postamble:nil html-preamble:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="style.css" />
 

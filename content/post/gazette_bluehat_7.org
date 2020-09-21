@@ -58,6 +58,54 @@ décembre en visio-conférence.
 
 =>>= Contact : label@territoire-numerique-libre.org
 
+* Ouverture de la plateforme Démarches Simplifiées de l’ADULLACT
+
+Démarches Simplifiées est un service de l’État basé sur un logiciel
+libre.  Depuis plusieurs mois, l’ADULLACT et la DINUM travaillent main
+dans la main sur le développement de cet outil, destiné à faciliter la
+création de démarches en ligne côté administration, et la gestion des
+démarches côté usager. L’association ADULLACT dispose désormais de sa
+propre plateforme, dédiée aux collectivités et établissements
+publics. Elle sera ouverte aux tests dès la fin du mois, et
+opérationnelle en fin d’année.
+
+=>>= En savoir plus : http://demarches-simplifiees.adullact.org
+
+* Ne manquez pas les Rencontres Scenari!
+
+Comme chaque année, l'association [[https://www.hackinscience.org][Scenari]] organise ses "Rencontres"
+pour faire connaître les nouveautés et les usages autour des outils
+Scenari. Les Rencontres 2020 se dérouleront dans un format hybride,
+asynchrone pendant le mois d'octobre et synchrone les 28-29-30
+octobre.
+
+Scenari ce sont des logiciels libres et gratuits qui s'adressent à des
+utilisateurs-métiers différents, ayant en commun la création, la
+conception et la modélisation de documents dans des domaines tels que
+la formation, la documentation, la gestion et la création de
+documents.
+
+=>>= Pour participer gratuitement aux Rencontres et découvrir ce que les outils Scenari peuvent faire pour vous, rendez-vous sur [[https://scenari.org/rencontres2020][le site dédié aux Rencontres Scenari 2020]].
+
+* Une plateforme de pétitions en logiciel libre pour le Sénat
+
+Pendant plusieurs mois, [[https://opensourcepolitics.eu/][Open Source Politics]] et les équipes du Sénat
+ont travaillé main dans la main au lancement d’un nouveau service : la
+plateforme officielle [[https://petitions.senat.fr/][petitions.senat.fr]].
+
+Cette plateforme permet aux citoyen·ne·s de déposer des pétitions
+et/ou d’en signer en ligne, de manière sécurisée grâce à une
+intégration FranceConnect avancée. Cette innovation démocratique
+utilise la technologie libre et open source Decidim, et notamment le
+module “Initiatives” autorisant un droit d’interpellation aux
+citoyen·ne·s.
+
+Utilisé par la mairie de Barcelone depuis plusieurs années, c’est la
+première fois qu’il est déployé en France, et pour la première fois
+également dans un Parlement de l’Union Européenne.
+
+=>>= En savoir plus : https://opensourcepolitics.eu/actualites/open-source-politics-deploie-une-plateforme-de-petitions-pour-le-senat
+
 * Du nouveau sur code.etalab.gouv.fr et sill.etalab.gouv.fr
 
 La plateforme [[https://code.etalab.gouv.fr][code.etalab.gouv.fr]] publiée par Etalab a été mise à
@@ -92,19 +140,6 @@ d'imaginer les [[https://chatons.org/][CHATONS]] courrir après ce PAPILLON.
 Autre nouveauté du SILL, lorsqu'un [[https://sill.etalab.gouv.fr/fr/contributors][contributeur]] du SILL a une
 politique d'utilisation de logiciels libres, nous affichons un lien
 vers cette politique.
-
-* Ouverture de la plateforme Démarches Simplifiées de l’ADULLACT
-
-Démarches Simplifiées est un service de l’État basé sur un logiciel
-libre.  Depuis plusieurs mois, l’ADULLACT et la DINUM travaillent main
-dans la main sur le développement de cet outil, destiné à faciliter la
-création de démarches en ligne côté administration, et la gestion des
-démarches côté usager. L’association ADULLACT dispose désormais de sa
-propre plateforme, dédiée aux collectivités et établissements
-publics. Elle sera ouverte aux tests dès la fin du mois, et
-opérationnelle en fin d’année.
-
-=>>= En savoir plus : http://demarches-simplifiees.adullact.org
 
 * Focus sur la plateforme OLKi pour le partage de données dans le Fediverse
 
@@ -146,41 +181,6 @@ l'emphase sur la simplicité.
 Merci à [[https://mdk.fr/][Julien Palard]] de nous avoir signalé ce projet !
 
 =>>= En savoir plus : https://hackinscience.org
-
-* Ne manquez pas les Rencontres Scenari!
-
-Comme chaque année, l'association [[https://www.hackinscience.org][Scenari]] organise ses "Rencontres"
-pour faire connaître les nouveautés et les usages autour des outils
-Scenari. Les Rencontres 2020 se dérouleront dans un format hybride,
-asynchrone pendant le mois d'octobre et synchrone les 28-29-30
-octobre.
-
-Scenari ce sont des logiciels libres et gratuits qui s'adressent à des
-utilisateurs-métiers différents, ayant en commun la création, la
-conception et la modélisation de documents dans des domaines tels que
-la formation, la documentation, la gestion et la création de
-documents.
-
-=>>= Pour participer gratuitement aux Rencontres et découvrir ce que les outils Scenari peuvent faire pour vous, rendez-vous sur [[https://scenari.org/rencontres2020][le site dédié aux Rencontres Scenari 2020]].
-
-* Une plateforme de pétitions en logiciel libre pour le Sénat
-
-Pendant plusieurs mois, [[https://opensourcepolitics.eu/][Open Source Politics]] et les équipes du Sénat
-ont travaillé main dans la main au lancement d’un nouveau service : la
-plateforme officielle [[https://petitions.senat.fr/][petitions.senat.fr]].
-
-Cette plateforme permet aux citoyen·ne·s de déposer des pétitions
-et/ou d’en signer en ligne, de manière sécurisée grâce à une
-intégration FranceConnect avancée. Cette innovation démocratique
-utilise la technologie libre et open source Decidim, et notamment le
-module “Initiatives” autorisant un droit d’interpellation aux
-citoyen·ne·s.
-
-Utilisé par la mairie de Barcelone depuis plusieurs années, c’est la
-première fois qu’il est déployé en France, et pour la première fois
-également dans un Parlement de l’Union Européenne.
-
-=>>= En savoir plus : https://opensourcepolitics.eu/actualites/open-source-politics-deploie-une-plateforme-de-petitions-pour-le-senat
 
 * La direction du numérique éducatif a contribué à Peertube
 

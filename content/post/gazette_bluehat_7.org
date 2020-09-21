@@ -27,6 +27,22 @@ Pour accéder à la version en ligne, [[https://disic.github.io/gazette-bluehats
 -----
 #+end_center
 
+* Enquête sur vos pratiques de publication de codes sources
+
+[[https://www.etalab.gouv.fr/][Etalab]] lance une enquête sur les pratiques de publication de codes
+sources dans le secteur public.  Cette enquête anonyme vous prendra 5
+à 15 minutes et aidera Etalab à comprendre comment faire évoluer son
+accompagnement à ce sujet.
+
+=>>= [[https://framaforms.org/pratiques-de-publication-de-code-source-du-secteur-public-hors-esr-1600673740][Répondre à l'enquête]] sur les pratiques de publication de codes sources
+
+*Attention* : cette enquête ne concerne /pas/ l'enseignement supérieur et
+la recherche, secteur pour lequel une enquête spécifique vient d'être
+terminée.
+
+Les résultats des deux enquêtes seront publiés par Etalab d'ici la fin
+de l'année.  Merci beaucoup pour votre aide !
+
 * Appel à candidature pour le label « Territoire Numérique Libre »
 
 Il reste encore quelques semaines pour participer au label national
@@ -233,6 +249,7 @@ savoir coder à un dépôt gitlab pour créer des cartes minute vélo.
 
 * Revue de presse
 
+- Il y a quelques [[https://etats-generaux-du-numerique.education.gouv.fr/search?filter%5Bdecidim_scope_id%5D=&filter%5Bresource_type%5D=Decidim%3A%3AProposals%3A%3AProposal&filter%5Bterm%5D=logiciel+libre&utf8=%E2%9C%93][propositions relatives au logiciel libre]] dans les États généraux du numérique pour l'éducation, organisés par le MENJ.
 - La plateforme [[https://code.etalab.gouv.fr][code.etalab.gouv.fr]] a été référencée dans le projet [[https://digitalpublicgoods.net/explore/#code.etalab.gouv.fr][digitalpublicgoods.net]].
 - [[https://www.rz.uni-osnabrueck.de/homeoffice/bigbluebutton.html][L'Université de Osnabrück adopte BigBlueButton]] (juin 2020, en allemand)
 - [[https://www.actualitesdudroit.fr/browse/tech-droit/donnees/27986/ouverture-des-donnees-et-des-codes-sources-publics-l-etat-souhaite-accelerer][Ouverture des données et des codes sources publics : l’État souhaite accélérer]] (actualitesdudroit.fr, juin 2020)

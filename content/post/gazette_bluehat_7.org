@@ -67,7 +67,7 @@ opérationnelle en fin d’année.
 
 * Ne manquez pas les Rencontres Scenari!
 
-Comme chaque année, l'association [[https://www.hackinscience.org][Scenari]] organise ses "Rencontres"
+Comme chaque année, l'association [[https://scenari.org][Scenari]] organise ses "Rencontres"
 pour faire connaître les nouveautés et les usages autour des outils
 Scenari. Les Rencontres 2020 se dérouleront dans un format hybride,
 asynchrone pendant le mois d'octobre et synchrone les 28-29-30

@@ -1,0 +1,127 @@
+#+title: Gazette #BlueHats n°8
+#+date: 2020-11-18
+#+author: DINUM
+#+layout: post
+#+draft: false
+#+options: toc:nil num:nil H:4 ^:nil pri:t html-postamble:nil html-preamble:nil
+#+html_head: <link rel="stylesheet" type="text/css" href="style.css" />
+
+# Intro
+
+#+begin_center
+La gazette [[https://disic.github.io/gazette-bluehats/][#BlueHats]] est une lettre d'information bimestrielle sur le
+logiciel libre dans, par et pour l'administration publique. Cette
+gazette est la contribution de la [[https://www.numerique.gouv.fr/][DINUM]] au mouvement des #BlueHats,
+les hackers d'intérêt général.
+
+Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes
+précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
+
+Pour accéder à la version en ligne, [[https://disic.github.io/gazette-bluehats/gazette_bluehat_7/][cliquez ici]].  Bonne lecture !
+-----
+#+end_center
+
+* Une liste #BlueHats pour échanger
+
+Une gazette, c'est bien, une liste pour échanger, c'est mieux !
+
+La liste est ouverte à tous, agents public ou non.  Les échanges et
+les archives de cette liste sont privés.
+
+=>>= Pour vous inscrire en ligne : [[https://listes.etalab.gouv.fr/listinfo/bluehats][listes.etalab.gouv.fr]]
+
+* Le calendrier des ateliers #BlueHats
+
+Depuis juillet 2020, et à l'initiative des référents du [[https://sill.etalab.gouv.fr/fr/software][Socle
+Interministériel de Logiciels Libres]], des wébinaires en ligne sont
+régulièrement organisés pour présenter des logiciels libres utilisés
+dans l'administration.
+
+Le prochain atelier aura lieu ce vendredi 20 novembre à 11h [[https://visio.incubateur.net/b/bas-vwv-2ww][en visio]]
+et portera sur [[https://www.xwiki.org/xwiki/bin/view/Main/WebHome][XWiki]].  Les ateliers suivants porteront sur Prodige et
+Atlasanté, l'association Exodus Privacy, le projet OpenMole, les JDEV
+et la plateforme vidéo “Constellation”, ainsi que la solution Tuleap.
+
+Si vous voulez présenter un cas d'utilisation d'une solution libre
+dans l'administration, n'hésitez pas à proposer un atelier #BlueHats !
+
+=>>= Consultez le [[https://box.bzg.io/cloud/index.php/apps/calendar/p/Lt2cGqsFS82mjkWL][calendrier en ligne]]
+
+=>>= Consultez le pad avec [[https://pad.incubateur.net/d3cj0U1WT42y-rQoozp4gQ][le détail des événements]]
+
+* La Commission européenne publie sa stratégie Open Source
+
+Le 21 octobre, la Commission européenne a approuvé la nouvelle
+stratégie Open Source pour 2020-2023.
+
+=>>= En lire plus sur [[https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en][le site de la Commission européenne]]
+=>>= Lire le rapport [[https://ec.europa.eu/info/sites/info/files/fr_ec_open_source_strategy_2020-2023.pdf][en français]] ou [[https://ec.europa.eu/info/sites/info/files/en_ec_open_source_strategy_2020-2023.pdf][en anglais]]
+
+Dans la presse :
+
+- [[https://www.silicon.fr/open-source-engagements-commission-europeenne-349799.html][Open Source : les 5 engagements de la Commission européenne]] (silicon.fr)
+- [[https://www.zdnet.fr/blogs/l-esprit-libre/la-commission-europeenne-fervent-utilisateur-des-logiciels-libres-39911923.htm][La Commission européenne "fervent utilisateur des logiciels libres"]] (zdnet.fr)
+
+* Guidelines for creating sustainable open source communities 
+
+L'Open Source Observatory européen vient de publier un guide pour la
+création de communautés libres durables dans le secteur public.
+
+=>>= Lire le guide en anglais [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities][sur le site de l'Observatoire de l'Open Source]]
+
+* Le MENJS a contribué à BigBlueButton
+
+Le MENJS a financé des développements pour la solution de
+visioconférence BigBlueButton, notamment pour le téléversement de
+documents avant d'entre dans un salon : cela permet d'éviter que les
+enseignants avec une connexion lente ne passent du temps à téléverser
+dans le salon des documents lourds et que les élèves soient "seuls"
+dans le salon avec l'enseignant bloqué sur la page de téléversement.
+
+=>>= Voir [[https://github.com/bigbluebutton/greenlight/releases/tag/release-2.7][les notes de publication de la version 2.7]]
+
+* Compte-rendu des rencontres Scenari
+
+L'association Scenari, qui fédère les utilisateur⋅rice⋅s du logiciel
+libre Scenari, a organisé comme chaque année ses "Rencontres" pour
+écouter la communauté d'utilisateur⋅rice⋅s, faire partager des retours
+d'expérience et des ateliers, apporter des l'information sur les
+prochains axes de développement et créer des synergies entre
+participant⋅e⋅s.
+
+201 personnes se sont inscrites pour visionner les 12 retours
+d'expérience et les 8 ateliers proposés en modalité asynchrone, et
+participer aux sessions synchrones de visioconférence les 29-30
+octobre. L'association a aussi réalisé son Assemblée Générale annuelle
+le 28 octobre et à renouvelé son bureau par la même occasion.
+
+=>>=  Plus de détails en ligne : [[https://scenari.org/rencontres2020][scenari.org/rencontres2020]]
+
+* Clinique #BlueHats pour l'ouverture des codes sources
+
+Le lundi 23 novembre de 13h30 à 17h30, dans le cadre du mois de
+l'innovation publique, Etalab organise une « clinique » d'ouverture
+des codes sources publics.  Besoin d’aide pour ouvrir des codes
+sources ? Venez posez vos questions et proposer vos codes sources lors
+de sessions de travail collectives et individuelles.
+
+La rencontre aura lieu [[https://visio.incubateur.net/b/bas-vwv-2ww][en visioconférence]].
+
+=>>= En savoir plus sur la page du [[https://www.modernisation.gouv.fr/mois-innovation-publique/evenement/ouvrez-vos-codes-sources][mois de l'innovation publique]]
+
+* Revue de presse
+
+- [[https://www.acteurspublics.fr/articles/ouverture-des-donnees-des-pistes-pour-relancer-la-machine][Ouverture des données : des pistes pour relancer la machine]] (acteurspublics.fr)
+- [[https://www.acteurspublics.fr/articles/etats-generaux-du-numerique-educatif-les-lecons-que-tire-le-ministere-de-sa-consultation-publique][États généraux du numérique éducatif : les leçons que tire le ministère de sa consultation publique]] (acteurspublics.fr)
+- [[https://labo.societenumerique.gouv.fr/2020/10/26/ouverture-des-donnees-publiques-sur-fond-de-crise-sanitaire-une-mission-se-penche-sur-la-politique-publique-de-la-donnee/][Ouverture des données publiques sur fond de crise sanitaire : une mission se penche sur la politique publique de la donnée]] (labo.societenumerique.gouv.fr)
+- [[https://www.cio-online.com/actualites/lire-demarches-simplifiees-les-collectivites-locales-servies-par-l-adullact-12645.html][Démarches Simplifiées : les collectivités locales servies par l'ADULLACT]] (cio-online.com) 
+- [[https://www.lagazettedescommunes.com/700244/demarches-simplifiees-une-plateforme-specialement-destinee-aux-collectivites/][Démarches simplifiées : une plateforme spécialement destinée aux collectivités]] (lagazettedescommunes.com)
+- [[https://www.itforbusiness.fr/pourquoi-est-il-si-difficile-de-trouver-des-alternatives-aux-gafam-41068][Pourquoi est-il si difficile de trouver des alternatives aux GAFAM ?]] (itforbusiness.fr)
+- [[https://www.acteurspublics.fr/articles/letat-travaille-sur-une-nouvelle-solution-de-visioconference-pour-leducation-nationale][L’État travaille sur une nouvelle solution de visioconférence pour l’éducation nationale]] (acteurspublics.fr)
+- [[https://lehub.bpifrance.fr/open-source-modele-reconnu/][L’Open Source : un modèle qui gagne à être (re)connu avec Digital Venture]] (lehub.bpifrance.fr)
+
+-----
+
+#+begin_export html
+<div id="footer"><p><a href="https://www.numerique.gouv.fr/dinum/">Direction interministérielle du numérique (DINUM)</a><br/> 20 avenue de Ségur, 75007 Paris</p></div> 
+#+end_export

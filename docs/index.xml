@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
     <copyright>Direction interministérielle du numérique</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://disic.github.io/gazette-bluehats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gazette #BlueHats n°8</title>
+      <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_8/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_8/</guid>
+      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.
+ Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.
+ Pour accéder à la version en ligne, cliquez ici. Bonne lecture !
+  Une liste #BlueHats pour échanger   Une gazette, c&amp;#39;est bien, une liste pour échanger, c&amp;#39;est mieux !</description>
+    </item>
     
     <item>
       <title>Gazette #BlueHats n°7</title>
@@ -18,7 +30,10 @@
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_7/</guid>
-      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.  Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.  Pour accéder à la version en ligne, cliquez ici. Bonne lecture !   Enquête sur vos pratiques de publication de codes sources   Etalab lance une enquête sur les pratiques de publication de codes sources dans le secteur public.</description>
+      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.
+ Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.
+ Pour accéder à la version en ligne, cliquez ici. Bonne lecture !
+  Enquête sur vos pratiques de publication de codes sources   Etalab lance une enquête sur les pratiques de publication de codes sources dans le secteur public.</description>
     </item>
     
     <item>
@@ -27,7 +42,10 @@
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_6/</guid>
-      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.  Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.  Bel été à toutes et tous, et bonne lecture ! Lancement des ateliers #BlueHats   La communauté d&amp;#39;agents publics fédérée autour du Socle Interministériel de Logiciels Libres se mobilise pour faire connaître les logiciels libres utilisées dans l&amp;#39;administration - et au-delà !</description>
+      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.
+ Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.
+ Bel été à toutes et tous, et bonne lecture !
+Lancement des ateliers #BlueHats   La communauté d&amp;#39;agents publics fédérée autour du Socle Interministériel de Logiciels Libres se mobilise pour faire connaître les logiciels libres utilisées dans l&amp;#39;administration - et au-delà !</description>
     </item>
     
     <item>
@@ -36,7 +54,9 @@
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_5/</guid>
-      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.  Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions. Le socle interministériel de logiciels libres 2020 est en ligne   Le socle interministériel des logiciels libres (SILL) 2020 est publié.</description>
+      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.
+ Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.
+Le socle interministériel de logiciels libres 2020 est en ligne   Le socle interministériel des logiciels libres (SILL) 2020 est publié.</description>
     </item>
     
     <item>
@@ -45,7 +65,9 @@
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_4/</guid>
-      <description>La gazette #BlueHats est une lettre d’information bimestrielle sur le logiciel libre dans, par et pour l’administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d’intérêt général.  Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions. La journée #BlueHats au Paris Open Source Summit 2019   Les BlueHats se retrouvent demain 11 décembre au Paris Open Source Summit pour souffler leur première bougie !</description>
+      <description>La gazette #BlueHats est une lettre d’information bimestrielle sur le logiciel libre dans, par et pour l’administration publique. Cette gazette est la contribution de la DINUM au mouvement des #BlueHats, les hackers d’intérêt général.
+ Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.
+La journée #BlueHats au Paris Open Source Summit 2019   Les BlueHats se retrouvent demain 11 décembre au Paris Open Source Summit pour souffler leur première bougie !</description>
     </item>
     
     <item>
@@ -54,7 +76,9 @@
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_3/</guid>
-      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINSIC au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.  Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions. Focus sur la Gendarmerie nationale et le logiciel libre  L&amp;#39;exemple d&amp;#39;une migration à grande échelle vers le libre   Le lieutenant-colonel Stéphane Dumond, chef de bureau IT du Service des Technologies et des Systèmes d&amp;#39;Information de la Sécurité Intérieure (ST(SI)²), était l&amp;#39;invité de l&amp;#39;émission de l&amp;#39;April « Libre à vous !</description>
+      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINSIC au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.
+ Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.
+Focus sur la Gendarmerie nationale et le logiciel libre  L&amp;#39;exemple d&amp;#39;une migration à grande échelle vers le libre   Le lieutenant-colonel Stéphane Dumond, chef de bureau IT du Service des Technologies et des Systèmes d&amp;#39;Information de la Sécurité Intérieure (ST(SI)²), était l&amp;#39;invité de l&amp;#39;émission de l&amp;#39;April « Libre à vous !</description>
     </item>
     
     <item>
@@ -63,7 +87,9 @@
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_1/</guid>
-      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINSIC au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.  Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions. Sharing &amp;amp; Reuse Awards 2019   Le programme ISA² est un programme de la Commission européenne pour encourager l&amp;#39;intéropérabilité des solutions informatiques dans les administrations publiques, les entreprises et les citoyens.</description>
+      <description>La gazette #BlueHats est une lettre d&amp;#39;information bimestrielle sur le logiciel libre dans, par et pour l&amp;#39;administration publique. Cette gazette est la contribution de la DINSIC au mouvement des #BlueHats, les hackers d&amp;#39;intérêt général.
+ Vous pouvez vous y inscrire depuis ce lien, lire les gazettes précédentes et proposer des contenus pour les prochaines éditions.
+Sharing &amp;amp; Reuse Awards 2019   Le programme ISA² est un programme de la Commission européenne pour encourager l&amp;#39;intéropérabilité des solutions informatiques dans les administrations publiques, les entreprises et les citoyens.</description>
     </item>
     
     <item>
@@ -72,7 +98,8 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_0/</guid>
-      <description>Merci de vous être inscrits à la « gazette BlueHats » ! #BlueHats, c&amp;#39;est qui ?   Les #Bluehats sont toutes les personnes qui souhaitent montrer qu&amp;#39;elles contribuent à des logiciels libres développés et/ou utilisés par l&amp;#39;administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi tout citoyen qui reconnaît que son action pour des logiciels libres aide concrètement des projets de l&amp;#39;administration.</description>
+      <description>Merci de vous être inscrits à la « gazette BlueHats » !
+#BlueHats, c&amp;#39;est qui ?   Les #Bluehats sont toutes les personnes qui souhaitent montrer qu&amp;#39;elles contribuent à des logiciels libres développés et/ou utilisés par l&amp;#39;administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi tout citoyen qui reconnaît que son action pour des logiciels libres aide concrètement des projets de l&amp;#39;administration.</description>
     </item>
     
     <item>
@@ -81,16 +108,10 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/gazette-bluehats/a-propos/</guid>
-      <description>La gazette #BlueHats est la contribution de la DINUM au mouvement BlueHats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l&amp;#39;administration.    Pour vous y inscrire : https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio  Voir l&amp;#39;article de lancement sur numerique.gouv.fr. Contribuez !   Vous pouvez annoncer un événement, envoyer le compte-rendu d&amp;#39;un événement, faire une annonce sur un logiciel libre particulier ou proposer un témoignage.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://disic.github.io/gazette-bluehats/peut-etre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://disic.github.io/gazette-bluehats/peut-etre/</guid>
-      <description>Tchatcha : Une nouvelle solution de vérification de formulaire   https://github.com/etalab/tchatcha Focus sur HackinScience   from Julien Palard: Re: Aidez-nous à rédiger la prochaine gazette #Blu  Je n&amp;#39;ai pas accès au mail, donc je me suis basé sur leur page &amp;#34;About&amp;#34; et quelques exercices : https://www.hackinscience.org/about/     En savoir plus : https://www.hackinscience.org/about/ (en anglais)   Rétroviseur     https://rmll.ubicast.tv/videos/amphi-bunuel-administrations-et-logiciels-libres-le-clausier-des-marches-publics/    https://www.</description>
+      <description>La gazette #BlueHats est la contribution de la DINUM au mouvement BlueHats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l&amp;#39;administration.
+   Pour vous y inscrire : https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio
+ Voir l&amp;#39;article de lancement sur numerique.gouv.fr.
+Contribuez !   Vous pouvez annoncer un événement, envoyer le compte-rendu d&amp;#39;un événement, faire une annonce sur un logiciel libre particulier ou proposer un témoignage.</description>
     </item>
     
   </channel>

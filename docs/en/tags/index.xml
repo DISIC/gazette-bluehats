@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Gazette #BlueHats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
-    <copyright>Direction interministérielle du numérique</copyright>
-    
-	<atom:link href="https://disic.github.io/gazette-bluehats/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Direction interministérielle du numérique</copyright><atom:link href="https://disic.github.io/gazette-bluehats/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

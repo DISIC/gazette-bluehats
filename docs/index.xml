@@ -7,7 +7,380 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
     <copyright>Direction interministérielle du numérique</copyright>
-    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://disic.github.io/gazette-bluehats/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://disic.github.io/gazette-bluehats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gazette #BlueHats n°9</title>
+      <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_9/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_9/</guid>
+      <description>
+&lt;div class=&#34;center-block&#34; style=&#34;text-align: center; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;p&gt;La gazette &lt;a href=&#34;https://disic.github.io/gazette-bluehats/&#34;&gt;#BlueHats&lt;/a&gt; est une lettre d&amp;#39;information bimestrielle sur le
+logiciel libre dans, par et pour l&amp;#39;administration publique. Cette
+gazette est la contribution de la &lt;a href=&#34;https://www.numerique.gouv.fr/&#34;&gt;DINUM&lt;/a&gt; au mouvement des #BlueHats,
+les hackers d&amp;#39;intérêt général.&lt;/p&gt;
+&lt;p&gt;
+Vous pouvez vous y inscrire &lt;a href=&#34;https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio&#34;&gt;depuis ce lien&lt;/a&gt;, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/&#34;&gt;lire les gazettes
+précédentes&lt;/a&gt; et &lt;a href=&#34;https://github.com/DISIC/gazette-bluehats/issues/new/choose&#34;&gt;proposer des contenus&lt;/a&gt; pour les prochaines éditions.&lt;/p&gt;
+&lt;p&gt;
+Pour accéder à la version en ligne, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/gazette_bluehat_9/&#34;&gt;cliquez ici&lt;/a&gt;.  Bonne lecture !&lt;/p&gt;
+&lt;hr&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Autour de la publication du rapport Bothorel
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Le député Éric Bothorel a remis fin décembre au Premier ministre son &lt;a href=&#34;https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources&#34;&gt;rapport sur la politique publique de la donnée, des algorithmes et des codes sources&lt;/a&gt;.  La mission avait proposé une &lt;a href=&#34;https://www.mission-open-data.fr&#34;&gt;consultation publique&lt;/a&gt; sur ces sujets en octobre 2020.  Le rapport a repris certains éléments de cette consultation et formule des recommandations liées au logiciel libre dans le secteur public.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zdnet.fr/blogs/l-esprit-libre/le-gouvernement-va-creer-une-mission-logiciels-libres-et-communs-numeriques-39917615.htm&#34;&gt;Le gouvernement va créer une mission logiciels libres et communs numériques&lt;/a&gt;, zdnet.fr, 8 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://acteurspublics.fr/articles/lexecutif-remet-la-pression-sur-louverture-des-donnees-et-codes-sources-publics&#34;&gt;L’exécutif remet la pression sur l’ouverture des données et codes sources publics&lt;/a&gt;, acteurspublics.fr, 5 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.societe-informatique-de-france.fr/2021/02/tribune-le-monde-logiciel-libre-ouverture-des-donnees/&#34;&gt;Tribune dans Le Monde: “Le logiciel libre et l’ouverture des données sont deux enjeux majeurs du numérique moderne qui méritent une stratégie publique”&lt;/a&gt;, societe-informatique-de-france.fr, 1er février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/french-report-prime-minister-open-data-and-open-source&#34;&gt;The latest report calls for creating a governmental Open Source Programme Office&lt;/a&gt;, europa.eu, 20 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Éric Bothorel était l&amp;#39;invité de l&amp;#39;émission &lt;a href=&#34;https://cause-commune.fm/podcast/libre-a-vous-90/&#34;&gt;Libre à vous !&lt;/a&gt; du 19 janvier, émission animée par l&amp;#39;APRIL.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lemonde.fr/idees/article/2021/01/17/le-logiciel-libre-et-l-ouverture-des-donnees-sont-deux-enjeux-majeurs-du-numerique-moderne-qui-meritent-une-strategie-publique_6066551_3232.html&#34;&gt;« Le logiciel libre et l’ouverture des données sont deux enjeux majeurs du numérique moderne qui méritent une stratégie publique »&lt;/a&gt;, Une tribune de Roberto Di Cosmo, Stéfane Fermigier et Cédric Thomas, lemonde.fr, 17 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.acteurspublics.fr/webtv/emissions/fonction-publique/eric-bothorel-il-faut-un-management-par-la-donnee-du-plan-de-relance&#34;&gt;Éric Bothorel : “Il faut un management par la donnée du plan de relance”&lt;/a&gt;, acteurspublics.fr, 15 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.april.org/logiciel-libre-le-premier-ministre-se-montrera-t-il-a-la-hauteur-du-rapport-bothorel&#34;&gt;Logiciel libre : le Premier ministre se montrera-t-il à la hauteur du rapport Bothorel ?&lt;/a&gt;, april.org, 13 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ow2.org/view/Press_Releases/OW2_Applauds_the_Bothorel_Report_on_Open_Data_and_Open_Source_Software_and_Offers_its_Help&#34;&gt;OW2 Applauds the Bothorel Report on Open Data and Open Source Software and Offers its Help&lt;/a&gt;, ow2.org, 11 janvier 2021.  Voir aussi &lt;a href=&#34;https://www.globalsecuritymag.fr/OW2-soutient-le-rapport-Bothorel,20210112,107101.html&#34;&gt;OW2 soutient le rapport Bothorel sur les données ouvertes et les logiciels libres, et propose son aide&lt;/a&gt;, globalsecuritymag.fr, 12 janvier 2021, et &lt;a href=&#34;https://www.toolinux.com/?france-ow2-soutient-le-rapport-bothorel-et-propose-son-aide&#34;&gt;Rapport Bothorel : réactions de l’APRIL et d’OW2&lt;/a&gt;, toolinux.com, 15 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.vie-publique.fr/en-bref/277963-rapport-bothorel-pour-une-nouvelle-ere-de-la-politique-de-la-donnee&#34;&gt;Rapport Bothorel : pour une nouvelle ère de la politique publique de la donnée&lt;/a&gt;, viepublique.fr, 7 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.banquedesterritoires.fr/changer-de-methode-pour-ouvrir-massivement-codes-et-des-donnees&#34;&gt;Changer de méthode pour ouvrir massivement codes et des données&lt;/a&gt;, banquedesterritoires.fr, 6 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.latribune.fr/opinions/blogs/homo-numericus/la-relance-passera-aussi-par-la-donnee-publique-870172.html&#34;&gt;La relance passera aussi par la donnée publique&lt;/a&gt;, latribune.fr, 6 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zdnet.fr/blogs/l-esprit-libre/la-mission-bothorel-sur-l-open-data-demande-plus-de-volontarisme-en-faveur-du-logiciel-libre-39915505.htm&#34;&gt;La mission Bothorel sur l&amp;#39;open data demande plus de volontarisme en faveur du logiciel libre&lt;/a&gt;, zdnet.fr, 2 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lagazettedescommunes.com/715912/un-nouveau-cadre-pour-favoriser-le-partage-des-donnees-dinteret-general/&#34;&gt;Un nouveau cadre pour favoriser le partage des données d’intérêt général&lt;/a&gt;, lagazettedescommunes.com, 2 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lemagit.fr/actualites/252494218/Open-Data-lavance-prise-par-la-France-ne-tient-qua-un-fil&#34;&gt;Open Data : l’avance prise par la France ne tient qu’à un fil&lt;/a&gt;, lemagit.fr, 30 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://linuxfr.org/news/publication-du-rapport-de-la-mission-bothorel-sur-les-donnees-et-les-codes-sources-de-l-etat&#34;&gt;Publication du rapport de la Mission Bothorel sur les données et les codes sources de l’État&lt;/a&gt;, linuxfr.org, 28 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://linformaticien.com/rapport-bothorel/&#34;&gt;Rapport Bothorel : 37 recommandations pour l’open data&lt;/a&gt;, linformaticien.com, 24 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usine-digitale.fr/editorial/pas-d-innovation-sans-open-data-avertit-un-rapport-parlementaire-sur-les-politiques-de-donnees-publiques.N1043739&#34;&gt;Pas d&amp;#39;innovation sans open data, avertit un rapport parlementaire sur les politiques de données publiques&lt;/a&gt;, usine-digitale.fr, 24 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cnll.fr/news/cnll-soutient-mission-bothorel-ouverture-codes-sources-etat/&#34;&gt;Le CNLL soutient les recommandations de la Mission Bothorel sur l’ouverture des codes sources de l’Etat&lt;/a&gt;, cnll.fr, 23 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.acteurspublics.fr/articles/le-rapport-bothorel-sonne-lalarme-sur-la-politique-dopen-data&#34;&gt;Le rapport Bothorel sonne l&amp;#39;alarme sur la politique d&amp;#39;open data&lt;/a&gt;, acteurspublics.fr, 23 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lagazettedescommunes.com/714785/le-rapport-bothorel-veut-faire-entrer-la-politique-de-la-donnee-dans-une-nouvelle-ere/&#34;&gt;Le rapport Bothorel veut faire entrer la politique de la donnée dans une nouvelle ère&lt;/a&gt;, lagazettedescommunes.com, 22 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Science ouverte et logiciel libre
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+ans le cadre de l’appui que la DINUM a donné à la mission du député Éric Bothorel, Etalab a confié au cabinet Inno³ une étude relative à l’ouverture des codes sources au sein de l’Enseignement Supérieur et de la Recherche.  Le Comité pour la Science Ouverte a relayé cette étude, et les résultats ont été publiés.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.etalab.gouv.fr/les-pratiques-de-publication-des-codes-sources-dans-lenseignement-superieur-et-la-recherche&#34;&gt;État des lieux des pratiques de publication des codes sources dans l’Enseignement Supérieur et la Recherche&lt;/a&gt;, etalab.gouv.fr, 4 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ouvrirlascience.fr/publication-dune-etude-sur-louverture-des-codes-sources-dans-lesr/&#34;&gt;Publication d’une étude sur l’ouverture des codes sources dans l’ESR&lt;/a&gt;, ouvrirlascience.fr, 4 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://inno3.fr/actualite/publication-de-letude-intitulee-ouverture-des-codes-sources-au-sein-de-lenseignement&#34;&gt;Publication de l’étude intitulée « ouverture des codes sources au sein de l’Enseignement Supérieur et de la Recherche (ESR) : Considérations en termes d’usage et de valeur »&lt;/a&gt;, inno3.fr, 4 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Parmi les autres travaux du groupe logiciels libres du Comité pour la Science Ouverte, vous pouvez aussi consulter les &lt;a href=&#34;https://www.ouvrirlascience.fr/commentaires-de-la-france-sur-lavant-projet-de-recommandation-de-lunesco-sur-la-science-ouverte/&#34;&gt;Commentaires de la France sur l’avant-projet de recommandation de l’UNESCO sur la science ouverte&lt;/a&gt;, dont certains portent sur le logiciel libre.&lt;/p&gt;
+&lt;p&gt;
+Voir aussi cette sélection de logiciels libres pour la recherche : &lt;a href=&#34;https://zenodo.org/communities/eoss?page=1&amp;amp;size=20&#34;&gt;CZI: Essential Open Source Software for Science&lt;/a&gt; sur zenodo.org.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+Focus infra : Web-Conférence de l’Éducation avec BigBlueButton
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Le service de la Direction du numérique pour l’éducation (DNE) a lancé, après une phase d’expérimentation qui dura du printemps à l’été 2020, un service de webconférence basée sur le logiciel libre &lt;a href=&#34;https://bigbluebutton.org/&#34;&gt;BigBlueButton&lt;/a&gt;, référencé au &lt;a href=&#34;https://sill.etalab.gouv.fr/fr/software?id=196&#34;&gt;SILL&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+Ces Web-conférences se déclinent en plusieurs versions à destination des différents établissements scolaires (&lt;a href=&#34;https://visio-ecoles.education.fr&#34;&gt;écoles&lt;/a&gt;, &lt;a href=&#34;https://visio-colleges.education.fr&#34;&gt;collèges&lt;/a&gt; et &lt;a href=&#34;https://visio-lycees.education.fr&#34;&gt;lycées&lt;/a&gt;) pour répondre aux spécificités de chaque niveau ; toutes utilisent le système de salle d’attente qui permet de valider les élèves autorisés à entrer dans le cours.  À ces instances s&amp;#39;en ajoute une dédiée aux &lt;a href=&#34;https://visio-agents.education.fr&#34;&gt;agents&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+Les serveurs assurant la montée en charge de ces instances sont déployés par le Ministère de l’éducation nationale et de la jeunesse dans le Cloud Cercle 3 sur le territoire français, avec plus de 500 serveurs.  À ce jour, certaines sessions atteignent 200 participants et le système a permis d&amp;#39;avoir plus de 150 conférences simultanées par groupe d’instance (écoles/collèges/lycées/agents), soit beaucoup plus en nombre absolu chaque jour.&lt;/p&gt;
+&lt;p&gt;
+Afin de pouvoir lancer ces web-conférence pour tous les personnels, il a fallu développer un service permettant de gérer l’authentification OpenIdConnect, protocole utilisé par le système d’authentification nationale.  Ce service propose aussi aux enseignants de gérer de multiple salles de cours afin de les préparer pour chaque classe avec des réglages différents (discussion publique, privée, sous salon, prises de notes, gestion des caméras et micros).&lt;/p&gt;
+&lt;p&gt;
+Il est prévu d’ajouter la possibilité d’enregistrer les sessions entre agents, de rejoindre la conférence via un numéro de téléphone ainsi que la gestion des documents via une médiathèque pour que les documents préparés par les enseignants soient présents lors du lancement de chaque salle.&lt;/p&gt;
+&lt;p&gt;
+La DINUM a participée au développement pour que ce service web réponde au &lt;a href=&#34;https://www.modernisation.gouv.fr/sites/default/files/design_system_etat_ci.pdf&#34;&gt;Design Système de l’État&lt;/a&gt;.  Ces développements seront prochainement publiés sous licence libre.&lt;/p&gt;
+&lt;p&gt;
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; Les liens vers les instances :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://visio-ecoles.education.fr&#34;&gt;https://visio-ecoles.education.fr&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://visio-colleges.education.fr&#34;&gt;https://visio-colleges.education.fr&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://visio-lycees.education.fr&#34;&gt;https://visio-lycees.education.fr&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://visio-agents.education.fr&#34;&gt;https://visio-agents.education.fr&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; Lien vers la documentation :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://visio-agents.education.fr/documentation&#34;&gt;https://visio-agents.education.fr/documentation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+Focus transfo : Le défi EIG « Open Collectivités »
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Open Collectivités facilite l’accès aux données publiques des collectivités locales.&lt;/p&gt;
+&lt;p&gt;
+Partie du constat que les données publiques locales sont peu lisibles (disséminées sur différentes plateformes, dans des formats divers, etc.), la Direction Générale des Collectivités Locales a lancé le défi Open Collectivités dans le cadre du programme &lt;a href=&#34;https://entrepreneur-interet-general.etalab.gouv.fr/&#34;&gt;Entrepreneurs d&amp;#39;intérêt général&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+L&amp;#39;objectif est de créer un portail qui rassemble au même endroit toutes les données publiques locales pour :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;fournir les éléments-clés aux décideurs publics locaux pour les informer et les aider à faire des choix de politique publique ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;éclairer de façon rationnelle le débat public au sein de la société civile (journalistes, chercheurs…).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le code est publié sous licence et mis à disposition sur les dépôts GitHub du projet (&lt;a href=&#34;https://github.com/entrepreneur-interet-general/opencollectivites&#34;&gt;back-end&lt;/a&gt; en Django, &lt;a href=&#34;https://github.com/entrepreneur-interet-general/opencollectivites-front&#34;&gt;front-end&lt;/a&gt; en Vue.js.)&lt;/p&gt;
+&lt;p&gt;
+Nous avons conçu une première itération du projet, mais &lt;strong&gt;nous avons besoin de vos retours&lt;/strong&gt; pour comprendre si nous allons dans la bonne direction.  Vous pouvez nous aider en prenant 10 minutes pour répondre à un questionnaire :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://framaforms.org/donnees-et-publications-statistiques-sur-les-communes-et-intercommunalites-vos-attentes-1606214969&#34;&gt;Ici si vous êtes décideur public en commune&lt;/a&gt; ou intercommunalité ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://framaforms.org/donnees-et-publications-statistiques-sur-les-departements-vos-attentes-1605863073&#34;&gt;Ici vous êtes décideur public au niveau départemental&lt;/a&gt; ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://framaforms.org/projet-open-collectivites-vos-retours-1609841176&#34;&gt;Ici si vous êtes enseignant, chercheur&lt;/a&gt; ou souhaitez avoir accès à ces données en tant que citoyen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si vous souhaitez faire partie de notre communauté de beta-testeurs jusqu’en juin 2021 (date de fin du défi) contactez-nous ici :&lt;/p&gt;
+&lt;p&gt;
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; Contact : &lt;a href=&#34;mailto:elodie.delaisement@dgcl.gouv.fr&#34;&gt;elodie.delaisement@dgcl.gouv.fr&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-5&#34;&gt;
+Focus tech : Le PROcessus de Publication REproductible (PROPRE)
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Les services statistiques des Directions Régionales de l’Environnement, de l’Aménagement et du Logement ont réalisé une opération coordonnée de publication sur le parc social au 1er janvier 2020 le 26 novembre 2020, date de l’embargo sur ces données.&lt;/p&gt;
+&lt;p&gt;
+La particularité de cette opération ?  Elle s’appuie sur l’approche PROPRE, importation en France du &lt;em&gt;Reproductible Analytical Pipeline&lt;/em&gt; britanique.  Toutes des publications sont issues d’un modèle commun produit par un paquet R.  L’utilisateur final du paquet a, en cinq minutes, une publication prête à être publiée qu’il peut modifier à loisir, en intégrant par exemple du contenu rédactionnel supplémentaire à celui déjà proposé par le script automatique.&lt;/p&gt;
+&lt;p&gt;
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; En savoir plus : &lt;a href=&#34;https://rdes_dreal.gitlab.io/propre.rpls/index.html&#34;&gt;https://rdes_dreal.gitlab.io/propre.rpls/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-6&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-6&#34;&gt;
+Des nouvelles du mouvement BlueHats
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-6&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Les ateliers #BlueHats continuent, avec des présentations de logiciels
+libres utilisés dans le secteur public.  Ces ateliers se tiennent en
+visioconférence les vendredi de 11h à 12h30, sur un rythme d&amp;#39;à peu
+près un atelier tous les quinze jours.&lt;/p&gt;
+&lt;p&gt;
+Vous pouvez consulter la liste des ateliers via &lt;a href=&#34;https://github.com/blue-hats/ateliers/&#34;&gt;ce dépôt&lt;/a&gt; ou &lt;a href=&#34;https://box.bzg.io/cloud/index.php/apps/calendar/p/Lt2cGqsFS82mjkWL&#34;&gt;ce calendrier&lt;/a&gt; et, bien
+sûr, en &lt;a href=&#34;https://github.com/blue-hats/ateliers/issues/new?assignees=bzg&amp;amp;labels=Proposition&amp;amp;template=proposition-atelier.md&amp;amp;title=Proposition+%3A+&#34;&gt;proposer de nouveaux&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-7&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-7&#34;&gt;
+Annonces FAST et EIG
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-7&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;div id=&#34;outline-container-headline-8&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-8&#34;&gt;
+Agents publics : soumettez vos projets numériques à fort potentiel d’ouverture et de mutualisation aux Entrepreneurs d’intérêt général (Etalab/DINUM) ! 
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-8&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+Le programme &lt;a href=&#34;https://entrepreneur-interet-general.etalab.gouv.fr/&#34;&gt;Entrepreneurs d’Intérêt Général&lt;/a&gt; (EIG) vise à transformer durablement le service public par le numérique, grâce au recrutement en interne de nouveaux talents.  Pour cela, il sélectionne des projets numériques pour améliorer l’action publique qui ont un fort potentiel d’ouverture (open data, open source) et de mutualisation.&lt;/p&gt;
+&lt;p&gt;
+Pour les déployer et les pérenniser, il propose ensuite des talents du numérique : développeurs et développeuses, data scientists, data engineers, géomaticiens et géomaticiennes, designers, juristes du numérique, etc.  Recrutés pour 10 mois, ces profils rejoignent les administrations pour renforcer les équipes, tout en y diffusant une culture numérique (formations, appui à d’autres projets du service, etc.).&lt;/p&gt;
+&lt;p&gt;
+Rejoindre le programme EIG, c’est bénéficier d’une aide pour le recrutement de ces compétences rares, d’un cofinancement des salaires des profils recrutés et d’un appui pour conduire l’innovation.&lt;/p&gt;
+&lt;p&gt;
+Vous êtes une administration avec un tel projet à proposer ?&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html&#34;&gt;Postulez&lt;/a&gt; d’ici le 7 avril 2021 à 23h59 !  Pour plus d’informations, vous pouvez :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lire &lt;a href=&#34;https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general&#34;&gt;l’article de présentation de l’appel à projets&lt;/a&gt; sur le site d’Etalab.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participer au prochain webinaire d’information sur l’appel à projets, le &lt;a href=&#34;https://app.livestorm.co/dinum-12/appel-a-projets-eig-5-webinaire-info-2&#34;&gt;mardi 2 mars à 14h&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-9&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-9&#34;&gt;
+L&amp;#39;appel à projets de la 7ème édition du Fonds d&amp;#39;Accélération des Startups d&amp;#39;Etat et de Territoires (FAST) est ouvert !
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-9&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+Le FAST a pour objectif de favoriser l&amp;#39;émergence et le déploiement de services répondant à des problèmes de politique publique, développés selon les nouvelles méthodes de conception de produits numériques portées par l&amp;#39;incubateur &lt;a href=&#34;https://beta.gouv.fr&#34;&gt;beta.gouv.fr&lt;/a&gt; : les produits répondent à un vrai besoin et sont pilotés par leur impact sur l&amp;#39;usager, ils sont améliorés en continu et leurs codes sources sont publiés sous licence libre.&lt;/p&gt;
+&lt;p&gt;
+En 2020, &lt;a href=&#34;https://beta.gouv.fr&#34;&gt;beta.gouv.fr&lt;/a&gt; a lancé 4 appels à candidatures qui ont bénéficié à 21 lauréats qui ont pu se partager plus de 2,5 millions d&amp;#39;euros pour créer ou accélérer un service public numérique.  &lt;/p&gt;
+&lt;p&gt;
+N&amp;#39;hésitez pas à consulter l&amp;#39;&lt;a href=&#34;https://blog.beta.gouv.fr/dinsic/2021/01/06/decouvrez-les-laureats-du-fast-6-et-candidatez-a-la-7eme-edition/&#34;&gt;article de blog&lt;/a&gt; pour candidater et/ou partager cette information au sein de votre administration.  La clôture des candidatures aura lieu le 8 mars. &lt;/p&gt;
+&lt;p&gt;
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; Contact : &lt;a href=&#34;mailto:fast@beta.gouv.fr&#34;&gt;fast@beta.gouv.fr&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-10&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-10&#34;&gt;
+Revue de presse
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-10&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;div id=&#34;outline-container-headline-11&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-11&#34;&gt;
+À l&amp;#39;étranger
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-11&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://openforumeurope.org/event/policy-summit-2021/&#34;&gt;The EU Open Source Policy Summit 2021&lt;/a&gt; avec notamment &lt;a href=&#34;https://www.youtube.com/watch?v=I5e_ngrzm1E&#34;&gt;l&amp;#39;allocution introductive du commissaire européen Thierry Breton&lt;/a&gt;, 5 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zdnet.com/article/open-source-developer-and-manager-david-recordon-named-white-house-director-of-technology/&#34;&gt;Open-source developer and manager David Recordon named White House Director of Technology&lt;/a&gt;, zdnet.com, 5 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ec.europa.eu/isa2/news/eu-member-states-sign-berlin-declaration-digital-society_en&#34;&gt;EU Member States sign the Berlin Declaration on Digital Society&lt;/a&gt;, europa.eu, 8 décembre 2020.  &lt;a href=&#34;https://www.bmi.bund.de/SharedDocs/downloads/EN/eu-presidency/gemeinsame-erklaerungen/berlin-declaration-digital-society.pdf?__blob=publicationFile&amp;amp;v=6&#34;&gt;Télécharger en PDF.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-12&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-12&#34;&gt;
+Dans l&amp;#39;administration
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-12&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres&#34;&gt;Rétrospective Etalab 2020 #2/6 : l’accompagnement à l’ouverture des codes sources et l’utilisation de logiciels libres&lt;/a&gt;, etalab.gouv.fr, 15 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.inria.fr/fr/inria-academy&#34;&gt;Inria Academy, une formation continue dédiée aux logiciels libres&lt;/a&gt;, inria.fr, mis à jour le 12 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.economie.gouv.fr/apie/le-partage-des-innovations-au-sein-du-secteur-public&#34;&gt;Le partage des innovations au sein du secteur public&lt;/a&gt;, l&amp;#39;APIE sur economie.gouv.fr, 24 novembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dailymotion.com/video/x7xqldm?playlist=x6joip&#34;&gt;[Conférence] Le logiciel libre dans l&amp;#39;État et les réalisations&lt;/a&gt; : Matthieu Faure (Adullact) et Bastien Guerry (Etalab/DINUM) ont présenté les enjeux liés au logiciel libre dans l&amp;#39;administration lors du Forum de l&amp;#39;Emploi Tech de l&amp;#39;État, le 24 novembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.modernisation.gouv.fr/mois-innovation-publique/evenement/ouvrez-vos-codes-sources&#34;&gt;Atelier BlueHats : Ouvrez vos codes sources !&lt;/a&gt;  Cet atelier a été organisé le 23 novembre 2020 lors de la sémaine de l&amp;#39;innovation publique organisée par la DITP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://numerique.univ-lille.fr/accompagnement/politique-du-numerique-ulille&#34;&gt;Politique du numérique de l&amp;#39;Université de Lille&lt;/a&gt;, univ-lille.fr, 20 novembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La 38ème proposition issue des états généraux du numérique éducatif : « Encourager l’utilisation de logiciels et de ressources éducatives libres ».  Lire &lt;a href=&#34;https://etats-generaux-du-numerique.education.gouv.fr/uploads/decidim/attachment/file/506/propositions_egn_2020.pdf&#34;&gt;toutes les propositions (PDF)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://punktokomo.abes.fr/2019/06/18/une-politique-informatique-ouverte-pour-labes/&#34;&gt;Une politique informatique ouverte pour l’Abes&lt;/a&gt;, abes.fr, 18 juin 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-13&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-13&#34;&gt;
+Ailleurs
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-13&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.developpez.com/actu/312423/L-open-source-contribue-a-hauteur-de-95-Mds-a-la-puissance-economique-de-l-UE-selon-une-etude-de-l-OFE-qui-estime-que-l-UE-tire-un-benefice-considerable-de-sa-participation-dans-l-open-source/&#34;&gt;L&amp;#39;open source contribue à hauteur de 95 Mds € à la puissance économique de l&amp;#39;UE&lt;/a&gt;, developpez.com, 9 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://framablog.org/2021/02/04/telecom-paris-et-framasoft-vous-invitent-a-contribuer-au-futur-mooc-contributing-to-free-libre-and-open-source-software/&#34;&gt;Télécom Paris et Framasoft vous invitent à contribuer au futur MOOC « Contributing to Free-Libre and Open Source Software »&lt;/a&gt;, framablog.org, 4 février 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lapresse.ca/debats/opinions/2021-01-26/logiciels-proprietaires/pour-un-savoir-libre-et-pluriel.php&#34;&gt;Pour un savoir libre et pluriel&lt;/a&gt;, lapresse.ca, 26 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zdnet.fr/actualites/un-specialiste-de-l-open-source-nomme-directeur-de-la-technologie-a-la-maison-blanche-39915661.htm&#34;&gt;Un spécialiste de l&amp;#39;open source nommé directeur de la technologie à la Maison blanche&lt;/a&gt;, zdnet.fr, 6 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cause-commune.fm/podcast/libre-a-vous-88/&#34;&gt;Entretien avec Henri Verdier&lt;/a&gt; dans l&amp;#39;émission Libre à vous ! animée par l&amp;#39;APRIL, cause-commune.fm, 5 janvier 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextinpact.com/lebrief/45043/le-libre-principe-developpement-privilegie-par-lanssi&#34;&gt;Le libre, « un principe de développement privilégié par l’ANSSI »&lt;/a&gt;, nextinpact.com, 11 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://april.org/libre-a-vous-diffusee-mardi-8-decembre-2020-sur-radio-cause-commune&#34;&gt;Entretien avec Camille Monchicourt sur Geotrek&lt;/a&gt;, suite logicielle libre pour gérer et valoriser sentiers et activités touristiques, dans l&amp;#39;émission Libre à vous ! animée par l&amp;#39;APRIL, april.org, 8 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.worteks.com/2020/12/09/retour-dexperience-de-lille-metropole-sur-la-mise-en-place-de-lauthentification-unique-avec-lemonldapng/&#34;&gt;Retour d’expérience de Lille Métropole sur la mise en place de l’authentification unique avec LemonLDAP::NG&lt;/a&gt;, worteks.com, 9 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lemagit.fr/dessin/Visioconference-securisee-lexemple-de-lEtat-et-les-enseignements-a-en-tirer&#34;&gt;Visioconférence sécurisée : l’exemple de l’État et les enseignements à en tirer&lt;/a&gt;, lemagit.fr, 8 décembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academia.hypotheses.org/28825&#34;&gt;Pourquoi l’Université des plateformes commerciales est-elle la fin de l’université ?&lt;/a&gt;, hypotheses.org, 20 novembre 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://theconversation.com/universites-l-open-education-cle-de-la-resilience-post-covid-139602?s=09&#34;&gt;Universités : l’« open education », clé de la résilience post-Covid?&lt;/a&gt;, theconversation.com, 22 juin 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
     <item>
       <title>Gazette #BlueHats n°8</title>
       <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_8/</link>
@@ -24,7 +397,7 @@ les hackers d&amp;#39;intérêt général.&lt;/p&gt;
 Vous pouvez vous y inscrire &lt;a href=&#34;https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio&#34;&gt;depuis ce lien&lt;/a&gt;, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/&#34;&gt;lire les gazettes
 précédentes&lt;/a&gt; et &lt;a href=&#34;https://github.com/DISIC/gazette-bluehats/issues/new/choose&#34;&gt;proposer des contenus&lt;/a&gt; pour les prochaines éditions.&lt;/p&gt;
 &lt;p&gt;
-Pour accéder à la version en ligne, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/gazette_bluehat_7/&#34;&gt;cliquez ici&lt;/a&gt;.  Bonne lecture !&lt;/p&gt;
+Pour accéder à la version en ligne, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/gazette_bluehat_8/&#34;&gt;cliquez ici&lt;/a&gt;.  Bonne lecture !&lt;/p&gt;
 &lt;hr&gt;
 &lt;/div&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
@@ -2616,28 +2989,6 @@ Licence
 &lt;p&gt;
 La gazette #BlueHats est une publication DINUM, 20 avenue de Ségur,
 75019, publiée sous licence Ouverte 2.0.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_9/</guid>
-      <description>
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-Revue de presse
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;gnus:nnimap+localhost:datagouv/INBOX#dbe149774a4146a9b5ad113b16ca3745@modernisation.gouv.fr&#34;&gt;from CAO Antoine:  États généraux du numérique pour l&amp;#39;Éducation, pub&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>

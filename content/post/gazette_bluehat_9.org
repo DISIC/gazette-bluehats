@@ -6,6 +6,21 @@
 #+options: toc:nil num:nil H:4 ^:nil pri:t html-postamble:nil html-preamble:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="style.css" />
 
+# Intro
+
+#+begin_center
+La gazette [[https://disic.github.io/gazette-bluehats/][#BlueHats]] est une lettre d'information bimestrielle sur le
+logiciel libre dans, par et pour l'administration publique. Cette
+gazette est la contribution de la [[https://www.numerique.gouv.fr/][DINUM]] au mouvement des #BlueHats,
+les hackers d'intérêt général.
+
+Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes
+précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
+
+Pour accéder à la version en ligne, [[https://disic.github.io/gazette-bluehats/gazette_bluehat_9/][cliquez ici]].  Bonne lecture !
+-----
+#+end_center
+
 * Autour de la publication du rapport Bothorel
 
 Le député Éric Bothorel a remis fin décembre au Premier ministre son [[https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources][rapport sur la politique publique de la donnée, des algorithmes et des codes sources]].  La mission avait proposé une [[https://www.mission-open-data.fr][consultation publique]] sur ces sujets en octobre 2020.  Le rapport a repris certains éléments de cette consultation et formule des recommandations liées au logiciel libre dans le secteur public.

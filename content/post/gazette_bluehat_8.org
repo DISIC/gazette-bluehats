@@ -17,7 +17,7 @@ les hackers d'intérêt général.
 Vous pouvez vous y inscrire [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][depuis ce lien]], [[https://disic.github.io/gazette-bluehats/][lire les gazettes
 précédentes]] et [[https://github.com/DISIC/gazette-bluehats/issues/new/choose][proposer des contenus]] pour les prochaines éditions.
 
-Pour accéder à la version en ligne, [[https://disic.github.io/gazette-bluehats/gazette_bluehat_7/][cliquez ici]].  Bonne lecture !
+Pour accéder à la version en ligne, [[https://disic.github.io/gazette-bluehats/gazette_bluehat_8/][cliquez ici]].  Bonne lecture !
 -----
 #+end_center
 

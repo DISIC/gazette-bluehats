@@ -7,7 +7,145 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
     <copyright>Direction interministérielle du numérique</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://disic.github.io/gazette-bluehats/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://disic.github.io/gazette-bluehats/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gazette #BlueHats n°10</title>
+      <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_10/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_10/</guid>
+      <description>
+&lt;div class=&#34;center-block&#34; style=&#34;text-align: center; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;p&gt;La gazette &lt;a href=&#34;https://disic.github.io/gazette-bluehats/&#34;&gt;#BlueHats&lt;/a&gt; est une lettre d&amp;#39;information bimestrielle sur le
+logiciel libre dans, par et pour l&amp;#39;administration publique. Cette
+gazette est la contribution de la &lt;a href=&#34;https://www.numerique.gouv.fr/&#34;&gt;DINUM&lt;/a&gt; au mouvement des #BlueHats,
+les hackers d&amp;#39;intérêt général.&lt;/p&gt;
+&lt;p&gt;
+Vous pouvez vous y inscrire &lt;a href=&#34;https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio&#34;&gt;depuis ce lien&lt;/a&gt;, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/&#34;&gt;lire les gazettes
+précédentes&lt;/a&gt; et &lt;a href=&#34;https://github.com/DISIC/gazette-bluehats/issues/new/choose&#34;&gt;proposer des contenus&lt;/a&gt; pour les prochaines éditions.&lt;/p&gt;
+&lt;p&gt;
+Pour accéder à la version en ligne, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/gazette_bluehat_10/&#34;&gt;cliquez ici&lt;/a&gt;.  Bonne lecture !&lt;/p&gt;
+&lt;hr&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Focus : Vive le numérique libre
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Introduit par M. Eric Bothorel, député et responsable d’une mission
+relative à la politique publique de la donnée dont le rapport a été
+remis au Premier ministre le 23 décembre 2020, le millésime 2021 de la
+&lt;a href=&#34;http://www.amue.fr/systeme-dinformation/metier/la-collection-numerique/&#34;&gt;collection numérique&lt;/a&gt; publiée par l&amp;#39;AMUE présente le Libre sous toutes
+ses formes.&lt;/p&gt;
+&lt;p&gt;
+Débats d’idées, retours d’expériences ou interviews, la thématique est
+abordée dans ses nombreuses dimensions et toute sa richesse. C’est un
+beau panorama de la question du Libre que nous vous partageons avec
+plaisir. Ce numéro ne manquera pas de nourrir vos réflexions. Que ses
+nombreux contributeurs en soient chaleureusement remerciés !&lt;/p&gt;
+&lt;p&gt;
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; Accéder au numéro : &lt;a href=&#34;http://amue.fr/presentation/articles/article/la-collection-numerique-parlons-libre/&#34;&gt;http://amue.fr/presentation/articles/article/la-collection-numerique-parlons-libre/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Rencontres Open Source &amp;amp; acteurs publics mardi 13 avril
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Le &lt;a href=&#34;systematic-paris-region.org&#34;&gt;Pôle Systematic&lt;/a&gt; propose aux acteurs publics de rencontrer des
+offreurs de solutions Open Source sélectionnés pouvant répondre à
+leurs besoins IT lors de rendez-vous express en one-to-one ciblés 
+et programmés.&lt;/p&gt;
+&lt;p&gt;
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; Mardi 13 avril après-midi, 100% visio
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; Inscriptions : &lt;a href=&#34;https://server.matchmaking-studio.com/fr/RendezVousOneToOneOpenSource/&#34;&gt;https://server.matchmaking-studio.com/fr/RendezVousOneToOneOpenSource/&lt;/a&gt;  
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; Lien pdf : &lt;a href=&#34;https://systematic-paris-region.org/wp-content/uploads/2021/03/RDV121_Acteurspublics.pdf&#34;&gt;https://systematic-paris-region.org/wp-content/uploads/2021/03/RDV121_Acteurspublics.pdf&lt;/a&gt;  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+Publication de l&amp;#39;annuaire du CNLL en bêta
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+La nouvelle version de l&amp;#39;annuaire des entreprises du libre du CNLL
+inclut de nombreuses améliorations et ajouts de fonctionnalités.  Ces
+progrès permettent au &lt;a href=&#34;https://cnll.fr/&#34;&gt;CNLL&lt;/a&gt; de mettre à disposition des utilisateurs de
+solutions open source un annuaire complet et thématique, offrant un
+large choix de critères de recherche :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;par nom d&amp;#39;entreprise ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;par localisation (région, ville, cluster) ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;par solutions et technologies ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;par métier (éditeur, société de services, hébergeur).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L&amp;#39;annuaire inclut également une visualisation cartographique de la
+localisation des entreprises.  Présentée via une interface conviviale,
+intuitive et ergonomique, cet outil se veut être compréhensible en
+quelques minutes par l&amp;#39;utilisateur et répondre à son besoin. Nous
+sommes impatients de recevoir des retours d&amp;#39;expérience utilisateurs et
+suggestions possibles d&amp;#39;améliorations.&lt;/p&gt;
+&lt;p&gt;
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; L&amp;#39;annuaire : &lt;a href=&#34;https://annuaire.cnll.fr&#34;&gt;https://annuaire.cnll.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;code class=&#34;verbatim&#34;&gt;&amp;gt;&amp;gt;&lt;/code&gt; L&amp;#39;annonce : &lt;a href=&#34;https://cnll.fr/news/annuaire-des-entreprises-du-cnll-nouvelle-version/&#34;&gt;https://cnll.fr/news/annuaire-des-entreprises-du-cnll-nouvelle-version/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+De-ci de-là
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://visio.incubateur.net/b/bas-vwv-2ww&#34;&gt;Les vidéos des sessions des ateliers BlueHats sont publiques&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://danescenari.edu.ac-lyon.fr/sc/pub/Visios_BBB_web/co/module_Visios_BBB.html&#34;&gt;Présentation de la solution de visioconférence de l&amp;#39;Éducation Nationale&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/jbuget/status/1366128542241730572&#34;&gt;Le moteur open source de pix.fr réutilisé pour ecriplus.fr&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-5&#34;&gt;
+Revue de presse
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.journaldunet.com/solutions/dsi/1498485-jitsi-meet-vs-nextcloud-talk-le-match-des-zoom-open-source/&#34;&gt;Match des Zoom open source : Jitsi, la simplicité, vs Nextcloud Talk, l&amp;#39;efficacité&lt;/a&gt; (journaldunet.com, 8 mars 2021)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.banquedesterritoires.fr/geotrek-du-logiciel-libre-la-creation-dun-ecosysteme-numerique-de-la-randonnee&#34;&gt;Geotrek : du logiciel libre à la création d’un écosystème numérique de la randonnée&lt;/a&gt; (banquedesterritoires.fr, 26 février 2021)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://adullact.org/breves/68-actualite/vie-associative/958-le-nouveau-service-demarches-simplifiees-est-operationnel&#34;&gt;Le nouveau service Démarches Simplifiées de l&amp;#39;Adullact est opérationnel&lt;/a&gt; (adullact.org, 25 février 2021)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.franceculture.fr/emissions/la-question-du-jour/pourquoi-les-logiciels-libres-interessent-ils-les-etats&#34;&gt;Pourquoi les logiciels libres intéressent-ils les États ?&lt;/a&gt;  (franculture.fr, 16 février 2021)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ouvrirlascience.fr/wp-content/uploads/2021/02/Comments-by-France-on-UNESCO-first-draft-reco-Open-Science.pdf&#34;&gt;Le retour de la France sur le premier draft des recommendations UNESCO sur la science ouverte&lt;/a&gt; (ouvrirlascience.fr, Décembre 2020)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
     <item>
       <title>Gazette #BlueHats n°9</title>
       <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_9/</link>

@@ -7,7 +7,418 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
     <copyright>Direction interministérielle du numérique</copyright>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://disic.github.io/gazette-bluehats/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://disic.github.io/gazette-bluehats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gazette #BlueHats n°11</title>
+      <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_11/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://disic.github.io/gazette-bluehats/gazette_bluehat_11/</guid>
+      <description>
+&lt;div class=&#34;center-block&#34; style=&#34;text-align: center; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;p&gt;La gazette &lt;a href=&#34;https://disic.github.io/gazette-bluehats/&#34;&gt;#BlueHats&lt;/a&gt; est une lettre d&amp;#39;information bimestrielle sur le
+logiciel libre dans, par et pour l&amp;#39;administration publique. Cette
+gazette est la contribution de la &lt;a href=&#34;https://www.numerique.gouv.fr/&#34;&gt;DINUM&lt;/a&gt; au mouvement des #BlueHats,
+les hackers d&amp;#39;intérêt général.&lt;/p&gt;
+&lt;p&gt;
+Vous pouvez vous y inscrire &lt;a href=&#34;https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio&#34;&gt;depuis ce lien&lt;/a&gt;, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/&#34;&gt;lire les gazettes
+précédentes&lt;/a&gt; et &lt;a href=&#34;https://github.com/DISIC/gazette-bluehats/issues/new/choose&#34;&gt;proposer des contenus&lt;/a&gt; pour les prochaines éditions.&lt;/p&gt;
+&lt;p&gt;
+Pour accéder à la version en ligne, &lt;a href=&#34;https://disic.github.io/gazette-bluehats/gazette_bluehat_11/&#34;&gt;cliquez ici&lt;/a&gt;.  Bonne lecture !&lt;/p&gt;
+&lt;hr&gt;
+&lt;/div&gt;
+&lt;p&gt;
+Ce mois-ci, la gazette BlueHats met l&amp;#39;accent sur les communs
+numériques, avec un texte proposé par Wikimédia France et une nouvelle
+rubrique « Le coin des communs ».  Le focus technique porte sur le
+projet Open Terms Archive, que nous vous invitons à découvrir.  Nous
+signalons quelques évolutions du Socle Interministériel de Logiciels
+libres (SILL) et de code.etalab.gouv.fr.  Nous vous proposons enfin
+notre revue de presse qui revient sur la circulaire sur la politique
+publique de la donnée et la sortie du catalogue GouvTech.&lt;/p&gt;
+&lt;p&gt;
+Bonne lecture !&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Le mot de l&amp;#39;invitée : qu&amp;#39;est-ce qu&amp;#39;un commun numérique ?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+&lt;em&gt;Un texte de Naphsica Papanicolaou, &lt;a href=&#34;https://www.wikimedia.fr/&#34;&gt;Wikimédia France&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+Depuis quelques temps, le terme de « communs numériques » prend de
+plus en plus d’importance dans le débat public.  Henri Verdier,
+Ambassadeur pour le numérique, voit par exemple les communs numériques
+comme les prémices d’une alternative aux grandes plateformes
+numériques, devenues trop imposantes dans notre vie quotidienne (voir
+&lt;a href=&#34;https://portail-ie.fr/analysis/2937/les-communs-numeriques-solution-pour-une-autonomie-strategique-francaise-et-europeenne-durable&#34;&gt;cet article&lt;/a&gt;).  Ils sont mis en avant aujourd’hui par une diversité
+d&amp;#39;acteurs pour tenter de répondre au problème d’un internet toujours
+plus monopolistique et privatisé.&lt;/p&gt;
+&lt;p&gt;
+Mais de quoi parle-t-on exactement ? Les communs sont des ressources
+partagées, gérées et maintenues collectivement par une communauté qui
+se donne des règles de gouvernance. Ils peuvent être naturels (une
+forêt), matériels (une maison) ou immatériels (une informations).  Les
+« communs numériques » désignent les ressources numériques gérées
+comme des communs.  Toutes ces ressources sont « non-rivales » : les
+partager avec A ne prive jamais B d’y accéder.  Toutes, en revanches,
+ne sont pas libres, au sens qu’on donne usuellement à ce terme dans
+l’univers numérique : les « communs numériques libres » sont ceux
+partagés sous licence libre, comme les contenus des projets Wikimédia,
+les contenus des bases de données d’OpenStreetMap ou d’OpenFoodFacts.&lt;/p&gt;
+&lt;p&gt;
+Quand on parle de communs, la question de la gouvernance est aussi
+importante que celle de la ressource.  Elinor Ostrom, politologue et
+économiste américaine, première femme a avoir reçu le prix Nobel
+d&amp;#39;économie avec Olivier Williamson « pour son analyse de la
+gouvernance économique, et en particulier, des biens communs », a
+souligné que la préservation effective des communs par les communautés
+qui en ont la charge est liée à la mise en place de modes de
+gouvernance ouverte répondant à plusieurs critères. &lt;/p&gt;
+&lt;p&gt;
+Bien que largement utilisés et reconnus par une grande partie de
+l&amp;#39;écosytème numérique, les communs numériques sont, comme tous les
+communs, fragiles. Ils continuent de se développer car il y a plus de
+gens bien intentionnés que de personnes malveillantes. Mais cet
+équilibre peut se rompre. Comme l’eau, la nature ou l’air, Wikipédia
+est un commun fragile qui peut disparaître et dont il faut prendre
+soin collectivement.&lt;/p&gt;
+&lt;p&gt;
+Pour préserver et valoriser les communs numériques libres, Wikimédia
+France estime que chaque contributeur est important : c’est grâce à
+chacun d’entre eux que sera portée la vision qui accompagne ces
+projets et notamment leurs modèles de développement
+collaboratif. C’est le pari fou de Wikipédia : faire confiance aux
+gens en dotant les internautes d&amp;#39;un crayon afin qu&amp;#39;ils rédigent et
+qu&amp;#39;ils participent à la plus grande encyclopédie au monde. Pour
+protéger ces belles ressources issues de l’intelligence collective,
+sachez que l&amp;#39;on compte sur vous autant que vous comptez sur Wikipédia.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Le coin des communs
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+En juin, Wikimédia France et Etalab ont co-organisé un séminaire à
+destination des agents culturels intitulé « Wiki, data et GLAM 2021 ».&lt;/p&gt;
+&lt;p&gt;
+Retrouvez &lt;a href=&#34;https://www.wikimedia.fr/webinaire-wiki-data-glam-2021-etalab/&#34;&gt;le programme&lt;/a&gt; et &lt;a href=&#34;https://meta.wikimedia.org/wiki/Webinaire_wiki,_data_et_GLAM_2021/Documentation&#34;&gt;les supports de présentation&lt;/a&gt; avec notamment
+la &lt;a href=&#34;https://speakerdeck.com/bluehats/presentation-de-la-licence-ouverte-2-dot-0&#34;&gt;présentation par Etalab de la licence Ouverte 2.0&lt;/a&gt;, qui rappelle que
+les contenus publiés sous cette licence peuvent être librement
+importés dans &lt;a href=&#34;https://www.wikidata.org&#34;&gt;www.wikidata.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+Le Labo Société Numérique revient sur &lt;a href=&#34;https://labo.societenumerique.gouv.fr/2021/06/04/developpement-de-communs-numeriques-retours-dexperience-sur-3-projets-suivis-durant-nec-2020/&#34;&gt;le développement de communs
+numériques&lt;/a&gt; avec des retours d’expérience sur trois projets suivis
+durant NEC 2020 et publie un point sur &lt;a href=&#34;https://labo.societenumerique.gouv.fr/2021/04/26/strategie-communs-numerique-paris/&#34;&gt;les communs numériques en
+collectivité&lt;/a&gt;, en se penchant sur la stratégie de la DSI de la Ville de
+Paris.&lt;/p&gt;
+&lt;p&gt;
+En complément, vous pourrez lire une &lt;a href=&#34;https://autrementautrement.com/2021/04/16/mettre-fin-au-desencastrement-entre-numerique-et-politique-publique/&#34;&gt;interview de 
+Pierre-Louis Rolle&lt;/a&gt;, directeur du programme SoNum, qui revient sur
+l&amp;#39;importance des communs numériques.&lt;/p&gt;
+&lt;p&gt;
+L&amp;#39;Institut Géographique National a lancé une &lt;a href=&#34;https://www.ign.fr/participez-la-consultation-publique-sur-les-geo-communs&#34;&gt;concertation publique de
+l&amp;#39;IGN sur les géo-communs&lt;/a&gt;.  La &lt;a href=&#34;https://www.banquedesterritoires.fr/lign-consulte-sur-la-coproduction-de-donnees-geographiques&#34;&gt;banque des territoires&lt;/a&gt; s&amp;#39;en est fait
+l&amp;#39;écho, ainsi qu&amp;#39;&lt;a href=&#34;https://www.acteurspublics.fr/articles/lign-amorce-son-virage-vers-les-communs-numeriques&#34;&gt;acteurspublics.fr&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+Focus : Open Terms Archive
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+&lt;em&gt;Une présentation de Clément Biron, développeur dans l&amp;#39;équipe de l&amp;#39;Ambassadeur pour le numérique. Clément a présenté le projet OTA lors d&amp;#39;un &lt;a href=&#34;https://github.com/blue-hats/ateliers/blob/main/ateliers.org&#34;&gt;atelier BlueHats&lt;/a&gt; que vous pouvez &lt;a href=&#34;https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1620376802213&#34;&gt;revoir ici&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+Quel contrat ai-je accepté en utilisant un service numérique ? Les
+conditions ont-elles changé depuis que j’utilise ces services ? Dans
+quel sens évoluent-elles ? Sont-elles conformes aux discours de ces
+acteurs et aux lois qui encadrent leurs pratiques ?&lt;/p&gt;
+&lt;p&gt;
+L&amp;#39;équipe de l&amp;#39;Ambassadeur pour le numérique a développé un outil
+simple permet désormais de répondre à ces questions : &lt;a href=&#34;https://opentermsarchive.org/fr&#34;&gt;Open Terms
+Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+C&amp;#39;est un logiciel libre et collaboratif qui permet de suivre les
+évolutions des conditions générales des principaux fournisseurs de
+services en ligne en :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;enregistrant en temps réel chaque publication d&amp;#39;une nouvelle version des documents ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;affichant spécifiquement les changements appliqués aux documents ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;disposant d’un corpus documentaire de leur historique.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Open Terms Archive a vocation à s’enrichir et à devenir un Commun sur
+lequel il sera possible de bâtir de nombreux usages : outils pour la
+recherche en droit comparé, alertes ciblées, analyses linguistiques.
+Les contributeurs sont les bienvenus, pour soumettre de nouveaux
+services ou documents, améliorer le logiciel pour permettre une suivre
+un plus grand nombre de langues et de juridiction ou suggérer des
+modalités de valorisation des études de cas qui pourraient être
+menées.&lt;/p&gt;
+&lt;p&gt;
+A titre de premier usage, nous avons ainsi développé &lt;a href=&#34;https://disinfo.quaidorsay.fr/fr/open-terms-archive/scripta-manent?service=123Greetings&amp;amp;typeofdocument=Privacy+Policy&#34;&gt;Scripta Manent&lt;/a&gt;,
+un premier outil très simple qui, pour 367 contrats, permet de mesurer
+toutes les évolutions, ajouts ou suppressions, entre deux dates de
+votre choix.&lt;/p&gt;
+&lt;p&gt;
+Développer des outils ouverts et collaboratifs, au service de la
+transparence, s’inscrit dans deux des lignes de force de la diplomatie
+numérique française :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Incarner une souveraineté numérique européenne c’est-à-dire une réelle autonomie stratégique fondée sur une capacité d’action et de choix : il s’agit, à travers cet outil, de donner du pouvoir aux citoyens, entreprises et régulateurs pour décider librement de leurs pratiques et de leurs rapports vis-à-vis des acteurs numériques ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Construire un cadre de régulation du numérique fondé sur le dialogue multilatéral et multiacteurs : la création de biens communs à travers la formation d’alliances rassemblant tous les acteurs du numérique – Etats, société civile, acteurs privés – permet un dialogue continu et constructif autour des valeurs que nous souhaitons porter, et imposer, dans le monde numérique.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N’hésitez pas à nous contacter afin de :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;soumettre des services ou documents que vous souhaiteriez suivre. Pour rappel, vous pouvez également ajouter des documents en toute autonomie ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;suggérer des modalités de valorisation des études de cas qui pourraient être menées ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;poser toute question quant à l’utilisation de l’outil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N’hésitez pas non plus à vous approprier cette ressource pour vos
+propres projets, privés ou publics, y compris entrepreneuriaux.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+Le SILL et code.etalab.gouv.fr évoluent
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Sur le SILL, deux nouveaux filtres sont apparus, l&amp;#39;un pour trouver les
+solutions développées dans le cadre d&amp;#39;une mission de service public et
+l&amp;#39;autre pour trouver les solutions faisant partie du marché de support
+logiciels libres.  Un lien permet désormais de trouver une solution
+dans le nouveau &lt;a href=&#34;https://catalogue.numerique.gouv.fr/&#34;&gt;catalogue GouvTech&lt;/a&gt;, si elle y figure et vous pouvez
+désormais &lt;a href=&#34;https://www.mim-libre.fr/wp-content/uploads/2021/06/sill-2021.pdf&#34;&gt;télécharger le SILL en PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+Sur &lt;a href=&#34;https://code.etalab.gouv.fr&#34;&gt;code.etalab.gouv.fr&lt;/a&gt;, vous pouvez réduire la liste des dépôts à
+ceux qui sont hébergés dans une forge particulière et télécharger un
+fichier &lt;code class=&#34;verbatim&#34;&gt;csv&lt;/code&gt; ne contenant que les dépôts de la vue filtrée que vous
+avez définie.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-5&#34;&gt;
+Offres d&amp;#39;emploi
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Pour renforcer ses équipes dédiées au logiciel libre, Etalab (DINUM)
+recrute &lt;a href=&#34;https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-logiciels-libres-hf-reference-2021-635259/\]\&#34;&gt;https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-logiciels-libres-hf-reference-2021-635259/\]\&lt;/a&gt;[un ou une chargé(e) ou de valorisation logiciels libres]].&lt;/p&gt;
+&lt;p&gt;
+Tchap a rejoint beta.gouv.fr et recrute &lt;a href=&#34;https://beta.gouv.fr/recrutement/2021/06/15/charge.ou.chargee.de.deploiement.html&#34;&gt;un ou une chargé(e) de
+déploiement Tchap&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+Le Museum National d&amp;#39;Histoire Naturel galère encore à recruter &lt;a href=&#34;https://www.patrinat.fr/sites/patrinat/files/atoms/files/2021/05/developpeur_web_python_projet_open-source_sur_la_biodiversite.pdf&#34;&gt;un
+développeur GeoNature (PostgreSQL-Python-Angular)&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-6&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-6&#34;&gt;
+Événements
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-6&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Les 8 et 9 juin derniers se sont tenues les matinées de découverte
+d&amp;#39;&lt;a href=&#34;https://www.utilitr.org/conferences/decouverte-utilitr/&#34;&gt;utilitR&lt;/a&gt;, une communauté qui se forme autour du &lt;a href=&#34;https://fr.wikipedia.org/wiki/R_(langage)&#34;&gt;langage R&lt;/a&gt; et des
+outils qui gravitent autour.&lt;/p&gt;
+&lt;p&gt;
+Le 25 juin prochain aura lieu la 2ème partie de l&amp;#39;atelier BlueHats sur
+&lt;a href=&#34;https://github.com/blue-hats/ateliers/blob/main/ateliers.org#25-juin--quelles-motivations-pour-contribuer-%C3%A0-des-projets-open-source--suite&#34;&gt;les motivations pour contribuer à des projets open source&lt;/a&gt;, présenté
+par Nicolas Jullien.  Vous pouvez &lt;a href=&#34;https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1617958857944&#34;&gt;revoir la session précédente ici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+Les 9 et 10 novembre prochain aura lieu le salon &lt;a href=&#34;https://www.opensource-experience.com/&#34;&gt;Open Source
+Expérience&lt;/a&gt;, un moment de rencontre important pour tout le secteur du
+logiciel libre.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-7&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-7&#34;&gt;
+Revue de presse
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-7&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;div id=&#34;outline-container-headline-8&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-8&#34;&gt;
+Les suites de la circulaire sur la politique publique de la donnée
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-8&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/&#34;&gt;Politique de la donnée, des algorithmes et des codes sources : une circulaire du Premier ministre renouvelle l&amp;#39;ambition française&lt;/a&gt; (numerique.gouv.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.acteurspublics.fr/articles/une-nouvelle-circulaire-relance-la-dynamique-douverture-des-donnees-et-codes-sources&#34;&gt;Une nouvelle circulaire relance la dynamique d&amp;#39;ouverture des données et codes sources&lt;/a&gt; (acteurspublics.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cio-online.com/actualites/lire-une-circulaire-gouvernementale-precise-la-politique-publique-d-open-data-et-de-logiciel-libre-13154.html&#34;&gt;Une circulaire gouvernementale précise la politique publique d&amp;#39;open data et de logiciel libre&lt;/a&gt; (cio-online.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nextinpact.com/lebrief/46943/castex-signe-circulaire-pour-relancer-open-data-et-logiciels-libres&#34;&gt;Castex signe une circulaire pour relancer l&amp;#39;open data et les logiciels libres&lt;/a&gt; (nextinpact.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zdnet.fr/blogs/l-esprit-libre/circulaire-castex-creation-d-une-mission-logiciel-libre-et-communs-numeriques-a-la-dinum-39921871.htm&#34;&gt;Circulaire Castex: création d&amp;#39;une mission logiciel libre et communs numériques à la DINUM&lt;/a&gt; (zdnet.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lemondeinformatique.fr/actualites/lire-le-gouvernement-etoffe-sa-politique-publique-d-open-data-et-logiciel-libre-82773.html&#34;&gt;Le gouvernement étoffe sa politique publique d&amp;#39;open data et logiciel libre&lt;/a&gt; (lemondeinformatique.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lesechos.fr/tech-medias/hightech/la-france-a-la-relance-de-sa-politique-publique-de-la-donnee-1309868&#34;&gt;La France à la relance de sa politique publique de la donnée&lt;/a&gt; (lesechos.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-9&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-9&#34;&gt;
+La DINUM lance le catalogue GouvTech
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-9&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.numerique.gouv.fr/actualites/gouvtech-la-dinum-lance-un-catalogue-de-solutions-numeriques-utiles-aux-administrations/&#34;&gt;GouvTech : la DINUM lance un catalogue de solutions numériques utiles aux administrations&lt;/a&gt; (numerique.gouv.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cio-online.com/actualites/lire-sabine-guillaume-cdm-label-dinum--la-phase-un-du-catalogue-gouvtech-est-a-but-pedagogique-13203.html&#34;&gt;Sabine Guillaume (CdM Label, DINUM) : « la phase un du catalogue GouvTech est à but pédagogique »&lt;/a&gt; (cio-online.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usinenouvelle.com/editorial/exclusif-l-etat-lance-un-catalogue-d-outils-numeriques-pour-le-service-public-a-partir-des-solutions-d-entreprises-francaises.N1093204&#34;&gt;L&amp;#39;Etat lance un catalogue d&amp;#39;outils numériques pour le service public à partir des solutions d&amp;#39;entreprises françaises&lt;/a&gt; (usinenouvelle.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.archimag.com/demat-cloud/2021/05/18/la-dinum-partage-catalogue-gouvtech-en-faveur-administrations&#34;&gt;La DINUM partage son catalogue GouvTech en faveur des administrations&lt;/a&gt; (archimag.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lemondeinformatique.fr/actualites/lireamp-la-dinum-pousse-un-catalogue-d-applications-recommandees-82953.html&#34;&gt;La Dinum pousse un catalogue d&amp;#39;applications recommandées&lt;/a&gt; (lemondeinformatique.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-10&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-10&#34;&gt;
+Du côté du secteur public français
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-10&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ouvrirlascience.fr/en-route-vers-louverture-des-codes-de-la-recherche/&#34;&gt;Ouvrir la Science, en route vers l&amp;#39;ouverture des codes de la recherche&lt;/a&gt; (ouvrirlascience.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.journaldunet.com/ebusiness/le-net/1502513-laure-lucchesi-etalab/&#34;&gt;&amp;#34;Etalab doit contribuer à mettre à jour le logiciel de l&amp;#39;action publique&amp;#34;&lt;/a&gt; (journaldunet.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.recia.fr/2021/06/07/logiciels-libres-mutualisation-des-enjeux-forts-au-coeur-de-notre-groupement/&#34;&gt;Recia.  Logiciels libres, mutualisation : des enjeux forts, au cœur de notre groupement&lt;/a&gt; (recia.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://webinar.parsec.cloud/playback/presentation/2.0/playback.html?meetingId=100a6e6548ac7f217448041fbcc9a65efb5f32fd-1618400139812&#34;&gt;Replay de l&amp;#39;événement Hub Open Source / secteur public du 14 avril&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.numerama.com/tech/715233-pour-la-cnil-cest-clair-il-faut-lacher-les-google-docs-dans-lenseignement-superieur-et-la-recherche.html&#34;&gt;Pour la Cnil, c&amp;#39;est clair : il faut lâcher les Google Docs dans l&amp;#39;enseignement supérieur et la recherche&lt;/a&gt; (numerama.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnil.fr/fr/la-cnil-appelle-evolutions-dans-utilisation-outils-collaboratifs-etatsuniens-enseignement-superieur-recherche&#34;&gt;La CNIL appelle à des évolutions dans l&amp;#39;utilisation des outils collaboratifs étatsuniens pour l&amp;#39;enseignement supérieur et la recherche&lt;/a&gt; (cnil.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://reseau.supdpo.fr/2021/05/21/tribune-suite-a-lavis-de-la-cnil-du-15-04-2021-relatif-aux-suites-collaboratives-for-education/&#34;&gt;TRIBUNE – Suite à la réponse de la CNIL du 15/04/2021 à la demande de conseil de la CPU et la CGE relative à l&amp;#39;utilisation des suites collaboratives &amp;#34;For Education&amp;#34;&lt;/a&gt; (supdpo.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lemondeinformatique.fr/actualites/lire-atos-gagne-le-marche-interministeriel-du-support-des-logiciels-libres-82578.html&#34;&gt;Atos gagne le marché interministériel du support des logiciels libres&lt;/a&gt; (lemondeinformatique.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cnll.fr/news/atos-marche-interministeriel-support-logiciels-libres-avec-cnll/&#34;&gt;Atos remporte le marché interministériel de support des logiciels libres en collaboration avec le CNLL&lt;/a&gt; (cnll.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://itrnews.com/communiques-de-presse/45074/linagora-conforte-son-role-de-principal-fournisseur-de-letat-en-matiere-dexpertise-dans-le-domaine-des-logiciels-libres-pour-les-4-prochaines-annees&#34;&gt;Linagora conforte son rôle de principal fournisseur de l&amp;#39;État en matière d&amp;#39;expertise dans le domaine des Logiciels Libres pour les 4 prochaines années&lt;/a&gt; (itrnews.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lecese.fr/content/le-cese-a-adopte-lavis-pour-une-politique-de-souverainete-europeenne-du-numerique&#34;&gt;Le CESE a adopté l&amp;#39;avis &amp;#34;Pour une politique de souveraineté européenne du numérique&amp;#34;&lt;/a&gt; (lecese.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.silicon.fr/filiere-open-source-francaise-secteur-public-408916.html&#34;&gt;La filière open source française en attend plus du secteur public&lt;/a&gt; (silicon.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lemonde.fr/education/article/2021/06/02/les-promesses-en-suspens-du-numerique-educatif_6082517_1473685.html&#34;&gt;Les promesses en suspens du numérique éducatif&lt;/a&gt; (lemonde.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-11&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-11&#34;&gt;
+Du côté de la société civile
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-11&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cnll.fr/news/resultats-etude-filiere-open-source-france-2021/&#34;&gt;Résultats de l&amp;#39;enquête sur l&amp;#39;état des lieux de la filière open source en France 2020/2021&lt;/a&gt; (cnll.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.channelnews.fr/selon-le-conseil-national-du-logiciel-libre-letat-doit-mettre-en-oeuvre-une-veritable-politique-industrielle-en-faveur-de-la-filiere-103830&#34;&gt;Selon le Conseil National du Logiciel Libre, l&amp;#39;Etat doit mettre en œuvre une véritable politique industrielle en faveur de la filière&lt;/a&gt; (channelnews.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://classetice.fr/2020/12/21/sugarizer-la-premiere-plateforme-educative-pour-enfant/&#34;&gt;Sugarizer, la première plateforme éducative pour enfant&lt;/a&gt; (classetice.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/&#34;&gt;Oubliez Framaforms-le-logiciel, faites de la place à Yakforms !&lt;/a&gt; (framablog.org)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usine-digitale.fr/article/parasitisme-fondement-judiciaire-ideal-pour-sanctionner-l-utilisation-indue-d-un-logiciel-libre.N1089519&#34;&gt;Parasitisme : fondement judiciaire idéal pour sanctionner l&amp;#39;utilisation indue d&amp;#39;un logiciel libre?&lt;/a&gt; (usine-digitale.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-12&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-12&#34;&gt;
+En Europe et au-delà
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-12&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;L&amp;#39;Open Source Observatory publie les &lt;a href=&#34;https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities&#34;&gt;guidelines for creating sustainable open source communities&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dans le cadre de la conférence sur l&amp;#39;avenir de l&amp;#39;Europe, L&amp;#39;Union européenne consulte sur la &lt;a href=&#34;https://futureu.europa.eu/processes/Digital&#34;&gt;transformation numérique&lt;/a&gt;.  Certaines propositions font écho au logiciel libre : &lt;a href=&#34;https://futureu.europa.eu/processes/Digital/f/15/proposals/1791?locale=en&#34;&gt;Tax incentives for companies to switch to open source&lt;/a&gt;, &lt;a href=&#34;https://futureu.europa.eu/processes/Digital/f/15/proposals/1364?locale=en&#34;&gt;Universal income for open source maintainers&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.eclipse.org/post/gael-blondelle/you-can-help-us-make-gaia-x-more-open&#34;&gt;You can help us make GAIA-X more open&lt;/a&gt; (eclipse.org)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ddg.fr/actualite/licences-saas-la-tension-monte-entre-editeurs-americains-de-licences-saas-et-clients-europeens/&#34;&gt;Licences SaaS : la tension monte entre les éditeurs américains de licences SaaS et les clients européens&lt;/a&gt; (ddg.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://joinup.ec.europa.eu/collection/better-legislation-smoother-implementation/news/april-virtual-breakfast-multidisciplinary-teams-key-takeaways&#34;&gt;Key takeaways from the April virtual breakfast as part of the DigitAll conference&lt;/a&gt; (joinup.ec.europa.eu)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QgvossmO240&amp;amp;t=32s&#34;&gt;DigitALL Public Conference 2021 | DAY 2 | The Role Of Open Source In The Public Sector&lt;/a&gt; (youtube.com)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/&#34;&gt;The White House - Executive Order on Improving the Nation&amp;#39;s Cybersecurity&lt;/a&gt; (whitehouse.gov)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lemondeinformatique.fr/actualites/lire-l-universite-du-minnesota-interdite-de-contribution-au-noyau-linux-82727.html&#34;&gt;L&amp;#39;Université du Minnesota interdite de contribution au noyau Linux - Le Monde Informatique&lt;/a&gt; (lemondeinformatique.fr)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
     <item>
       <title>Gazette #BlueHats n°10</title>
       <link>https://disic.github.io/gazette-bluehats/gazette_bluehat_10/</link>
@@ -54,7 +465,7 @@ Rencontres Open Source &amp;amp; acteurs publics mardi 13 avril
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
 &lt;p&gt;
-Le &lt;a href=&#34;systematic-paris-region.org&#34;&gt;Pôle Systematic&lt;/a&gt; propose aux acteurs publics de rencontrer des
+Le &lt;a href=&#34;systematic-paris-region.html&#34;&gt;Pôle Systematic&lt;/a&gt; propose aux acteurs publics de rencontrer des
 offreurs de solutions Open Source sélectionnés pouvant répondre à
 leurs besoins IT lors de rendez-vous express en one-to-one ciblés 
 et programmés.&lt;/p&gt;
@@ -1892,12 +2303,14 @@ Revue de presse
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/bluehats/point-sur-le-socle-interministeriel-de-logiciels-libres&#34;&gt;Un point sur le Socle Interministériel des Logiciels Libres&lt;/a&gt;, par Bastien Guerry.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div id=&#34;outline-container-headline-9&#34; class=&#34;outline-3&#34;&gt;
 &lt;h3 id=&#34;headline-9&#34;&gt;
 À l’international
 &lt;/h3&gt;
-&lt;/div&gt;
-&lt;/li&gt;
+&lt;div id=&#34;outline-text-headline-9&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://opengov.ellak.gr/2019/10/24/o-pigeos-kodikas-tou-logismikou-tis-gallikis-dimosias-diikisis-se-ena-apothetirio-anichtou-kodika/&#34;&gt;Ο πηγαίος κώδικας του λογισμικού της Γαλλικής Δημόσιας Διοίκησης σε ένα αποθετήριο ανοιχτού κώδικα&lt;/a&gt; (« Les codes sources des logiciels de l’administration publique française dans un référentiel »)&lt;/p&gt;
 &lt;/li&gt;
@@ -1911,6 +2324,8 @@ Revue de presse
 &lt;p&gt;&lt;a href=&#34;https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/etalab-open-source-repository&#34;&gt;New platform listing the source codes of software used by French public administrations&lt;/a&gt; (« Une nouvelle plateforme pour lister les codes sources de l’administration française »)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>

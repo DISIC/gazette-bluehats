@@ -174,7 +174,7 @@ avez définie.
 * Offres d'emploi
 
 Pour renforcer ses équipes dédiées au logiciel libre, Etalab (DINUM)
-recrute [[https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-logiciels-libres-hf-reference-2021-635259/\]\]][un ou une chargé(e) ou de valorisation logiciels libres]].
+recrute [[https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-logiciels-libres-hf-reference-2021-635259/][un ou une chargé(e) ou de valorisation logiciels libres]].
 
 Tchap a rejoint beta.gouv.fr et recrute [[https://beta.gouv.fr/recrutement/2021/06/15/charge.ou.chargee.de.deploiement.html][un ou une chargé(e) de
 déploiement]] ainsi qu'un(e) [[https://beta.gouv.fr/recrutement/2021/06/15/tchap-devops.html][sysadmin]].

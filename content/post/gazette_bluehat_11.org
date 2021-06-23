@@ -177,10 +177,10 @@ Pour renforcer ses équipes dédiées au logiciel libre, Etalab (DINUM)
 recrute [[https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-logiciels-libres-hf-reference-2021-635259/\]\]][un ou une chargé(e) ou de valorisation logiciels libres]].
 
 Tchap a rejoint beta.gouv.fr et recrute [[https://beta.gouv.fr/recrutement/2021/06/15/charge.ou.chargee.de.deploiement.html][un ou une chargé(e) de
-déploiement Tchap]].
+déploiement]] ainsi qu'un(e) [[https://beta.gouv.fr/recrutement/2021/06/15/tchap-devops.html][sysadmin]].
 
-Le Museum National d'Histoire Naturel galère encore à recruter [[https://www.patrinat.fr/sites/patrinat/files/atoms/files/2021/05/developpeur_web_python_projet_open-source_sur_la_biodiversite.pdf][un
-développeur GeoNature (PostgreSQL-Python-Angular)]].
+Le Museum National d'Histoire Naturel recrute [[https://www.patrinat.fr/sites/patrinat/files/atoms/files/2021/05/developpeur_web_python_projet_open-source_sur_la_biodiversite.pdf][un développeur GeoNature
+(PostgreSQL-Python-Angular)]].
 
 * Événements
 

@@ -1,12 +1,8 @@
-to_sort/
-public/
 *odt
 *pdf
 *txt
 wip/
 public/
+docs/
 content/post/*html
 content/post/*css
-docs/post/*html
-docs/post/*css
-peut-etre.org

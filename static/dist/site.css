@@ -1,6 +1,7 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html { line-height: 1.15; -webkit-text-size-adjust: 100%; }
-body { margin: 0; }
+html, body { height: 100%; }
+body { margin: 0; background: #fefefe; color: #424242; font-family: "Open Sans", arial, sans-serif; font-size: 18px; }
 main { display: block; }
 h1 { font-size: 2em; margin: .67em 0; }
 hr { box-sizing: content-box; height: 0; overflow: visible; }
@@ -36,8 +37,6 @@ details { display: block; }
 summary { display: list-item; }
 template { display: none; }
 [hidden] { display: none; }
-html, body { height: 100%; }
-body { background: #fefefe; color: #424242; font-family: "Open Sans", arial, sans-serif; font-size: 18px; }
 h1, h2, h3, h4, h5, h6 { margin-bottom: 20px; text-transform: none; }
 h1 { font-size: 26px; }
 h2 { font-size: 24px; }
@@ -45,9 +44,9 @@ h3 { font-size: 20px; margin-bottom: 20px; }
 h4 { font-size: 18px; margin-bottom: 18px; }
 h5 { font-size: 16px; margin-bottom: 15px; }
 h6 { font-size: 14px; margin-bottom: 12px; }
-p { line-height: 1.8; margin: 0 0 30px; }
+p { line-height: 1.5; margin: 0 0 16px; }
 a { color: #1E90FF; text-decoration: none; }
-ul, ol { line-height: 1.4; margin: 0 0 20px; }
+ul, ol { line-height: 1.4; margin: 0 0 10px; }
 ul ul, ul ol, ol ul, ol ol { margin: 10px 0 0 20px; }
 ul li, ol li { margin: 0 0 2px; }
 ul li:last-of-type, ol li:last-of-type { margin-bottom: 0; }

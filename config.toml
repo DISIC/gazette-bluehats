@@ -47,3 +47,12 @@ publishDir = "docs"
     name = "À propos"
     url = "/a-propos/"
     weight = 1
+
+[minify]
+    disableCSS = false
+    disableHTML = false
+    disableJS = false
+    disableJSON = false
+    disableSVG = false
+    disableXML = false
+    minifyOutput = true

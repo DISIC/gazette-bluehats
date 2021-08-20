@@ -2,7 +2,7 @@
 #+date: 2021-08-20
 #+author: DINUM
 #+layout: post
-#+draft: false
+#+draft: true
 #+options: toc:nil num:nil H:4 ^:nil pri:t html-postamble:nil html-preamble:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="style.css" />
 

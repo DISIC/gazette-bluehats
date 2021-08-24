@@ -72,7 +72,7 @@ suggestions possibles d'améliorations.
 
 * De-ci de-là
 
-- [[https://visio.incubateur.net/b/bas-vwv-2ww][Les vidéos des sessions des ateliers BlueHats sont publiques]]
+- [[https://www.dailymotion.com/playlist/x767bq][Les vidéos des sessions des ateliers BlueHats sont publiques]]
 - [[https://danescenari.edu.ac-lyon.fr/sc/pub/Visios_BBB_web/co/module_Visios_BBB.html][Présentation de la solution de visioconférence de l'Éducation Nationale]]
 - [[https://twitter.com/jbuget/status/1366128542241730572][Le moteur open source de pix.fr réutilisé pour ecriplus.fr]]
 

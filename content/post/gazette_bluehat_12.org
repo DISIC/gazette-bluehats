@@ -19,4 +19,159 @@ Pour accéder à la version en ligne, [[https://disic.github.io/gazette-bluehats
 -----
 #+end_center
 
-Test.
+* Annonces et événements
+
+- Matomocamp : on travaille depuis plusieurs mois sur la création du
+  premier MatomoCamp, c'est un gros projet, une équipe multi-culturel
+  (France, Allemagne, Autriche, Pays-Bas-Suède), des supports de poids
+  (Matomo, Empreinte Digitale) pour créer un événement 100% en ligne
+  en utilisant uniquement de la brique libre. Pour le moment,
+  l'événement n'est pas encore annoncé pour une date précise car on ne
+  connait pas les attentes du public, donc on a lancé un sondage pour
+  connaitre les attentes:
+
+- https://survey.matomocamp.org/index.php/831819?lang=en
+- Site officiel: https://matomocamp.org
+- Annonce officiel par Matomo ce jour:
+  https://matomo.org/blog/2021/06/introducing-matomocamp-a-matomo-community-event/
+
+
+- 9 septembre 2021 : intervention de la DGFiP à la journée annuelle
+  open source du CRIP [description demandée à l'intervenant]: DGFiP
+  (Direction Générale des Finances Publiques) - Lac de données et
+  distribution Hadoop -- Suite au rachat d'Hortonworks par Cloudera :
+  motivations et démarche de la DGFIP (par Su YANG, Responsable du
+  pôle données DGFIP)
+
+- Save the date pour journée BlueHats du 9 novembre
+
+- Save the date pour annonce ministre plan d'action logiciels libres
+
+- Save the date pour séminaire FLOSS/ESR du GPLO du CoSO
+
+- Annonce du prix OSS de la recherche PNSO2
+
+- Annonce du lancement de BlueHats Summer of Code
+
+- Rencontre Geotrek 14 et 15 octobre
+
+- B-Boost
+
+* Focus sur DGFiP / Cloudera
+
+Le « Pôle de données » de la DGFIP, créé depuis janvier 2021, a pour
+ambition d'industrialiser la valorisation des données. Pour ce faire
+il est organisé en quatre verticales d'activités principalement: il
+met en place un lac de données avec des données métiers provenant de
+différents silos et qui s'appuie sur une distribution Hadoop : la
+distribution Hortonworks 3.1.4, elle est en production depuis mars
+2021; il accompagne et participe à des projets data (datascience/
+dataviz...) et anime les profils données qui y contribuent ; il met en
+place la gouvernance des données qui contribue à la connaissance et la
+qualité des données et la conformité réglementaire des projets
+associés; et il gère l'échange des données via des APIs (internes ou
+externes) ou en Open Data.
+
+Le rachat par Cloudera de la distribution libre Hortonworks, et par la
+suite l'annonce de la fin de l'évolution de la solution Open Source font
+émerger un choix, entre :
+
+- acheter une solution Cloudera au prix élevé, potentiellement en
+  millions d'euros annuels.
+
+- ou bien développer sa propre solution libre en s'associant à
+  d'autres acteurs.
+
+C'est cette dernière option qui a été retenue par la DGFIP, qui, pour ce
+faire, a recruté des spécialistes pointus. Cette démarche s'effectue en
+commun avec d'autres grands groupes et les 2 premiers lots prévus pour
+T4 2021 et T1 2022 permettront un premier niveau d'indépendance.
+
+Ce retour d'expérience répond notamment aux questions concernant le
+besoin à couvrir, les raisons du choix de développer une solution
+propre, le soutien de l'éco-système Open source, les avantages de la
+solution retenue en fonction des critères de la DGFIP...
+
+* Focus Trombi, un trombinoscope simple connecté à un LDAP
+
+Théo Lechémia, développeur au Parc national des Écrins, a réalisé une
+petite application web en Python + VueJS qui permet de mettre en place
+facilement un trombinoscope basé sur un LDAP.  L'application est
+générique et publiée sous licence libre.
+
+- Elle doit être connectée à un serveur LDAP pour lister les
+  utilisateurs, leur description, leur service, leurs téléphones et
+  leur email
+
+- Elle permet aussi d'afficher l'agenda de chaque utilisateur en se
+  connectant à un agenda compatible iCalendar/CALDAV.
+
+- Les photos de chaque utilisateur ne sont pas stockées dans l'AD,
+  mais dans les répertoires de l'application.
+
+- Par défaut, tous les utilisateurs peuvent ajouter ou modifier la
+  photo d'un utilisateur directement depuis sa fiche, pour faciliter
+  l'administration de l'outil.
+
+Détails, documentation et code source disponibles sur
+https://github.com/PnEcrins/Trombi.
+
+* Offres d'emploi
+
+- La Fabrique des mobilités recrute une ou un développeur front sur le
+  sujet du Coach CO2. Il s'agit de construire un logiciel libre qui
+  complétera le logiciel Tracemob pour en visualiser les données sous
+  l'angle de l'empreinte climat de notre mobilité. Tout le code sera
+  libre.
+ 
+- Plus d'infos ici : https://pad.fabmob.io/fiche-poste-coach-co2
+
+- https://beta.gouv.fr/recrutement/2021/07/28/dev-archifiltre.html​
+
+* Revue de presse
+
+** France
+
+- [[https://april.org/111-matomo][Emission libre à vous de l'April sur Matomo]]
+- [[https://www.numerique.gouv.fr/outils-agents/webinaire-etat/][Webinaire de l'État]]
+- [[https://www.tresor.economie.gouv.fr/Articles/2021/06/30/tresthor-le-nouvel-outil-de-la-dg-tresor-pour-realiser-des-previsions-macroeconomiques][tresthor: le nouvel outil de la DG Trésor pour réaliser des
+  prévisions macroéconomiques]]
+- [[https://www.zdnet.fr/blogs/l-esprit-libre/administration-un-rapport-parlementaire-prone-le-recours-systematique-au-logiciel-libre-39926175.htm][Administration: un rapport parlementaire prône le recours
+  systématique au logiciel libre]]
+- [[https://www.banquedesterritoires.fr/souverainete-numerique-des-administrations-invitees-lexemplarite][Banque des territoires. Souveraineté numérique : des administrations
+  invitées à l'exemplarité]]
+- [[https://cnll.fr/news/mission-parlementaire-souverainete-numerique/][Le CNLL salue les propositions de la mission parlementaire sur la
+  souveraineté numérique]]
+- [[https://www.acteurspublics.fr/articles/les-propositions-cles-de-la-mission-sur-la-souverainete-numerique-de-la-france][Acteurs publics. Les propositions clés de la mission sur la
+  souveraineté numérique de la France]]
+- [[https://www.acteurspublics.fr/articles/le-gouvernement-degaine-un-nouveau-plan-daction-pour-la-science-ouverte][Acteurs publics. Le gouvernement dégaine un nouveau plan d'action
+  pour la science ouverte]]
+- [[https://www.zdnet.fr/actualites/le-rgpd-et-l-education-nationale-un-vaste-chantier-inacheve-39914007.htm][ZD Net. Le RGPD et l'Education nationale, un vaste chantier inachevé]]
+- [[https://www.zdnet.fr/blogs/l-esprit-libre/administration-un-rapport-parlementaire-prone-le-recours-systematique-au-logiciel-libre-39926175.htm][ZD Net. Administration: un rapport parlementaire prône le recours
+  systématique au logiciel libre]] ## Europe
+- [[https://www.euclidia.eu/publications/EUCLIDIA-Press.Release.Launch.Announcement][23 European Cloud Technology Companies form the European Cloud
+  Industrial Alliance (EUCLIDIA)]]
+- [[https://openuk.uk/stateofopen/][OpenUK Report. State of Open: The UK in 2021]]
+
+** International
+
+- [[https://public.digital/2021/06/21/open-source-in-government-creating-the-conditions-for-success][Open source in government: creating the conditions for success]]
+- [[https://techcrunch.com/2021/03/03/1-3m-in-grants-go-towards-making-the-webs-open-source-infrastructure-more-equitable/][$1.3M in grants go toward making the web's open-source
+  infrastructure more equitable]]
+- [[https://www.fordfoundation.org/the-latest/news/major-philanthropies-tackle-inequality-by-strengthening-how-open-source-code-is-developed-and-maintained/][Ford foundation. Major Philanthropies Tackle Inequality by
+  Strengthening How Open Source Code is Developed and Maintained]]
+
+** Opinion
+
+- [[https://journals.openedition.org/terminal/7793][Communs numériques : une nouvelle forme d'action collective ? Revue
+  Terminal -- parution juin 2021]]
+- https://twitter.com/eevee/status/1410037309848752128
+- [[https://actu.ionis-group.com/henri-verdier/][Ionismag. Henri
+  Verdier: « Si les GAFAM font partie du problème, ils doivent faire
+  partie de la solution »]]
+- [[http://florian.lainez.fr/2021/05/12/openstreetmap-nest-pas-une-communaute-cest-un-mouvement-politique/][Blog de Florian Lainez. OpenStreetMap n'est pas une communauté,
+  c'est un mouvement politique]]
+- [[https://hal.archives-ouvertes.fr/hal-03177060/][Framasoft : de la plateforme à l'archipel]]
+- [[https://www.april.org/rapport-latombe-systematiser-le-recours-au-logiciel-libre-dans-les-administrations-un-enjeu-de-souve][April.  Rapport Latombe : systématiser le recours au logiciel libre
+  dans les administrations, un enjeu de souveraineté numérique]]
+

@@ -108,7 +108,7 @@ l'écho, ainsi qu'[[https://www.acteurspublics.fr/articles/lign-amorce-son-virag
 
 * Focus : Open Terms Archive
 
-/Une présentation de Clément Biron, développeur dans l'équipe de l'Ambassadeur pour le numérique. Clément a présenté le projet OTA lors d'un [[https://github.com/blue-hats/ateliers/blob/main/ateliers.org][atelier BlueHats]] que vous pouvez [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1620376802213][revoir ici]]./
+/Une présentation de Clément Biron, développeur dans l'équipe de l'Ambassadeur pour le numérique. Clément a présenté le projet OTA lors d'un [[https://github.com/blue-hats/ateliers/blob/main/ateliers.org][atelier BlueHats]] que vous pouvez [[https://www.dailymotion.com/video/x82vcue][revoir ici]]./
 
 Quel contrat ai-je accepté en utilisant un service numérique ? Les
 conditions ont-elles changé depuis que j’utilise ces services ? Dans
@@ -190,7 +190,7 @@ outils qui gravitent autour.
 
 Le 25 juin prochain aura lieu la 2ème partie de l'atelier BlueHats sur
 [[https://github.com/blue-hats/ateliers/blob/main/ateliers.org#25-juin--quelles-motivations-pour-contribuer-%C3%A0-des-projets-open-source--suite][les motivations pour contribuer à des projets open source]], présenté
-par Nicolas Jullien.  Vous pouvez [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1617958857944][revoir la session précédente ici]].
+par Nicolas Jullien.  Vous pouvez [[https://www.dailymotion.com/video/x8314eo][revoir la session précédente ici]].
 
 Les 9 et 10 novembre prochain aura lieu le salon [[https://www.opensource-experience.com/][Open Source
 Expérience]], un moment de rencontre important pour tout le secteur du

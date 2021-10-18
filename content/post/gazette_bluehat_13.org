@@ -37,7 +37,7 @@ Si vous êtes agent public, nous vous invitons à intervenir et à nous
 proposer des sujets de présentations courtes à l'adresse
 logiciels-libres@data.gouv.fr.
 
-=>>= [[https://www.numerique.gouv.fr/agenda/journee-bluehats-lors-du-salon-open-source-experience/][Retrouvez toutes les informations de l'événement ici]].
+=>>= [[https://www.numerique.gouv.fr/agenda/journee-bluehats-lors-du-salon-open-source-experience/][Toutes les informations sur la journée #BlueHats]].
 
 ** Une idée d'un logiciel libre à faire évoluer ? Etalab lance le BlueHats Semester of Code
 
@@ -50,11 +50,9 @@ d'un logiciel libre créé ou utilisé par une administration. Cette
 contribution découlera des idées d'évolution soumises par les agents
 publics.
 
-L'appel à idées a déjà démarré, alors si vous êtes intéressé,
-[[https://www.etalab.gouv.fr/etalab-et-centralesupelec-lancent-le-bluehats-semester-of-code][retrouvez toutes les informations et le formulaire de dépôt d'idée
-ici.]] 
+L'appel à idées a déjà démarré, on compte sur vous !
 
-On compte sur vous !
+=>>= [[https://www.etalab.gouv.fr/etalab-et-centralesupelec-lancent-le-bluehats-semester-of-code][Toutes les informations et le formulaire de dépôt d'idées]]
 
 ** Atelier #BlueHats du 22 octobre : les outils développés par le médialab de Sciences Po
 
@@ -114,7 +112,7 @@ tests du RGAA avec leur méthodologie.
 Il est disponible au téléchargement dans les magasins d'extensions de
 [[https://addons.mozilla.org/fr/firefox/addon/assistant-rgaa/][Firefox]] et de [[https://chrome.google.com/webstore/detail/assistant-rgaa/cgpmofepeeiaaljkcclfldhaalfpcand?hl=fr][Chrome]] :
 
-=>>= Pour en savoir plus, consultez [[https://design.numerique.gouv.fr/articles/2021-10-06-assistant-rgaa/][l'article suivant]].
+=>>= Pour en savoir plus, consultez [[https://design.numerique.gouv.fr/articles/2021-10-06-assistant-rgaa/][l'article suivant]]
 
 ** Les contributions du mois
 

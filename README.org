@@ -8,9 +8,7 @@ Voir l'article de lancement sur [[https://www.numerique.gouv.fr/actualites/la-co
 
 * Contribuez !
 
-Vous pouvez [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-evenement.md&title=%C3%89v%C3%A9nement+%3A+][annoncer un événement]], envoyer le [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=cr-evenement.md&title=Compte-rendu+%3A+][compte-rendu d'un événement]], faire une [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-logiciel.md&title=Logiciel+%3A+][annonce sur un logiciel libre]] particulier ou proposer un [[https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=temoignage.md&title=T%C3%A9moignage+%3A+][témoignage]].
-
-Pour toute autre suggestion de contenu, écrivez à =bluehats@etalab.gouv.fr=.
+Pour toute autre suggestion de contenu, écrivez-nous à =logiciels-libres@data.gouv.fr=.
 
 * Numéros précédents
 

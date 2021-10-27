@@ -9,9 +9,7 @@ Voir l'article de lancement sur [numerique.gouv.fr](https://www.numerique.gouv.f
 
 # Contribuez !
 
-Vous pouvez [annoncer un événement](https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-evenement.md&title=%C3%89v%C3%A9nement+%3A+), envoyer le [compte-rendu d'un événement](https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=cr-evenement.md&title=Compte-rendu+%3A+), faire une [annonce sur un logiciel libre](https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=annonce-logiciel.md&title=Logiciel+%3A+) particulier ou proposer un [témoignage](https://github.com/DISIC/gazette-bluehats/issues/new?assignees=bzg&labels=&template=temoignage.md&title=T%C3%A9moignage+%3A+).
-
-Pour toute autre suggestion de contenu, écrivez à `bluehats@etalab.gouv.fr`.
+Pour toute autre suggestion de contenu, écrivez-nous à `logiciels-libres@data.gouv.fr`.
 
 
 # Numéros précédents

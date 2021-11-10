@@ -1,5 +1,9 @@
 La gazette `#BlueHats` est la contribution de la DINUM au mouvement blue hats : elle propose tous les deux mois des informations sur le logiciel libre dans et pour l'administration.
 
+**Ce dépôt est archivé depuis le 10 novembre 2021.**
+
+Les gazettes BlueHats sont désormais publiées sur [communs.numerique.gouv.fr/gazette/](https://communs.numerique.gouv.fr/gazette/).
+
 ![img](static/img/bluehats.jpg)
 
 Pour vous y inscrire : <https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio>

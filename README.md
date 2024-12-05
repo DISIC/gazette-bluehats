@@ -6,7 +6,7 @@ Les gazettes BlueHats sont désormais publiées sur [communs.numerique.gouv.fr/g
 
 ![img](static/img/bluehats.jpg)
 
-Pour vous y inscrire : <https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio>
+<!-- Pour vous y inscrire : <https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio> -->
 
 Voir l'article de lancement sur [numerique.gouv.fr](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/).
 
@@ -44,4 +44,3 @@ L'inscription à la gazette #BlueHats est libre.  L'adresse email partagée à l
 
 La gazette #BlueHats est une publication DINUM, 20 avenue de Ségur,
 75019, publié sous [licence Ouverte 2.0](LICENSE.txt).
-
